@@ -11,7 +11,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 Bu otomasyonda işlenenler: 1904 olimpiyat maratonu (önizleme, 7 Kasım 2026)
 
 ## 1. Tuhaf Savaşlar ve Askerler
-- [ ] Hiroo Onoda: savaş bittiği halde 29 yıl ormanda savaşmaya devam eden asker
+- [x] Hiroo Onoda: savaş bittiği halde 29 yıl ormanda savaşmaya devam eden asker
 - [ ] Domuz Savaşı (1859): bir domuz yüzünden ABD ile İngiltere'nin karşı karşıya gelmesi
 - [ ] Kova Savaşı (1325): Modena ile Bologna'nın çalınan tahta kova yüzünden savaşı
 - [ ] Futbol Savaşı (1969): El Salvador–Honduras maçlarının ardından çıkan savaş
