@@ -1,103 +1,143 @@
-# Tuhaf Tarih – konu havuzu
+# Belgesellerim – konu havuzu (savaş ağırlıklı)
 
-Kural: Her konu yalnızca 1 kez işlenir. İşlenen konu `gunluk.md`'ye yazılır ve buradaki satırın başına `[x]` konur.
-Seri sırası: aynı seri art arda 2 gün gelmez; 7 günde bir seriden en fazla 2 video.
-Her olgu **iki bağımsız güvenilir kaynakla** doğrulanır (ansiklopedi, müze, üniversite, büyük yayın kuruluşu). Doğrulanamayan ayrıntı metne girmez.
-"Efsane mi gerçek mi" konularında efsaneyi gerçek gibi anlatma; bunu açılış sorusu yap.
-Havuz azalınca (20'nin altına düşünce) görev, aynı ölçütlerle 15 yeni konu ekler ve raporda bildirir.
+Kanal konumu (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** + daha az sıklıkla diğer tuhaf tarih konuları.
+Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2.
+Her konu yalnızca 1 kez işlenir: işlenince satır başı `[x] YYYY-AA-GG` yapılır.
+Her olgu **iki bağımsız güvenilir kaynakla** doğrulanır. Efsaneyi gerçek gibi anlatma; "efsane mi gerçek mi" açısını kullan. Vahşet/kan ayrıntısı YOK (reklam uygunluğu ve saygı): anlatı "tuhaflık ve şaşkınlık" üzerine kurulur.
+Havuzda 25'ten az boş konu kalınca görev, aynı kurallarla ve SEO araştırmasıyla 15 yeni konu ekler, raporda bildirir.
+
+## SEO bulguları (YouTube arama önerileri, TR, 7 Kasım 2026)
+- İnsanlar **tanınmış isim + "neden" sorusu** ile arıyor: "hitler neden isviçreye saldırmadı", "hitler neden türkiye'ye saldırmadı", "napolyon neden korktu", "napolyon piramitlerde ne gördü", "viyana kuşatması neden başarısız oldu", "roma imparatorluğu neden ikiye ayrıldı", "cengiz han'ın mezarı".
+- Doğrudan tutan ifadeler: "tarihin en kısa savaşı", "30 yıl teslim olmayan asker", "japon askeri 27 yıl", "dünyanın en garip silahları", "osmanlı'da yaşanmış ilginç olaylar", "osmanlı padişahları ilginç hikayeleri", "kanuni sultan süleyman fransa kralına mektup", "yavuz sultan selim mektup", "normandiya çıkarması gerçek görüntüler", "inanılmaz gerçek hikayeler", "bilinmeyen hitler".
+- Başlık formülleri (dönüşümlü): "<Ünlü isim> Neden <şaşırtıcı soru>?" · "<Aranan ifade>: <tuhaf ayrıntı>" · "<Sayı> Yıl/Dakika/Kişi … " · "Herkes X Sanıyor Ama …".
+- Her yeni konuda görev, youtube.com'da (uygulama içi tarayıcı) suggestqueries ile o konunun önerilerine bakar (PIPELINE 1) ve başlığı en çok aranan ifadeyle kurar.
+
+## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
+- 2026-11-08: Fahrettin Paşa – savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı" (seri G)
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam (Victor Lustig) · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık
-Bu otomasyonda işlenenler: 1904 olimpiyat maratonu (önizleme, 7 Kasım 2026)
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda
 
-## 1. Tuhaf Savaşlar ve Askerler
-- [x] Hiroo Onoda: savaş bittiği halde 29 yıl ormanda savaşmaya devam eden asker
-- [ ] Domuz Savaşı (1859): bir domuz yüzünden ABD ile İngiltere'nin karşı karşıya gelmesi
-- [ ] Kova Savaşı (1325): Modena ile Bologna'nın çalınan tahta kova yüzünden savaşı
-- [ ] Futbol Savaşı (1969): El Salvador–Honduras maçlarının ardından çıkan savaş
-- [ ] Hayalet Ordu: II. Dünya Savaşı'nda şişme tanklar ve sahte seslerle düşmanı kandıran birlik
+---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
+
+## A. Teslim Olmayanlar ve Kayıp Askerler
+- [x] 2026-11-07 Hiroo Onoda (29 yıl) — "30 yıl teslim olmayan asker"
+- [ ] Shoichi Yokoi: Guam ormanında 28 yıl saklanan Japon er (1972) — "japon askeri 27 yıl"
+- [ ] Teruo Nakamura: Onoda'dan sonra bulunan son Japon askeri (Morotai, Aralık 1974)
+- [ ] Kayıp Tabur (1918, Argonne): kuşatılan Amerikan taburu ve son güvercin
+- [ ] Norfolk Alayı'nın kayboluşu (Gelibolu 1915): "bulut efsanesi" ve gerçekte ne oldu — "çanakkale savaşı bilinmeyen"
 - [ ] Liechtenstein 1866: 80 kişi savaşa gitti, 81 kişi döndü
-- [ ] Yarasa bombası projesi: ABD'nin yarasalara yangın bombası bağlama planı
-- [ ] Güvercin Projesi: B. F. Skinner'ın güvercinlerle füze yönlendirme denemesi
-- [ ] Çavuş Stubby: Birinci Dünya Savaşı'nda rütbe alan köpek
-- [ ] Cher Ami: 194 askeri kurtaran yaralı posta güvercini
-- [ ] Karánsebes 1788: kendi kendisiyle savaşan ordu (efsane mi gerçek mi; kaynaklar tartışmalı, öyle anlat)
+- [ ] Roma'nın kayıp lejyonu: IX. Lejyon (Hispana) efsanesi ve kanıtlar
 
-## 2. Kazara ve Ters Giden İcatlar
-- [ ] Mikrodalga fırın: cebindeki çikolatanın eridiğini fark eden mühendis
-- [ ] Penisilin: tatilden dönünce küflenmiş tabağı fark eden Fleming
-- [ ] Post-it: başarısız bir yapıştırıcının dünyayı fethetmesi
-- [ ] Slinky: bir gemi yayının oyuncağa dönüşmesi
-- [ ] Play-Doh: aslında duvar kâğıdı temizleyicisiydi
-- [ ] Ketçap: 1830'larda ilaç olarak satılıyordu
-- [ ] Teflon: soğutucu gaz denerken bulunan kaygan madde
+## B. Savaşan Hayvanlar
+- [ ] Çavuş Stubby: rütbe alan sokak köpeği (I. Dünya Savaşı)
+- [ ] Cher Ami: tek bacaklı kahraman güvercin
+- [ ] Simon: madalya alan gemi kedisi (1949)
+- [ ] Hannibal'in filleri Alpleri nasıl aştı?
+- [ ] Savaş domuzları: antik çağda fillere karşı kullanılan domuzlar (kaynak: Plinius, Aelianus; dikkatli anlat)
+- [ ] ABD Donanması'nın mayın arayan yunusları ve fokları
+- [ ] Akustik Kedi: CIA'in kediyi dinleme cihazına çevirme projesi
+- [ ] Sovyet tank karşıtı köpekleri (vahşet ayrıntısı yok, programın neden başarısız olduğu)
+
+## C. Tarihin En Tuhaf Savaşları
+- [ ] Domuz Savaşı (1859): bir domuz yüzünden ABD ile İngiltere karşı karşıya
+- [ ] Kova Savaşı (1325): çalınan tahta kova yüzünden savaş
+- [ ] Futbol Savaşı (1969): El Salvador–Honduras
+- [ ] Başıboş Köpek Savaşı (1925): bir köpek yüzünden Yunanistan–Bulgaristan çatışması
+- [ ] Jenkins'in Kulağı Savaşı (1739): kesilen bir kulak yüzünden çıkan savaş
+- [ ] Pasta Savaşı (1838): Fransa–Meksika, bir pastacının alacağı
+- [ ] 1914 Noel Ateşkesi: cephede futbol oynayan askerler
+- [ ] Karánsebes 1788: kendi kendisiyle savaşan ordu (efsane mi gerçek mi)
+- [ ] 335 yıl süren savaş efsanesi: Hollanda ile Scilly Adaları (efsane mi gerçek mi)
+
+## D. Aldatma, Casusluk ve Gizli Operasyonlar
+- [ ] Mincemeat Operasyonu: bir cesetle Hitler'i kandıran plan
+- [ ] Hayalet Ordu: şişme tanklar ve sahte seslerle kandıran birlik
+- [ ] Garbo: 27 hayali ajan uyduran çift ajan Juan Pujol
+- [ ] Sahte Paris: I. Dünya Savaşı'nda bombardıman uçaklarını kandırmak için kurulan ikinci Paris
+- [ ] Enigma nasıl kırıldı? Polonyalı matematikçilerin unutulan rolü
+- [ ] Truva Atı: efsane mi gerçek mi?
+- [ ] Mata Hari: casus muydu, günah keçisi mi?
+- [ ] Nusret mayın gemisi: Çanakkale'nin kaderini değiştiren gece — "çanakkale savaşı"
+
+## E. Garip Silahlar ve Çılgın Projeler
+- [ ] Panjandrum: İngilizlerin yuvarlanan bombası — "dünyanın en garip silahları"
+- [ ] Habakkuk Projesi: buzdan uçak gemisi
+- [ ] Schwerer Gustav: tarihin en büyük topu
+- [ ] Fu-Go: Japonya'nın Amerika'ya gönderdiği balon bombalar
+- [ ] Yarasa bombası projesi
+- [ ] Güvercin Projesi: güvercinle yönlendirilen füze (B. F. Skinner)
+- [ ] Antonov A-40: Sovyetlerin uçan tankı
+- [ ] Çar Bombası: tarihin en güçlü patlaması (1961)
+- [ ] Starfish Prime: uzayda patlatılan nükleer bomba
+
+## F. Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler
+- [ ] Tsutomu Yamaguchi: iki atom bombasından da sağ çıkan adam — "atom bombası hiroşima"
+- [ ] "Deli" Jack Churchill: II. Dünya Savaşı'nda kılıç ve gaydayla savaşan subay
+- [ ] Adrian Carton de Wiart: "ölmeyen" general
+- [ ] Simo Häyhä: "Beyaz Ölüm" ve Kış Savaşı (vahşet ayrıntısı yok)
+- [ ] Desmond Doss: silah taşımayı reddedip 75 kişiyi kurtaran asker
+- [ ] Witold Pilecki: Auschwitz'e gönüllü giren adam (saygılı dil)
+- [ ] Violet Jessop: Titanic, Olympic ve Britannic'ten kurtulan hemşire — "titanik"
+
+## G. Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler (kaynak: TDV İA, üniversite yayınları)
+- [ ] Fahrettin Paşa: savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı" (SIRADAKİ)
+- [ ] Fatih gemileri karadan nasıl yürüttü? — "istanbulun fethi"
+- [ ] Viyana kuşatması neden başarısız oldu? (1683) — doğrudan aranan soru
+- [ ] Kanuni'nin Fransa kralına mektubu (1526): neden yazıldı, ne diyordu? — doğrudan aranan
+- [ ] Malazgirt: Bizans imparatorunun esir düşmesi ve Alparslan'ın kararı — "malazgirt 1071"
+- [ ] Cem Sultan: Avrupa'da esir tutulan Osmanlı şehzadesi
+- [ ] Barbaros ve Preveze: sayıca az donanmanın zaferi
+- [ ] Seyit Onbaşı ve 215 kiloluk mermi: bilinenler ve tartışmalar (dürüstçe anlat)
+- [ ] Kut'ül Amare: İngiliz ordusunun teslim alınması
+- [ ] Hasan Tahsin ve "ilk kurşun"
+
+## H. Büyük Komutanların Bilinmeyen Anları ("neden" soruları)
+- [ ] Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı) — doğrudan aranan
+- [ ] Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
+- [ ] Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
+- [ ] Napolyon piramitte ne gördü? efsane mi gerçek mi — doğrudan aranan
+- [ ] Cengiz Han'ın mezarı neden hâlâ bulunamadı? — doğrudan aranan
+- [ ] Jül Sezar'ı kaçıran korsanlar
+- [ ] Atilla nasıl öldü? (Priskos'un anlatısı)
+- [ ] Timur'un mezarı ve 1941 "lanet" efsanesi
+- [ ] İskender ve Gordion düğümü (efsane)
+- [ ] Hitler neden Türkiye'ye saldırmadı? (tarihçilerin açıklamaları, tarafsız)
+
+---------------------------------------------------------------- DİĞER TUHAF TARİH (~%30)
+
+## I. Kazara ve Ters Giden İcatlar
+- [ ] Mikrodalga fırın: cebindeki çikolatanın erimesi
+- [ ] Penisilin: küflenen tabak
+- [ ] Post-it: başarısız yapıştırıcı
+- [ ] Teflon: kazara bulunan kaygan madde
 - [ ] Süper yapıştırıcı: iki kez "başarısız" sayılan icat
-- [ ] Thomas Midgley: kurşunlu benzin ve CFC'yi icat eden, kendi icadına dolanan mucit
-- [ ] Velcro: köpeğine yapışan dulavratotu tohumlarından doğan fikir
-- [ ] Radyum Kızları: ışıklı saat boyacılarının trajedisi ve işçi hakları
+- [ ] Thomas Midgley: kurşunlu benzin ve CFC'nin mucidi
+- [ ] Ketçap 1830'larda ilaç olarak satılıyordu
 - [ ] Coca-Cola'nın ilaç olarak doğuşu
 
-## 3. Tarihin Büyük Dolandırıcıları ve Sahtekârlıkları
-- [ ] George C. Parker: Brooklyn Köprüsü'nü defalarca "satan" adam
-- [ ] Gregor MacGregor: var olmayan bir ülkeye (Poyais) yatırımcı toplayan dolandırıcı
-- [ ] Charles Ponzi: "Ponzi şeması"na adını veren adam
-- [ ] Ferdinand Waldo Demara: sahte belgelerle savaş gemisinde cerrahlık yapan taklitçi
-- [ ] Hitler günlükleri (1983): dergiyi milyonlarca marka mal olan sahtecilik
-- [ ] Piltdown Adamı: 40 yıl bilim dünyasını kandıran sahte fosil
-- [ ] Cardiff Devi (1869): taştan oyulmuş sahte dev
-- [ ] Cottingley perileri: iki kuzenin karton perilerle ünlü yazarı kandırması
-- [ ] Mary Toft (1726): tavşan doğurduğunu iddia eden kadın ve kanan doktorlar
-- [ ] Anna Anderson: kendini kayıp prenses Anastasia sanan/tanıtan kadın ve DNA'nın verdiği cevap
+## J. Tarihin Büyük Dolandırıcıları
+- [ ] George C. Parker: Brooklyn Köprüsü'nü "satan" adam
+- [ ] Gregor MacGregor: var olmayan ülke Poyais
+- [ ] Charles Ponzi
+- [ ] Hitler günlükleri (1983) sahtekârlığı
+- [ ] Piltdown Adamı sahte fosili
+- [ ] Ferdinand Waldo Demara: savaş gemisinde sahte cerrah
 
-## 4. Absürt Olaylar ve Felaketler (saygılı dil; ölümleri eğlence malzemesi yapma)
-- [ ] Londra Bira Seli (1814): patlayan bira fıçıları sokakları bastı
-- [ ] Büyük Pis Koku (1858): Thames kokusu Londra'ya kanalizasyon kazandırdı
-- [ ] Tanganyika gülme salgını (1962): okulları kapattıran gülme krizi
-- [ ] Carrington Olayı (1859): güneş fırtınası telgraf tellerini kıvılcımlandırdı
-- [ ] Tunguska (1908): Sibirya'da 2.000 km² ormanı deviren patlama
-- [ ] Kentucky et yağmuru (1876)
-- [ ] 1938 "Dünyalar Savaşı" radyo paniği: panik gerçekten o kadar büyük müydü? (ters köşe: abartıldı)
-- [ ] Starfish Prime: uzayda nükleer bomba patlatıldığında olanlar
-- [ ] Mike: başı kesildikten sonra 18 ay yaşayan tavuk
-- [ ] Mary Celeste: mürettebatı kaybolan, yükü yerinde bulunan gemi
+## K. Gizemler ve Çözülen Sırlar
+- [ ] Voynich el yazması
+- [ ] Dyatlov Geçidi ve 2021 çığ açıklaması
+- [ ] Somerton Adamı (Tamam Shud)
+- [ ] Antikythera düzeneği
+- [ ] Mary Celeste
+- [ ] Piri Reis haritası: "Antarktika" iddiası ve gerçek
 
-## 5. Tuhaf Yarışlar ve Sporlar
-- [x] 1904 olimpiyat maratonu
-- [ ] Shizo Kanakuri: maratonu 54 yıl 8 ayda bitiren koşucu
-- [ ] Dorando Pietri (1908): yere yığılınca yardım edilen ve madalyası alınan koşucu
-- [ ] Olimpiyatlarda sanat madalyaları (1912–1948)
-- [ ] Olimpik halat çekme
-- [ ] 1900 Paris: olimpiyat tarihine geçen tuhaf branşlar
-- [ ] 1969 Futbol Savaşı'nın spor tarafı (Savaşlar serisinde işlenmediyse)
-
-## 6. Gizemler ve Çözülen Sırlar
-- [ ] Voynich el yazması: kimsenin okuyamadığı kitap
-- [ ] Dyatlov Geçidi: 2021'de yapılan çığ açıklaması
-- [ ] Somerton Adamı (Tamam Shud): 2022'de adı bulunan meçhul ceset
-- [ ] Roanoke: ağaca kazınmış "CROATOAN" yazısı
-- [ ] Antikythera düzeneği: 2.000 yıllık "bilgisayar"
-- [ ] Wow! sinyali (1977)
-- [ ] Piri Reis haritası: "Antarktika'yı gösteriyor" iddiası ve gerçek
-
-## 7. İnanılmaz Hayatta Kalanlar
-- [ ] Tsutomu Yamaguchi: iki atom bombasından da sağ kurtulan adam
-- [ ] Violet Jessop: Titanic, Olympic ve Britannic'teki kazalardan kurtulan kadın
-- [ ] Juliane Koepcke: uçaktan düşüp ormanda 11 gün yürüyen genç kız
-- [ ] Phineas Gage: kafasından demir çubuk geçen ve kişiliği değişen işçi
-- [ ] Roy Sullivan: 7 kez yıldırım çarpan park bekçisi
-- [ ] Anatoli Bugorski: parçacık hızlandırıcıya kafasını sokan bilim insanı
-
-## 8. Tarihe Karışan Hayvanlar
-- [ ] Hachiko: sahibini 10 yıl istasyonda bekleyen köpek
-- [ ] Simon: savaş madalyası alan gemi kedisi
-- [ ] Ahtapot Paul: 2010 Dünya Kupası maçlarını "bilen" ahtapot
-- [ ] Hans: matematik yaptığı sanılan at ve "Akıllı Hans etkisi"
-
-## 9. Osmanlı ve Türk Tarihinden Tuhaflıklar (kaynak: TDV İslâm Ansiklopedisi, üniversite yayınları)
-- [ ] IV. Murad'ın kahve ve tütün yasağı
-- [ ] Hezârfen Ahmed Çelebi: Galata'dan Üsküdar'a uçtu mu? (kaynak yalnızca Evliya Çelebi; efsane/gerçek tartışması)
-- [ ] Lagari Hasan Çelebi'nin roketi (aynı kaynak sorunu; dürüstçe anlat)
-- [ ] İbrahim Müteferrika ve Osmanlı'da matbaanın geç gelişi: bilinen ve yanlış bilinenler
-- [ ] Hollanda Lale Çılgınlığı (1637): Osmanlı'dan giden lale soğanının ev fiyatına çıkması
-- [ ] 1509 "Küçük Kıyamet" İstanbul depremi
-- [ ] II. Abdülhamid ve polisiye romanlar
+## L. Absürt Olaylar
+- [ ] Londra Bira Seli (1814)
+- [ ] Büyük Pis Koku (1858)
+- [ ] Tanganyika gülme salgını (1962)
+- [ ] Carrington Olayı (1859)
+- [ ] Tunguska (1908)
+- [ ] 1938 radyo paniği gerçekten oldu mu?
+- [ ] Başsız tavuk Mike
+- [ ] IV. Murad'ın kahve ve tütün yasağı — "osmanlı'da yaşanmış ilginç olaylar"

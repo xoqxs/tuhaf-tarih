@@ -1,4 +1,4 @@
-# Tuhaf Tarih – video günlüğü
+# Belgesellerim – video günlüğü
 
 | tarih | seri | konu | başlık | kanca türü | yapı | duygu | font/palet | bağlantı | durum |
 |---|---|---|---|---|---|---|---|---|---|

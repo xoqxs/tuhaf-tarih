@@ -1,6 +1,7 @@
-# Tuhaf Tarih – günlük Shorts hattı (otomatik görev talimatı)
+# Belgesellerim – günlük Shorts hattı (otomatik görev talimatı)
 
-Kanal: Tuhaf Tarih (@Belgesellerim, kanal kimliği UCaf-xHOxP5Zd4ce84l4tbBQ; eski adı PanEdit). DİKKAT: aynı hesapta ayrı bir "PanEdit" (@panedit2026) kanalı da var, ona YÜKLEME. Niş: **tarihin tuhaf ama gerçek olayları**, 35–55 sn dikey Shorts.
+Kanal: **Belgesellerim** (@Belgesellerim, kanal kimliği UCaf-xHOxP5Zd4ce84l4tbBQ; eski adları PanEdit, Tuhaf Tarih). DİKKAT: aynı hesapta ayrı bir "PanEdit" (@panedit2026) kanalı var, ona YÜKLEME. Başka birinin "Tuhaf Tarih" (@TuhafTarih) kanalı var: videolarda, açıklamalarda ve etiketlerde "Tuhaf Tarih" adını KULLANMA.
+Niş (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** (~%70) + diğer tuhaf tarih konuları (~%30). 40–58 sn dikey Shorts. Amaç: ABONE kazanmak.
 Sahip: Kadir Pars. Ses: ElevenLabs "Zangess" (voice_id t8fOU8zfPVWFYN34BllH, Kadir Bey 7 Kasım 2026'da seçti).
 Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa. Şifre yazma. WebFetch yerine WebSearch + uygulama içi tarayıcı (navigate + get_page_text).
 
@@ -9,19 +10,24 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 - `tarih/gunluk.md`'de bugünün tarihli "yayınlandı" kaydı varsa DUR (mesaj gönderme).
 - Son 15 günlük satırını oku: seri, başlık kalıbı, kanca türü, yapı, duygu. Yeni video bunların hiçbirini bir önceki videoyla aynı kullanmaz.
 
-## 1) Konu seçimi
-- `tarih/konular.md`'den seç (kurallar o dosyanın başında). Seri dönüşümü: aynı seri art arda gelmez; 7 günde bir seriden en fazla 2.
-- Konu YouTube'da aranıyor mu? youtube.com arama kutusuna konunun Türkçe anahtar kelimesini yaz, öneri listesini oku (get_page_text). Önerilerdeki ifadeyi başlıkta kullan.
-- Araştır: WebSearch ile en az 2 bağımsız güvenilir kaynak (ansiklopedi, müze, üniversite, büyük haber kuruluşu, TDV İA). Her rakam/tarih/isim iki kaynakta tutmalı; tutmayan girmez. Tartışmalı konuyu tartışmalı diye anlat.
+## 1) Konu seçimi ve SEO araştırması
+- `tarih/konular.md`'yi oku. Önce "SIRADAKİ" satırındaki konu bugünün konusudur (dün izleyiciye duyuruldu, DEĞİŞTİRME). Yoksa kurallara göre seç.
+- Ardından YARININ konusunu seç (farklı seri, oran kuralı) ve "SIRADAKİ" satırına yaz; bugünkü video sonunda bunu duyuracak.
+- SEO (zorunlu): uygulama içi tarayıcıda youtube.com sekmesinde javascript_tool ile öneri al:
+  `fetch('https://suggestqueries-clients6.youtube.com/complete/search?client=youtube&ds=yt&hl=tr&gl=tr&q='+encodeURIComponent(q)).then(r=>r.text())` (JSONP; `t.match(/\((.*)\)/s)[1]` → JSON, [1][i][0] öneri). Konunun 3–5 farklı yazımını dene (kişi adı, olay adı, "neden ...", "tarihin en ..."). En çok tamamlanan/aranan ifadeyi başlığın başına, 2–3 yan ifadeyi açıklamaya ve etiketlere koy.
+- Araştır: WebSearch ile en az 2 bağımsız güvenilir kaynak (ansiklopedi, müze, üniversite, büyük haber kuruluşu, TDV İA). Her rakam/tarih/isim iki kaynakta tutmalı; tutmayan girmez. Tartışmalı konuyu tartışmalı diye anlat. Savaş konularında vahşet/kan ayrıntısı YOK.
 
 ## 2) Metin (video.json → `tarih/isler/<YYYY-AA-GG>-<slug>/video.json`)
-Örnek: `tarih/isler/1904-maratonu/video.json`. Alanlar: slug, seri, duygu (gerilim|merak|epik|komik|huzun), kapak (2 satır, ≤22 karakter/satır), vurgu_sahneleri, ses, sahneler[{metin, etiket?, gorseller[]}], seo{baslik, aciklama, etiketler, hashtagler, kaynaklar}.
-- Toplam 95–140 kelime (≈35–55 sn). 8–12 sahne, sahne başı 1–2 kısa cümle (≤12 kelime).
-- **İlk cümle kancadır**, ilk saniyede başlar ve merak boşluğu açar. Kanca türünü dönüştür: (a) şaşırtıcı sonuç önce, (b) soru, (c) "herkes X sanır ama", (d) rakam şoku, (e) sahnenin ortasından başlama.
-- **Yapı dönüşümü** (son 3 videodan farklı): ters köşe final · kronolojik gerilim · "3 tuhaf ayrıntı" geri sayımı · efsane mi gerçek mi · iki kişinin karşılaştırması.
-- Son cümle: soru ya da sonraki merak (yorum çağrısı en fazla 1 kez; "abone ol" en fazla 1 kez, her videoda değil; aynı kapanış cümlesi tekrar YOK).
-- Yasak: dolgu ("arkadaşlar", "bildiğiniz gibi"), abartı ("ŞOK"), uydurma diyalog, kanıtsız iddia, ölüm/şiddet ayrıntısında sansasyon.
-- Yıllar rakamla yazılabilir; diğer sayıları yazıyla yaz ("otuz iki derece"). Yabancı isimleri bir kez okunuşuna dikkat ederek yaz.
+Örnekler: `tarih/isler/2026-11-07-hiroo-onoda/video.json`, `tarih/isler/1904-maratonu/video.json`. Alanlar: slug, seri, seri_rozet ("<Seri kısa adı> #<n>", n = günlükte o serinin kaçıncı videosu), duygu (gerilim|merak|epik|komik|huzun), tempo (1.12–1.18), kapak (2 satır, ≤22 karakter/satır), vurgu_sahneleri, ses, sahneler[{metin, etiket?, gorseller[]}], seo{baslik, aciklama, etiketler, hashtagler, kaynaklar}.
+- **85–105 kelime** (hedef 40–58 sn). 9–12 sahne, sahne başı 1–2 kısa cümle (≤12 kelime). 60 sn'yi aşarsa kısalt ve yeniden seslendir.
+- **İlk cümle kancadır**, ilk saniyede başlar, merak boşluğu açar ve başlıktaki anahtar kelimeyi içerir. Kanca türünü dönüştür: (a) şaşırtıcı sonuç önce, (b) soru, (c) "herkes X sanır ama", (d) rakam şoku, (e) sahnenin ortasından başlama.
+- **Yapı dönüşümü** (son 3 videodan farklı): ters köşe final · kronolojik gerilim · "3 tuhaf ayrıntı" geri sayımı · efsane mi gerçek mi · iki tarafın karşılaştırması.
+- **ABONE KAZANDIRAN KAPANIŞ** (zorunlu sıra, son 2 sahne):
+  1. Hikâyenin en şaşırtıcı anından hemen sonra tek cümlelik kanal vaadi (her videoda FARKLI ifade): ör. "Savaşların böyle unutulmuş hikâyeleri için takipte kal." / "Her akşam bir savaş sırrı: kanala katıl." "Abone ol" kelimesini her videoda kullanma.
+  2. Son sahne = YARIN duyurusu + yorum sorusu: "Yarın: <SIRADAKİ konunun merak uyandıran tek cümlesi>." ve kısa, iki taraflı bir soru. Görseli kart: `{"kart": {"ust": "yarın", "ana": "<2–3 kelime>", "alt": "<kısa merak>"}}`.
+  3. Mümkünse son cümle ilk cümleye bağlansın (video başa sarınca akış kopmasın).
+- Yasak: dolgu ("arkadaşlar", "bildiğiniz gibi"), abartı ("ŞOK"), uydurma diyalog, kanıtsız iddia, şiddet ayrıntısında sansasyon, "Tuhaf Tarih" adı.
+- Yıllar rakamla yazılabilir; diğer sayıları yazıyla yaz ("otuz iki derece"). Yabancı isimleri bir kez okunuşuna dikkat ederek yaz. Kart metinlerinde özel simge (→, •) kullanma.
 
 ## 3) Görseller
 - Önce gerçek arşiv: `python3 tarih/pipeline/wm.py s "arama" 10` → `wm.py i "File:..." tarih/isler/<iş>/img/ad.jpg`. Yalnızca PD/CC0/CC BY/CC BY-SA (wm.py denetler). Atıflar `atif.json`'a yazılır; BY/BY-SA olanlar açıklamaya.
@@ -46,7 +52,7 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 
 ## 7) YouTube yükleme (uygulama içi tarayıcı, kendi sekmen; Baby Collective görevindeki çalışan yöntem)
 KANAL ÇAKIŞMASI: Aynı Google hesabında Döviz Radar (UCETn8pkFCvCHQKpBAKnGXJw) ve Baby Collective var; Döviz Radar görevleri Studio'da Döviz Radar'ın etkin olmasını bekler. Başlarken tabs_context'te studio.youtube.com sekmesi açıksa 10 dk bekle (en fazla 3 kez), hâlâ açıksa DUR ve bildir.
-a) KANALA GEÇ: https://www.youtube.com/channel_switcher → "Tuhaf Tarih" (@Belgesellerim) öğesine GERÇEK tıkla (@panedit2026 DEĞİL), 10 sn bekle. https://studio.youtube.com aç: adres /channel/UCaf-xHOxP5Zd4ce84l4tbBQ olmalı; değilse bir kez daha dene, olmazsa (g) ve DUR. Başka kanala ASLA yükleme.
+a) KANALA GEÇ: https://www.youtube.com/channel_switcher → "Belgesellerim" (@Belgesellerim) öğesine GERÇEK tıkla (@panedit2026 DEĞİL; öğeyi JS ile "@Belgesellerim" metninden bul, tp-yt-paper-icon-item.click() de çalışır), 10 sn bekle. https://studio.youtube.com aç: adres /channel/UCaf-xHOxP5Zd4ce84l4tbBQ olmalı; değilse bir kez daha dene, olmazsa (g) ve DUR. Başka kanala ASLA yükleme.
 b) navigate https://studio.youtube.com/channel/UCaf-xHOxP5Zd4ce84l4tbBQ/videos/upload?d=ud , 4 sn bekle; javascript_tool: `const r=await fetch(RAW_URL);const b=await r.blob();const f=new File([b],'<dosya>.mp4',{type:'video/mp4'});const inp=document.querySelector('input[type=file]');const dt=new DataTransfer();dt.items.add(f);inp.files=dt.files;inp.dispatchEvent(new Event('change',{bubbles:true}));` 8 sn bekle.
 c) 'ytcp-uploads-dialog #textbox[contenteditable=true]' kutularından ilki başlık, ikincisi açıklama (el.click(); el.focus(); document.execCommand('selectAll'); document.execCommand('insertText',false,metin)); textContent ile DOĞRULA.
 d) "Hayır, çocuklar için hazırlanmamış" (name=VIDEO_MADE_FOR_KIDS_NOT_MFK). "Daha fazla göster" → değiştirilmiş/sentetik içerik: arşiv fotoğrafı + anlatıcı sesi için "Hayır" (yapay zekâ ile gerçekçi görsel kullanıldıysa "Evet"); etiketler (8–12): etiket kutusunu JS ile focus et, `computer type` ile virgülle ayrılmış yaz, sonra Enter bas (Enter olmadan etiket oluşmaz; ytcp-chip sayısıyla doğrula); dil Türkçe; kategori: `#category ytcp-dropdown-trigger` tıkla → "Eğitim" öğesi. Oynatma listesi: serinin adı (yoksa oluştur, 2 cümlelik özgün açıklama).
@@ -56,10 +62,25 @@ g) NOT (7 Kasım 2026, Windows): studio.youtube.com kök adresi Studio'da en son
 g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@dovizradar) GERÇEK tıkla, 10 sn; önce https://studio.youtube.com (kök adres; doğrudan kanal adresi ilk denemede "Hata" verebilir, 7 Kasım 2026), sonra adresin /channel/UCETn8pkFCvCHQKpBAKnGXJw olduğunu doğrula → başlık "Kanal kontrol paneli" olmalı, "Hata" olmamalı (olmazsa raporun en üstüne "⚠ Döviz Radar kanalına geri dönülemedi"). Sonra yalnızca kendi sekmelerini kapat.
 
 ## 8) SEO
-- Başlık: aranan ifade başta, 40–65 karakter + " #shorts". Kalıbı dönüştür (soru · "X: Y" · rakamlı · "Herkes X sanıyor ama"); son 15 başlıktan farklı. BÜYÜK HARF bağırma, emoji yığını, yanıltıcı vaat YOK.
-- Açıklama: o videoya özgü 2–3 cümle (ana anahtar kelime ilk cümlede) → "Kaynaklar:" 2 kaynak adı → BY/BY-SA görsel atıfları ("Görsel: <yazar>, <lisans>, Wikimedia Commons"; PD için "Görseller: Wikimedia Commons, kamu malı") → 3–5 hashtag (konuya göre değişir; #shorts dahil değil, başlıkta var).
-- Etiketler 8–12, konuya özgü; kanal etiketi "tuhaf tarih" bir kez. Alakasız popüler etiket YOK.
+- Başlık: 1. adımda bulunan en çok aranan ifade başta, 40–65 karakter + " #shorts". Kalıbı dönüştür: "<Ünlü isim> Neden <soru>?" · "<Aranan ifade>: <tuhaf ayrıntı>" · "<Sayı> Yıl/Dakika/Kişi …" · "Herkes X Sanıyor Ama …". Son 15 başlıktan farklı. BÜYÜK HARF bağırma, emoji yığını, yanıltıcı vaat YOK.
+- Açıklama: o videoya özgü 2–3 cümle (ana anahtar kelime ilk cümlede, 1–2 yan ifade doğal biçimde) → "Seri: <seri adı> #<n> – tüm bölümler oynatma listesinde" → "Yarın: <SIRADAKİ>" → "Kaynaklar:" 2 kaynak adı → görsel atıfları (BY/BY-SA: "Görsel: <yazar>, <lisans>, Wikimedia Commons"; PD: "Görseller: Wikimedia Commons, kamu malı") → 3–5 hashtag (konuya göre değişir).
+- Etiketler 8–12, konuya özgü (öneri listesinden gelen ifadeler öncelikli); kanal etiketi "belgesellerim" bir kez. Alakasız popüler etiket YOK.
+- Oynatma listesi: serinin tam adı (konular.md başlığı, harf öneki olmadan). Yoksa yükleme ekranındaki oynatma listesi seçicisinde "Yeni oynatma listesi" ile oluştur (herkese açık). Liste açıklamasını ilk kez oluştururken 2 cümle yaz.
 
 ## 9) Kayıt ve rapor
-- `tarih/gunluk.md`'ye satır: | tarih | seri | konu | başlık | kanca türü | yapı | duygu | font/palet | bağlantı | yayınlandı |. `konular.md`'de konuyu [x] yap. Commit + push.
-- Rapor (SendUserMessage, en fazla 3 satır): "📜 Yeni Short: <başlık> – <bağlantı>" + seri/konu + "Döviz Radar kanalına geri dönüldü ✓". Hata varsa ne olduğu ve Kadir Bey'in ne yapması gerektiği.
+- `tarih/gunluk.md`'ye satır: | tarih | seri (#n) | konu | başlık | kanca türü | yapı | duygu | font/palet | bağlantı | yayınlandı |. `konular.md`'de konuyu `[x] YYYY-AA-GG` yap, "SIRADAKİ" satırını yarının konusuyla güncelle. Commit + push.
+- Rapor (SendUserMessage, en fazla 3 satır): "🎬 Yeni Short: <başlık> – <bağlantı>" + seri/konu + "Döviz Radar kanalına geri dönüldü ✓". Hata varsa ne olduğu ve Kadir Bey'in ne yapması gerektiği.
+
+## 10) HAFTALIK DERLEME (yalnızca pazar görevi)
+- Son 7 günün `gunluk.md` kayıtlarındaki "yayınlandı" Shorts'ları (en az 4; azsa DUR ve bildir). Daha önce bir derlemeye girenler tekrar girmez (günlükte "derleme" satırlarına bak).
+- `python3 tarih/pipeline/derleme.py tarih/v/derleme-YYYY-AA-GG.mp4 tarih/isler/<iş1> ... --tarih "<gün ay yıl>" --baslik "<başlık>"` → mp4 + `-bolumler.txt` + `-kapak.jpg`. Başlığı her hafta farklı ve SEO odaklı yaz: haftanın en çok izlenen Short'unun anahtar kelimesi başta (ör. "Savaş Bittiği Halde 29 Yıl Savaşan Asker ve Haftanın Diğer Tuhaf Hikâyeleri"). ≤70 karakter.
+- Kontrol: 4–5 kare (giriş, 2 bölüm, kapanış) + kapak Read ile; ffprobe 1920x1080, ses var; ≤ 150 MB (fazlaysa GitHub'a koyma, DUR ve bildir).
+- Yükleme: normal video (Short DEĞİL). Başlık; açıklama = 2–3 cümle özet + boş satır + `-bolumler.txt` içeriği (0:00 ile başlar) + her bölümün Short bağlantısı (gunluk'ten) + kaynak/atıf satırı + 3–5 hashtag. Küçük resim: kapak jpg'si (fetch → File → DataTransfer, küçük resim alanının input[type=file]'ı). Oynatma listesi: "Haftalık Derlemeler". Çocuklar için değil, kategori Eğitim, dil Türkçe, etiketler 10–15. Telif kontrolünü bekle (7e), sonra herkese açık.
+- Uç ekran (isteğe bağlı): "Uç ekran" adımında "Abone ol" + "En son yükleme" öğeleri eklenebiliyorsa ekle; olmazsa atla.
+- Günlüğe satır: | tarih | DERLEME | <bölüm sayısı> bölüm: <iş adları> | başlık | – | – | – | – | bağlantı | yayınlandı |. Derleme mp4'ünü yayından sonra depodan sil (kapak ve bölümler.txt kalsın).
+
+## 11) HAFTALIK VERİ KONTROLÜ (pazar görevi, derlemeden sonra)
+- Studio → İçerik → Shorts listesinden son 14 günün Shorts'larının görüntüleme sayılarını oku (get_page_text). Varsa Analytics'te "Abone kazanma" sekmesinden video başına abone sayısına bak.
+- `tarih/gunluk.md` sonuna "### Haftalık özet YYYY-AA-GG" başlığıyla: en iyi 3 ve en zayıf 3 video (görüntüleme), hangi seri/kanca/başlık kalıbının iyi gittiği, 2–3 maddelik karar (ör. "G serisi iki kat izlendi → önümüzdeki hafta 2 G videosu").
+- Kararı `konular.md` başına "Bu haftanın ağırlığı:" satırı olarak yaz; günlük görev konu seçerken buna uyar (oran ve seri kurallarını bozmadan).
+- Rapor: 3 satır özet + derleme bağlantısı.

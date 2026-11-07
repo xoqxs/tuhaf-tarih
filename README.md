@@ -1,6 +1,6 @@
-# Tuhaf Tarih – otomatik YouTube Shorts hattı
+# Belgesellerim – otomatik YouTube Shorts hattı
 
-Tuhaf Tarih (@Belgesellerim) kanalı için "tarihin tuhaf ama gerçek olayları" Shorts'ları.
+Belgesellerim (@Belgesellerim) kanalı için savaş tarihinin tuhaf ve gerçek hikâyeleri (Shorts + haftalık derleme).
 
 - `tarih/PIPELINE.md` – günlük görevin adım adım talimatı (konu, doğrulama, metin, görsel, ses, kurgu, SEO, yükleme)
 - `tarih/konular.md` – seri bazlı konu havuzu (tekrar yok)
