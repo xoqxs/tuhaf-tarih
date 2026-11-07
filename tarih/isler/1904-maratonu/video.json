@@ -2,42 +2,224 @@
  "slug": "1904-maratonu",
  "seri": "Tuhaf Yarışlar ve Sporlar",
  "duygu": "merak",
- "kapak": ["Arabayla kazanılan", "olimpiyat maratonu"],
- "vurgu_sahneleri": [3, 5, 9],
- "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "kapak": [
+  "Arabayla kazanılan",
+  "olimpiyat maratonu"
+ ],
+ "vurgu_sahneleri": [
+  3,
+  5,
+  9
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
  "sahneler": [
-  {"metin": "1904'te koşulan bir maraton, olimpiyat tarihinin en büyük rezaletine dönüştü.",
-   "gorseller": [{"dosya": "img/start.jpg", "duzen": "doldur", "odak": [0.5, 0.5]}, {"dosya": "img/once.jpg"}]},
-  {"metin": "St. Louis. Hava otuz iki derece, yollar toz toprak. Koca parkurda yalnızca iki su noktası var.",
+  {
+   "metin": "1904'te koşulan bir maraton, olimpiyat tarihinin en büyük rezaletine dönüştü.",
+   "gorseller": [
+    {
+     "dosya": "img/start.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.5
+     ]
+    },
+    {
+     "dosya": "img/once.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "St. Louis. Hava otuz iki derece, yollar toz toprak. Koca parkurda yalnızca iki su noktası var.",
    "etiket": "St. Louis · 1904",
-   "gorseller": [{"dosya": "img/fuar.jpg", "duzen": "cerceve"}, {"dosya": "img/harita.jpg"}, {"kart": {"ust": "parkurda", "ana": "2 su noktası", "alt": "32 derece sıcakta"}}]},
-  {"metin": "İlk bitiren Fred Lorz. Seyirciler alkışlıyor, madalya verilmek üzere.",
-   "gorseller": [{"dosya": "img/lorz.jpg", "duzen": "doldur", "odak": [0.5, 0.25]}]},
-  {"metin": "Ama bir sorun var. Lorz, yolun yaklaşık on bir milini arabayla gitmiş.",
+   "gorseller": [
+    {
+     "dosya": "img/fuar.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/harita.jpg"
+    },
+    {
+     "kart": {
+      "ust": "parkurda",
+      "ana": "2 su noktası",
+      "alt": "32 derece sıcakta"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "İlk bitiren Fred Lorz. Seyirciler alkışlıyor, madalya verilmek üzere.",
+   "gorseller": [
+    {
+     "dosya": "img/lorz.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.25
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Ama bir sorun var. Lorz, yolun yaklaşık on bir milini arabayla gitmiş.",
    "etiket": "Hile",
-   "gorseller": [{"dosya": "img/lorz_karikatur.jpg", "duzen": "bulanik"}, {"kart": {"ust": "arabayla", "ana": "11 mil", "alt": "yaklaşık 18 kilometre"}}]},
-  {"metin": "Asıl kazanan Thomas Hicks. Ama onu ayakta tutan şey antrenman değildi.",
-   "gorseller": [{"dosya": "img/hicks_yolda.jpg", "duzen": "doldur", "odak": [0.45, 0.5]}, {"dosya": "img/hicks.jpg", "duzen": "cerceve"}]},
-  {"metin": "Ekibi yol boyunca ona fare zehirinde kullanılan striknin, yumurta akı ve brendi verdi.",
+   "gorseller": [
+    {
+     "dosya": "img/lorz_karikatur.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "kart": {
+      "ust": "arabayla",
+      "ana": "11 mil",
+      "alt": "yaklaşık 18 kilometre"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Asıl kazanan Thomas Hicks. Ama onu ayakta tutan şey antrenman değildi.",
+   "gorseller": [
+    {
+     "dosya": "img/hicks_yolda.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.45,
+      0.5
+     ]
+    },
+    {
+     "dosya": "img/hicks.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Ekibi yol boyunca ona fare zehirinde kullanılan striknin, yumurta akı ve brendi verdi.",
    "etiket": "1904 usulü doping",
-   "gorseller": [{"dosya": "img/hicks_sunger.jpg", "duzen": "doldur", "odak": [0.55, 0.5]}, {"kart": {"ust": "yol boyunca", "ana": "striknin", "alt": "+ yumurta akı + brendi"}}]},
-  {"metin": "Hicks bitiş çizgisini ekibinin desteğiyle, zar zor geçti.",
-   "gorseller": [{"dosya": "img/hicks_araba.jpg", "duzen": "doldur", "odak": [0.5, 0.4]}]},
-  {"metin": "Kübalı postacı Andarín Carvajal ise parasını yolda kumarda kaybetmiş, otostopla gelmişti.",
+   "gorseller": [
+    {
+     "dosya": "img/hicks_sunger.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.55,
+      0.5
+     ]
+    },
+    {
+     "kart": {
+      "ust": "yol boyunca",
+      "ana": "striknin",
+      "alt": "+ yumurta akı + brendi"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Hicks bitiş çizgisini ekibinin desteğiyle, zar zor geçti.",
+   "gorseller": [
+    {
+     "dosya": "img/hicks_araba.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Kübalı postacı Andarín Carvajal ise parasını yolda kumarda kaybetmiş, otostopla gelmişti.",
    "etiket": "Küba",
-   "gorseller": [{"dosya": "img/carvajal2.jpg", "duzen": "cerceve"}, {"dosya": "img/carvajal.jpg", "duzen": "doldur", "odak": [0.5, 0.45]}]},
-  {"metin": "Günlük kıyafetleriyle koştu. Yolda çürük elma yedi, midesi bozuldu ve yol kenarında uyuyakaldı.",
-   "gorseller": [{"dosya": "img/carvajal.jpg", "duzen": "detay", "odak": [0.5, 0.4]}, {"kart": {"ust": "yolda", "ana": "çürük elma", "alt": "ve kısa bir uyku"}}]},
-  {"metin": "Yine de dördüncü oldu.",
-   "gorseller": [{"kart": {"ana": "4.", "alt": "uyuyarak bile"}}]},
-  {"metin": "Sence bu yarışın gerçek kahramanı kim? Yorumlara yaz.",
-   "gorseller": [{"kart": {"ust": "sence", "ana": "kim?", "alt": "yorumlara yaz"}}]}
+   "gorseller": [
+    {
+     "dosya": "img/carvajal2.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/carvajal.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Günlük kıyafetleriyle koştu. Yolda çürük elma yedi, midesi bozuldu ve yol kenarında uyuyakaldı.",
+   "gorseller": [
+    {
+     "dosya": "img/carvajal.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.4
+     ]
+    },
+    {
+     "kart": {
+      "ust": "yolda",
+      "ana": "çürük elma",
+      "alt": "ve kısa bir uyku"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yine de dördüncü oldu.",
+   "gorseller": [
+    {
+     "kart": {
+      "ana": "4.",
+      "alt": "uyuyarak bile"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Sence bu yarışın gerçek kahramanı kim? Yorumlara yaz.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "kim?",
+      "alt": "yorumlara yaz"
+     }
+    }
+   ]
+  }
  ],
  "seo": {
   "baslik": "1904 Olimpiyat Maratonu: Arabayla Kazanılan Yarış #shorts",
   "aciklama": "1904 St. Louis Olimpiyatları'ndaki maraton, spor tarihinin en tuhaf yarışlarından biri: ilk bitiren yolun bir kısmını arabayla gitti, şampiyon striknin ve brendiyle ayakta tutuldu, Kübalı Andarín Carvajal ise çürük elma yiyip uyuduğu halde dördüncü oldu.",
-  "etiketler": ["1904 olimpiyat maratonu", "tarihin en tuhaf maratonu", "fred lorz", "thomas hicks", "andarin carvajal", "olimpiyat tarihi", "ilginç tarih", "tuhaf tarih", "spor tarihi", "st louis 1904"],
-  "hashtagler": ["#tarih", "#olimpiyat", "#maraton", "#ilginçbilgiler"],
-  "kaynaklar": ["Smithsonian Magazine: The 1904 Olympic Marathon May Have Been the Strangest Ever", "Olympics.com: St. Louis 1904 marathon"]
- }
+  "etiketler": [
+   "1904 olimpiyat maratonu",
+   "tarihin en tuhaf maratonu",
+   "fred lorz",
+   "thomas hicks",
+   "andarin carvajal",
+   "olimpiyat tarihi",
+   "ilginç tarih",
+   "tuhaf tarih",
+   "spor tarihi",
+   "st louis 1904"
+  ],
+  "hashtagler": [
+   "#tarih",
+   "#olimpiyat",
+   "#maraton",
+   "#ilginçbilgiler"
+  ],
+  "kaynaklar": [
+   "Smithsonian Magazine: The 1904 Olympic Marathon May Have Been the Strangest Ever",
+   "Olympics.com: St. Louis 1904 marathon"
+  ]
+ },
+ "tempo": 1.15
 }

@@ -186,8 +186,18 @@ def main():
     a = ap.parse_args()
     k = a.klasor
     is_ = oku(os.path.join(k, "video.json")); zaman = oku(os.path.join(k, "zaman.json"))
-    if not os.path.exists(os.path.join(k, "ses.wav")) and os.path.exists(os.path.join(k, "ses_ham.mp3")):
+    if os.path.exists(os.path.join(k, "ses_ham.mp3")):
         run(["ffmpeg", "-y", "-loglevel", "error", "-i", os.path.join(k, "ses_ham.mp3"), "-ar", "44100", "-ac", "1", os.path.join(k, "ses.wav")])
+    tempo = float(is_.get("tempo", 1.0))   # ElevenLabs v3 yavaş okursa sesi hızlandır (1.0–1.2)
+    if tempo != 1.0:
+        run(["ffmpeg", "-y", "-loglevel", "error", "-i", os.path.join(k, "ses.wav"), "-af", f"atempo={tempo}",
+             "-ar", "44100", "-ac", "1", os.path.join(k, "ses_t.wav")])
+        os.replace(os.path.join(k, "ses_t.wav"), os.path.join(k, "ses.wav"))
+        for kk in zaman["kelimeler"]:
+            kk["s"] /= tempo; kk["e"] /= tempo
+        for ss in zaman["sahneler"]:
+            ss["s"] /= tempo; ss["e"] /= tempo
+        zaman["sure"] = sure(os.path.join(k, "ses.wav"))
     gecmis = oku(a.gecmis) if a.gecmis and os.path.exists(a.gecmis) else []
     stil = {**stil_sec(is_["slug"], gecmis), **is_.get("stil", {})}
     yaz(os.path.join(k, "stil.json"), stil)

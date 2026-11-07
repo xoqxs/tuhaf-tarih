@@ -33,12 +33,8 @@ jobs:
           for d in tarih/isler/*/; do
             s=$(basename "$d")
             if [ -n "$SLUG" ] && [ "$s" != "$SLUG" ]; then continue; fi
-            # ses zaten varsa ve video.json ondan sonra değişmediyse atla
-            if [ -f "$d/zaman.json" ] && [ -f "$d/ses_ham.mp3" ] && [ "$d/zaman.json" -nt "$d/video.json" ] \
-               && grep -q elevenlabs "$d/zaman.json"; then continue; fi
-            if [ -n "$(git log -1 --format=%ct -- "$d/zaman.json" 2>/dev/null)" ] && \
-               [ "$(git log -1 --format=%ct -- "$d/zaman.json")" -ge "$(git log -1 --format=%ct -- "$d/video.json")" ] && \
-               grep -q elevenlabs "$d/zaman.json" 2>/dev/null; then continue; fi
+            # metin ve ses ayarı değişmediyse yeniden seslendirme (kredi harcama)
+            if [ "$(python3 tarih/pipeline/ses.py "$d" kontrol)" = "guncel" ]; then continue; fi
             echo "== $s"
             python3 tarih/pipeline/ses.py "$d" eleven
             rm -f "$d/ses.wav"

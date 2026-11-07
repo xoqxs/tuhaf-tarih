@@ -168,10 +168,21 @@ def tahmini(is_, klasor, hiz=15.5):
     return z
 
 
+def ozet(is_):
+    import hashlib
+    metin, _ = birlesik_metin(is_)
+    return hashlib.md5((metin + json.dumps(is_.get("ses", {}), sort_keys=True)).encode()).hexdigest()
+
+
 if __name__ == "__main__":
     klasor = sys.argv[1]
     mod = sys.argv[2] if len(sys.argv) > 2 else "eleven"
     is_ = oku(os.path.join(klasor, "video.json"))
+    if mod == "kontrol":   # ses güncel mi? (iş akışı gereksiz yere kredi harcamasın)
+        zp = os.path.join(klasor, "zaman.json")
+        guncel = os.path.exists(zp) and os.path.exists(os.path.join(klasor, "ses_ham.mp3")) and oku(zp).get("ozet") == ozet(is_)
+        print("guncel" if guncel else "yenile"); sys.exit(0)
     z = {"eleven": eleven, "azure": azure, "tahmini": tahmini}[mod](is_, klasor)
+    z["ozet"] = ozet(is_)
     yaz(os.path.join(klasor, "zaman.json"), z)
     print(z["saglayici"], "süre", z["sure"], "sahneler", [round(s["e"] - s["s"], 1) for s in z["sahneler"]])
