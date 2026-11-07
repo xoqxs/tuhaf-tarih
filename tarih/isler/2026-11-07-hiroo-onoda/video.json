@@ -2,44 +2,194 @@
  "slug": "2026-11-07-hiroo-onoda",
  "seri": "Tuhaf Savaşlar ve Askerler",
  "duygu": "gerilim",
- "tempo": 1.16,
- "kapak": ["Savaş bitti ama o", "29 yıl savaştı"],
- "vurgu_sahneleri": [7, 10],
- "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "tempo": 1.15,
+ "kapak": [
+  "Savaş bitti ama o",
+  "29 yıl savaştı"
+ ],
+ "vurgu_sahneleri": [
+  6,
+  9
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
  "sahneler": [
-  {"metin": "Savaş bitti. Ama bir asker bunu tam yirmi dokuz yıl boyunca kabul etmedi.",
-   "gorseller": [{"dosya": "img/onoda_genc.jpg", "duzen": "cerceve"}, {"kart": {"ust": "1945 → 1974", "ana": "29 yıl"}}]},
-  {"metin": "Aralık 1944. Japon teğmen Hiroo Onoda, Filipinler'deki Lubang Adası'na gönderilir.",
+  {
+   "metin": "Savaş bitti. Ama bir asker bunu yirmi dokuz yıl kabul etmedi.",
+   "gorseller": [
+    {
+     "dosya": "img/onoda_genc.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "kart": {
+      "ust": "1945 → 1974",
+      "ana": "29 yıl"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "1944. Japon teğmen Hiroo Onoda, Filipinler'deki Lubang Adası'na gönderilir.",
    "etiket": "Lubang Adası · 1944",
-   "gorseller": [{"dosya": "img/lubang.jpg", "duzen": "doldur", "odak": [0.5, 0.5]}, {"dosya": "img/onoda_kardes.jpg", "duzen": "cerceve"}]},
-  {"metin": "Emri açık: Asla teslim olma. Ne olursa olsun, seni almaya geleceğiz.",
-   "gorseller": [{"kart": {"ust": "aldığı emir", "ana": "teslim olma", "alt": "ve canına kıyma"}}]},
-  {"metin": "1945'te Japonya teslim olur. Onoda, ormana atılan bildirileri düşmanın oyunu sanar.",
-   "gorseller": [{"dosya": "img/sahil.jpg", "duzen": "bulanik"}, {"kart": {"ust": "bildiriler", "ana": "tuzak mı?"}}]},
-  {"metin": "Arkadaşları birer birer gider. 1972'den sonra ormanda tek başına kalır.",
-   "gorseller": [{"dosya": "img/kozuka.jpg", "duzen": "cerceve"}]},
-  {"metin": "Oysa Japonya, onu 1959'da resmen ölü ilan etmişti.",
-   "gorseller": [{"kart": {"ust": "resmî kayıtlarda", "ana": "ölü", "alt": "1959"}}]},
-  {"metin": "Şubat 1974. Genç gezgin Norio Suzuki, onu yalnızca dört günde bulur.",
+   "gorseller": [
+    {
+     "dosya": "img/lubang.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.5
+     ]
+    },
+    {
+     "dosya": "img/onoda_kardes.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Emri açık: Asla teslim olma.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "aldığı emir",
+      "ana": "teslim olma",
+      "alt": "ve canına kıyma"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Japonya 1945'te teslim olur. Onoda, ormana atılan bildirileri düşman tuzağı sanar.",
+   "gorseller": [
+    {
+     "dosya": "img/sahil.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "kart": {
+      "ust": "bildiriler",
+      "ana": "tuzak mı?"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Arkadaşlarını birer birer kaybeder. Sonunda ormanda tek başına kalır.",
+   "gorseller": [
+    {
+     "dosya": "img/kozuka.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "1974'te genç gezgin Norio Suzuki onu dört günde bulur.",
    "etiket": "Şubat 1974",
-   "gorseller": [{"dosya": "img/lubang2.jpg", "duzen": "doldur", "odak": [0.5, 0.45]}]},
-  {"metin": "Suzuki'nin arama listesi tuhaftı: önce Onoda, sonra bir panda, sonra da Kar Adamı.",
-   "gorseller": [{"kart": {"ust": "suzuki'nin listesi", "ana": "1. Onoda", "alt": "2. panda · 3. kar adamı"}}]},
-  {"metin": "Ama Onoda yine teslim olmaz. Bu emri ancak komutanı verebilir.",
-   "gorseller": [{"dosya": "img/onoda_kardes.jpg", "duzen": "detay", "odak": [0.6, 0.3]}]},
-  {"metin": "Artık kitapçılık yapan eski komutanı Taniguchi adaya uçar ve emri okur.",
+   "gorseller": [
+    {
+     "dosya": "img/lubang2.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Suzuki'nin listesi tuhaftı: Onoda, bir panda ve Kar Adamı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "suzuki'nin listesi",
+      "ana": "1. Onoda",
+      "alt": "2. panda · 3. kar adamı"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Ama Onoda teslim olmaz. Emri ancak komutanı verebilir.",
+   "gorseller": [
+    {
+     "dosya": "img/onoda_kardes.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.6,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Kitapçı olan eski komutanı Taniguchi adaya uçar ve emri okur.",
    "etiket": "9 Mart 1974",
-   "gorseller": [{"kart": {"ust": "29 yıl sonra", "ana": "emir geldi"}}]},
-  {"metin": "Onoda kılıcını teslim eder. Yirmi dokuz yıllık savaşı sona erer.",
-   "gorseller": [{"dosya": "img/teslim.jpg", "duzen": "cerceve"}, {"dosya": "img/marcos.jpg", "duzen": "doldur", "odak": [0.55, 0.4]}]},
-  {"metin": "Tarihin böyle tuhaf hikâyeleri her gün bu kanalda. Sence Onoda kahraman mı, kurban mı?",
-   "gorseller": [{"kart": {"ust": "sence", "ana": "kahraman mı", "alt": "kurban mı?"}}]}
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "29 yıl sonra",
+      "ana": "emir geldi"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Onoda kılıcını teslim eder. Yirmi dokuz yıllık savaş biter.",
+   "gorseller": [
+    {
+     "dosya": "img/teslim.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/marcos.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.55,
+      0.4
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Böyle hikâyeler her gün bu kanalda. Sence Onoda kahraman mı, kurban mı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "kahraman mı",
+      "alt": "kurban mı?"
+     }
+    }
+   ]
+  }
  ],
  "seo": {
   "baslik": "Hiroo Onoda: Savaşın Bittiğine 29 Yıl İnanmayan Asker #shorts",
   "aciklama": "Hiroo Onoda, II. Dünya Savaşı bittiği halde Filipinler'deki Lubang Adası'nda 29 yıl boyunca savaşmayı sürdüren Japon teğmen. 1974'te gezgin Norio Suzuki onu buldu, ama Onoda ancak eski komutanı Yoshimi Taniguchi adaya gelip emri okuyunca teslim oldu.",
-  "etiketler": ["hiroo onoda", "29 yıl savaşan asker", "teslim olmayan japon asker", "ikinci dünya savaşı", "lubang adası", "norio suzuki", "savaş tarihi", "ilginç tarih", "tuhaf tarih", "japon askeri"],
-  "hashtagler": ["#hirooonoda", "#savaştarihi", "#2dünyasavaşı", "#tarih"],
-  "kaynaklar": ["History Hit: Hiroo Onoda, The Japanese Soldier Who Refused to Surrender", "Hiroo Onoda, No Surrender: My Thirty-Year War (1974)"]
+  "etiketler": [
+   "hiroo onoda",
+   "29 yıl savaşan asker",
+   "teslim olmayan japon asker",
+   "ikinci dünya savaşı",
+   "lubang adası",
+   "norio suzuki",
+   "savaş tarihi",
+   "ilginç tarih",
+   "tuhaf tarih",
+   "japon askeri"
+  ],
+  "hashtagler": [
+   "#hirooonoda",
+   "#savaştarihi",
+   "#2dünyasavaşı",
+   "#tarih"
+  ],
+  "kaynaklar": [
+   "History Hit: Hiroo Onoda, The Japanese Soldier Who Refused to Surrender",
+   "Hiroo Onoda, No Surrender: My Thirty-Year War (1974)"
+  ]
  }
 }

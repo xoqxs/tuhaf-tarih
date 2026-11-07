@@ -63,8 +63,9 @@ def stil_sec(slug, gecmis=None):
             "tanecik": r.random() < 0.7,      # film greni
             "vinyet": r.random() < 0.8,
         }
-        anahtar = (s["font"], s["palet"])
-        if all((g.get("font"), g.get("palet")) != anahtar for g in gecmis[-3:]):
+        # bir önceki videoyla aynı font yok; son 3 videoyla aynı palet ve renk tonu yok
+        if (not gecmis or gecmis[-1].get("font") != s["font"]) and \
+           all(g.get("palet") != s["palet"] and g.get("ton") != s["ton"] for g in gecmis[-3:]):
             return s
     return s
 
