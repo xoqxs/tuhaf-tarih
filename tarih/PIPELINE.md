@@ -26,6 +26,7 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
   1. Hikâyenin en şaşırtıcı anından hemen sonra tek cümlelik kanal vaadi (her videoda FARKLI ifade): ör. "Savaşların böyle unutulmuş hikâyeleri için takipte kal." / "Her akşam bir savaş sırrı: kanala katıl." "Abone ol" kelimesini her videoda kullanma.
   2. Son sahne = YARIN duyurusu + yorum sorusu: "Yarın: <SIRADAKİ konunun merak uyandıran tek cümlesi>." ve kısa, iki taraflı bir soru. Görseli kart: `{"kart": {"ust": "yarın", "ana": "<2–3 kelime>", "alt": "<kısa merak>"}}`.
   3. Mümkünse son cümle ilk cümleye bağlansın (video başa sarınca akış kopmasın).
+- **Anlaşılırlık:** İzleyici her cümleyi tek seferde, önceki bilgiye ihtiyaç duymadan anlamalı. İlginç bir ayrıntıyı kısaltırken bağlamını atma (kötü: "Suzuki'nin listesi tuhaftı: Onoda, panda, Kar Adamı." iyi: "Suzuki dünyayı dolaşıp sırayla üç şey arıyordu: Onoda, bir panda ve Kar Adamı."). Metni bitirince her sahneyi "bunu ilk kez duyan biri anlar mı?" diye oku.
 - Yasak: dolgu ("arkadaşlar", "bildiğiniz gibi"), abartı ("ŞOK"), uydurma diyalog, kanıtsız iddia, şiddet ayrıntısında sansasyon, "Tuhaf Tarih" adı.
 - Yıllar rakamla yazılabilir; diğer sayıları yazıyla yaz ("otuz iki derece"). Yabancı isimleri bir kez okunuşuna dikkat ederek yaz. Kart metinlerinde özel simge (→, •) kullanma.
 
