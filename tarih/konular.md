@@ -1,7 +1,7 @@
 # Belgesellerim – konu havuzu (savaş ağırlıklı)
 
 Kanal konumu (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** + daha az sıklıkla diğer tuhaf tarih konuları.
-Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2.
+Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2 — G (Osmanlı ve Türk) serisi en çok aranan seri olduğu için en fazla 3.
 Her konu yalnızca 1 kez işlenir: işlenince satır başı `[x] YYYY-AA-GG` yapılır.
 Her olgu **iki bağımsız güvenilir kaynakla** doğrulanır. Efsaneyi gerçek gibi anlatma; "efsane mi gerçek mi" açısını kullan. Vahşet/kan ayrıntısı YOK (reklam uygunluğu ve saygı): anlatı "tuhaflık ve şaşkınlık" üzerine kurulur.
 Havuzda 25'ten az boş konu kalınca görev, aynı kurallarla ve SEO araştırmasıyla 15 yeni konu ekler, raporda bildirir.
@@ -11,6 +11,18 @@ Havuzda 25'ten az boş konu kalınca görev, aynı kurallarla ve SEO araştırma
 - Doğrudan tutan ifadeler: "tarihin en kısa savaşı", "30 yıl teslim olmayan asker", "japon askeri 27 yıl", "dünyanın en garip silahları", "osmanlı'da yaşanmış ilginç olaylar", "osmanlı padişahları ilginç hikayeleri", "kanuni sultan süleyman fransa kralına mektup", "yavuz sultan selim mektup", "normandiya çıkarması gerçek görüntüler", "inanılmaz gerçek hikayeler", "bilinmeyen hitler".
 - Başlık formülleri (dönüşümlü): "<Ünlü isim> Neden <şaşırtıcı soru>?" · "<Aranan ifade>: <tuhaf ayrıntı>" · "<Sayı> Yıl/Dakika/Kişi … " · "Herkes X Sanıyor Ama …".
 - Her yeni konuda görev, youtube.com'da (uygulama içi tarayıcı) suggestqueries ile o konunun önerilerine bakar (PIPELINE 1) ve başlığı en çok aranan ifadeyle kurar.
+
+## SEO araştırması 2 (8 Kasım 2026): konu bazında talep ve rekabet
+YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
+- **Kanıtlanmış yüksek talep (100 bin – 1,5 milyon izlenen Shorts var):** Fahrettin Paşa / Medine müdafaası (580–595 B), Cengiz Han'ın mezarı (1,5 Mn, 336 B, 222 B; "nerede", "bulundu mu"), Napolyon ve tavşanlar (384 B), iki atom bombasından kurtulan adam (475 B), Seyit Onbaşı, Cem Sultan ("olayı", "kimdir"), Kut'ül Amare, Malazgirt, Viyana kuşatması, Kanuni'nin mektubu, Preveze, Simo Häyhä, Desmond Doss, Violet Jessop, Çar Bombası, "Hitler neden …".
+- **Orta talep:** Nusret mayın gemisi (Shorts 1–9 B), kayıp Norfolk alayı, Roma'nın kayıp lejyonu, 1838 Pasta Savaşı, 1914 Noel ateşkesi, "dünyanın en garip silahları", "Osmanlı'nın en saçma savaşı", "gemileri karadan yürütme".
+- **Doğrudan aranmayan (ama hikâyesi güçlü) konular:** Mincemeat, Hayalet Ordu, Panjandrum, Habakkuk, Fu-Go, Liechtenstein 1866, Hannibal'in filleri, savaş yunusları, casus kedi, Sezar ve korsanlar, Gordion. Bunlarda başlık konunun adıyla DEĞİL, bilinen isim + merak ile kurulur: "Hitler'i Bir Cesetle Kandıran Operasyon", "Şişme Tanklarla Kurulan Sahte Ordu", "80 Kişi Savaşa Gitti, 81 Kişi Döndü", "Japonya Amerika'yı Balonlarla Bombaladı".
+- **Rekabet notu:** Çok aranan konularda yeni yüklenen Shorts'lar çoğunlukla 1–8 bin izleniyor; tutanlar ya ilk yüklenenler ya da farklı bir açıdan anlatanlar. Bu yüzden çok aranan konularda kanca, herkesin anlattığı genel hikâye değil, az bilinen doğrulanmış bir ayrıntı olmalı (ör. Fahrettin Paşa için ateşkesten sonra geçen süre ya da teslim gününün kendisi).
+- **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
+
+## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
+1. Fahrettin Paşa (SIRADAKİ) 2. Cengiz Han'ın mezarı neden bulunamadı? 3. Tsutomu Yamaguchi 4. Napolyon ve tavşanlar 5. Seyit Onbaşı 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
+Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
 - 2026-11-08: Fahrettin Paşa – savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı" (seri G)
