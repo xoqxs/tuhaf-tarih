@@ -1,6 +1,6 @@
 # Tuhaf Tarih – günlük Shorts hattı (otomatik görev talimatı)
 
-Kanal: PanEdit (@Belgesellerim, kanal kimliği UCaf-xHOxP5Zd4ce84l4tbBQ). Niş: **tarihin tuhaf ama gerçek olayları**, 35–55 sn dikey Shorts.
+Kanal: Tuhaf Tarih (@Belgesellerim, kanal kimliği UCaf-xHOxP5Zd4ce84l4tbBQ; eski adı PanEdit). DİKKAT: aynı hesapta ayrı bir "PanEdit" (@panedit2026) kanalı da var, ona YÜKLEME. Niş: **tarihin tuhaf ama gerçek olayları**, 35–55 sn dikey Shorts.
 Sahip: Kadir Pars. Ses: ElevenLabs "Zangess" (voice_id t8fOU8zfPVWFYN34BllH, Kadir Bey 7 Kasım 2026'da seçti).
 Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa. Şifre yazma. WebFetch yerine WebSearch + uygulama içi tarayıcı (navigate + get_page_text).
 
@@ -46,7 +46,7 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 
 ## 7) YouTube yükleme (uygulama içi tarayıcı, kendi sekmen; Baby Collective görevindeki çalışan yöntem)
 KANAL ÇAKIŞMASI: Aynı Google hesabında Döviz Radar (UCETn8pkFCvCHQKpBAKnGXJw) ve Baby Collective var; Döviz Radar görevleri Studio'da Döviz Radar'ın etkin olmasını bekler. Başlarken tabs_context'te studio.youtube.com sekmesi açıksa 10 dk bekle (en fazla 3 kez), hâlâ açıksa DUR ve bildir.
-a) KANALA GEÇ: https://www.youtube.com/channel_switcher → "PanEdit" (@Belgesellerim) öğesine GERÇEK tıkla, 10 sn bekle. https://studio.youtube.com aç: adres /channel/UCaf-xHOxP5Zd4ce84l4tbBQ olmalı; değilse bir kez daha dene, olmazsa (g) ve DUR. Başka kanala ASLA yükleme.
+a) KANALA GEÇ: https://www.youtube.com/channel_switcher → "Tuhaf Tarih" (@Belgesellerim) öğesine GERÇEK tıkla (@panedit2026 DEĞİL), 10 sn bekle. https://studio.youtube.com aç: adres /channel/UCaf-xHOxP5Zd4ce84l4tbBQ olmalı; değilse bir kez daha dene, olmazsa (g) ve DUR. Başka kanala ASLA yükleme.
 b) navigate https://studio.youtube.com/channel/UCaf-xHOxP5Zd4ce84l4tbBQ/videos/upload?d=ud , 4 sn bekle; javascript_tool: `const r=await fetch(RAW_URL);const b=await r.blob();const f=new File([b],'<dosya>.mp4',{type:'video/mp4'});const inp=document.querySelector('input[type=file]');const dt=new DataTransfer();dt.items.add(f);inp.files=dt.files;inp.dispatchEvent(new Event('change',{bubbles:true}));` 8 sn bekle.
 c) 'ytcp-uploads-dialog #textbox[contenteditable=true]' kutularından ilki başlık, ikincisi açıklama (el.click(); el.focus(); document.execCommand('selectAll'); document.execCommand('insertText',false,metin)); textContent ile DOĞRULA.
 d) "Hayır, çocuklar için hazırlanmamış" (name=VIDEO_MADE_FOR_KIDS_NOT_MFK). "Daha fazla göster" → değiştirilmiş/sentetik içerik: arşiv fotoğrafı + anlatıcı sesi için "Hayır" (yapay zekâ ile gerçekçi görsel kullanıldıysa "Evet"); etiketler (8–12); dil Türkçe; kategori Eğitim. Oynatma listesi: serinin adı (yoksa oluştur, 2 cümlelik özgün açıklama).

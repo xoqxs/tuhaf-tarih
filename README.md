@@ -1,6 +1,6 @@
 # Tuhaf Tarih – otomatik YouTube Shorts hattı
 
-PanEdit (@Belgesellerim) kanalı için "tarihin tuhaf ama gerçek olayları" Shorts'ları.
+Tuhaf Tarih (@Belgesellerim) kanalı için "tarihin tuhaf ama gerçek olayları" Shorts'ları.
 
 - `tarih/PIPELINE.md` – günlük görevin adım adım talimatı (konu, doğrulama, metin, görsel, ses, kurgu, SEO, yükleme)
 - `tarih/konular.md` – seri bazlı konu havuzu (tekrar yok)
