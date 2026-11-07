@@ -1,0 +1,53 @@
+name: Tuhaf Tarih – ElevenLabs seslendirme
+# Bulut oturumu ElevenLabs'e erişemediği için seslendirme burada yapılır.
+# Görev, tarih/isler/<slug>/video.json dosyasını gönderir; bu iş ses_ham.mp3 + zaman.json üretip geri gönderir.
+on:
+  push:
+    paths:
+      - "tarih/isler/*/video.json"
+  workflow_dispatch:
+    inputs:
+      slug:
+        description: "İş klasörü (tarih/isler/<slug>); boşsa sesi olmayan tüm işler"
+        required: false
+permissions:
+  contents: write
+concurrency:
+  group: tarih-ses
+  cancel-in-progress: false
+jobs:
+  ses:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg >/dev/null
+      - name: Seslendir
+        env:
+          ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+          SLUG: ${{ github.event.inputs.slug }}
+        run: |
+          set -e
+          test -n "$ELEVENLABS_API_KEY" || { echo "::error::ELEVENLABS_API_KEY secret tanımlı değil"; exit 1; }
+          for d in tarih/isler/*/; do
+            s=$(basename "$d")
+            if [ -n "$SLUG" ] && [ "$s" != "$SLUG" ]; then continue; fi
+            # ses zaten varsa ve video.json ondan sonra değişmediyse atla
+            if [ -f "$d/zaman.json" ] && [ -f "$d/ses_ham.mp3" ] && [ "$d/zaman.json" -nt "$d/video.json" ] \
+               && grep -q elevenlabs "$d/zaman.json"; then continue; fi
+            if [ -n "$(git log -1 --format=%ct -- "$d/zaman.json" 2>/dev/null)" ] && \
+               [ "$(git log -1 --format=%ct -- "$d/zaman.json")" -ge "$(git log -1 --format=%ct -- "$d/video.json")" ] && \
+               grep -q elevenlabs "$d/zaman.json" 2>/dev/null; then continue; fi
+            echo "== $s"
+            python3 tarih/pipeline/ses.py "$d" eleven
+            rm -f "$d/ses.wav"
+          done
+      - name: Gönder
+        run: |
+          git config user.name "tarih-ses-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tarih/isler/*/zaman.json tarih/isler/*/ses_ham.mp3 2>/dev/null || true
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -m "Seslendirme (ElevenLabs) $(date -u +%F_%H%M)"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done; exit 1

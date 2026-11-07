@@ -1,0 +1,10 @@
+__pycache__/
+tarih/isler/*/k/
+tarih/isler/*/c*.mp4
+tarih/isler/*/c.txt
+tarih/isler/*/v.mp4
+tarih/isler/*/*.wav
+tarih/isler/*/qa/
+tarih/isler/*/alt.ass
+tarih/v/*onizleme*
+*/zaman.json.tahmini
