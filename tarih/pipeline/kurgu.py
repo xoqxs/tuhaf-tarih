@@ -27,6 +27,14 @@ HAREKET = {
 
 
 def cekim_listesi(is_, zaman, r, klasor):
+    atif = {}
+    ap = os.path.join(klasor, "atif.json")
+    if os.path.exists(ap):
+        atif = {a["dosya"]: a for a in oku(ap)}
+    def kucuk(dosya):  # Wikimedia aslı 900 px'ten darsa yakın plan bulanık olur
+        a = atif.get(os.path.basename(dosya), {})
+        return bool(a.get("w")) and min(a["w"], a.get("h") or a["w"]) < 900
+
     """Her sahneyi görüntü 3 saniyeyi geçmeyecek şekilde çekimlere böler."""
     cekimler = []
     hareketler = list(HAREKET)
@@ -43,7 +51,10 @@ def cekim_listesi(is_, zaman, r, klasor):
         liste = []
         for j in range(k):
             g = dict(gor[j % len(gor)])
-            if j >= len(gor) and "dosya" in g:
+            if j >= len(gor) and "dosya" in g and kucuk(g["dosya"]):
+                g.pop("duzen", None)   # düşük çözünürlüklü görsel: yakın plan yerine farklı düzen/hareket
+                g["duzen"] = "bulanik" if gor[j % len(gor)].get("duzen") != "bulanik" else "cerceve"
+            elif j >= len(gor) and "dosya" in g:
                 g["duzen"] = "detay"
                 o = g.get("odak", [0.5, 0.35])
                 g["odak"] = [min(0.8, max(0.2, o[0] + r.uniform(-0.12, 0.12))), min(0.7, max(0.15, o[1] + r.uniform(-0.08, 0.08)))]

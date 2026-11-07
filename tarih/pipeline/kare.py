@@ -115,7 +115,9 @@ def kare_kart(kart, stil, cikis, tohum=0):
     noise = Image.effect_noise((KW, KH), 22).convert("RGB")
     taban = Image.blend(taban, noise, 0.06)
     d = ImageDraw.Draw(taban)
-    yukari = lambda s: tr_upper(s) if s else s
+    # fontlarda olmayan simgeleri güvenli karşılıklarına çevir (ör. → kutucuk olarak çıkıyordu)
+    temizle = lambda s: s.replace("→", "–").replace("←", "–").replace("•", "·") if s else s
+    yukari = lambda s: tr_upper(temizle(s)) if s else s
     ana = yukari(kart.get("ana", ""))
     fa = _sigdir(d, ana, fy, KW - 160, 420)
     bb = d.textbbox((0, 0), ana, font=fa)
