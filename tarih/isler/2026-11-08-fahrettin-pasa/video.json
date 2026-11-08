@@ -10,7 +10,7 @@
  ],
  "vurgu_sahneleri": [
   5,
-  10
+  7
  ],
  "ses": {
   "voice_id": "t8fOU8zfPVWFYN34BllH",
@@ -18,78 +18,58 @@
  },
  "sahneler": [
   {
-   "metin": "Ocak 1919, Medine. Çöl Kaplanı Fahrettin Paşa yatağına girer.",
+   "metin": "Ocak 1919'da Çöl Kaplanı Fahrettin Paşa, Medine'yi teslim etmemek için yatağından kalkmayı reddeder.",
    "gorseller": [
     {
      "dosya": "img/fahr1.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/minare.jpg",
      "duzen": "doldur",
      "odak": [
       0.5,
-      0.25
+      0.4
      ]
     }
-   ]
+   ],
+   "etiket": "Medine"
   },
   {
-   "metin": "Şehir teslim ediliyor ama o gitmeyi reddediyor.",
-   "etiket": "Medine · Ocak 1919",
-   "gorseller": [
-    {
-     "dosya": "img/minare.jpg",
-     "duzen": "bulanik"
-    }
-   ]
-  },
-  {
-   "metin": "Oysa savaş yetmiş iki gün önce bitmiştir.",
+   "metin": "Oysa Osmanlı, yetmiş iki gün önce ateşkes imzalamıştır.",
    "gorseller": [
     {
      "kart": {
-      "ust": "Mondros'tan sonra",
+      "ust": "ateşkesten sonra",
       "ana": "72 gün"
      }
     }
    ]
   },
   {
-   "metin": "Paşa, 1916'dan beri Medine'yi savunuyor.",
+   "metin": "Paşa, 1916'dan beri bu şehri savunmaktadır.",
    "gorseller": [
     {
-     "dosya": "img/avlu.jpg",
-     "duzen": "bulanik"
+     "dosya": "img/avlu.jpg"
     },
     {
-     "dosya": "img/istasyon.jpg",
-     "duzen": "bulanik"
+     "dosya": "img/istasyon.jpg"
     }
    ]
   },
   {
-   "metin": "Üç kez teslim emri gelir.",
+   "metin": "İngilizler defalarca teslim olmasını ister. Paşa hep reddeder.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "Medine'ye gelen",
-      "ana": "3 emir"
-     }
-    }
-   ]
-  },
-  {
-   "metin": "Üç: İngilizler şartları bildirir. Cevap bile vermez.",
-   "gorseller": [
-    {
-     "dosya": "img/arap1.jpg",
-     "duzen": "cerceve"
+     "dosya": "img/arap1.jpg"
     },
     {
-     "dosya": "img/arap2.jpg",
-     "duzen": "bulanik"
+     "dosya": "img/arap2.jpg"
     }
    ]
   },
   {
-   "metin": "İki: İstanbul bir yüzbaşı gönderir. Paşa onu hapseder.",
+   "metin": "İstanbul, teslim emrini iletmesi için bir yüzbaşı yollar. Paşa onu tutuklatır.",
    "gorseller": [
     {
      "dosya": "img/fahr2.jpg",
@@ -98,37 +78,35 @@
    ]
   },
   {
-   "metin": "Bir: Padişahın imzalı emri gelir. Onu da dinlemez.",
+   "metin": "Sonra padişahın imzasını taşıyan emir gelir. Onu da dinlemez.",
+   "etiket": "Son emir",
    "gorseller": [
     {
-     "dosya": "img/ray.jpg",
-     "duzen": "bulanik"
-    }
-   ]
-  },
-  {
-   "metin": "Neden? Çünkü \"bayrağı kendi elimle indiremem\" diyordur.",
-   "gorseller": [
+     "dosya": "img/ray.jpg"
+    },
     {
      "kart": {
-      "ust": "Fahrettin Paşa",
-      "ana": "indiremem",
-      "alt": "bayrağı kendi elimle"
+      "ust": "son emir",
+      "ana": "padişahtan"
      }
     }
    ]
   },
   {
-   "metin": "Ama cephane ve ilaç bitmiştir, askerlerin çoğu hastadır.",
+   "metin": "Ama yiyecek, ilaç ve cephane bitmiştir; hastalık ve firarlar artmaktadır.",
    "gorseller": [
     {
-     "dosya": "img/istasyon.jpg",
-     "duzen": "detay"
+     "kart": {
+      "ust": "Medine'de",
+      "ana": "erzak yok",
+      "alt": "ilaç ve cephane de bitti"
+     }
     }
    ]
   },
   {
-   "metin": "Sonunda kendi subayları onu tutup düşman karargâhına götürür.",
+   "metin": "Sonunda kendi subayları onu yatağından alıp Şerif Abdullah'ın karargâhına götürür.",
+   "etiket": "10 Ocak 1919",
    "gorseller": [
     {
      "dosya": "img/fahr_yasli.jpg",
@@ -137,22 +115,46 @@
    ]
   },
   {
-   "metin": "Savaşların unutulmuş inatları için bu kanalda kal.",
+   "metin": "Paşa bu olayı, hayatının en acı günü diye anlatacaktır.",
    "gorseller": [
     {
-     "dosya": "img/mezar.jpg",
-     "duzen": "bulanik"
+     "dosya": "img/mezar.jpg"
     }
    ]
   },
   {
-   "metin": "Yarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı? Sence Paşa haklı mıydı, emre mi uymalıydı?",
+   "metin": "Böyle unutulmuş savaş hikâyeleri için takipte kal.",
+   "gorseller": [
+    {
+     "dosya": "img/minare.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Sence Paşa haklı mıydı, yoksa emre mi uymalıydı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "haklı mıydı?",
+      "alt": "yorumlara yaz"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı?",
    "gorseller": [
     {
      "kart": {
       "ust": "yarın",
       "ana": "Cengiz Han",
-      "alt": "mezarı neden bulunamadı"
+      "alt": "mezarı neden bulunamadı?"
      }
     }
    ]
@@ -160,7 +162,7 @@
  ],
  "seo": {
   "baslik": "Çöl Kaplanı Fahrettin Paşa Neden Teslim Olmadı? #shorts",
-  "aciklama": "Çöl Kaplanı Fahrettin Paşa, Mondros Mütarekesi'nden sonra 72 gün daha Medine'yi teslim etmedi. Medine müdafaası sırasında üç teslim emrini reddeden paşa, teslim oluşu gününde yatağına girip gitmeyi reddetti ve kendi subaylarınca götürüldü.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #1 – tüm bölümler oynatma listesinde\nYarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı?\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Fahreddin Paşa\"; John Slight, The Open University (OpenLearn), \"The First World War continues: Medina, Arabia, January 1919\"\nGörsel: Kolhisli, CC BY 4.0, Wikimedia Commons. Diğer görseller: Wikimedia Commons, kamu malı\n\n#fahrettinpaşa #medinemüdafaası #çölkaplanı #osmanlı #shorts",
+  "aciklama": "Çöl Kaplanı Fahrettin Paşa, Mondros Mütarekesi'nden sonra 72 gün daha Medine'yi teslim etmedi. İngilizlerin çağrısını, İstanbul'un gönderdiği yüzbaşıyı ve padişahın imzalı emrini reddetti; teslim günü yatağından kalkmayı reddedince kendi subayları onu karşı tarafın karargâhına götürdü.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #1 – tüm bölümler oynatma listesinde\nYarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı?\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Fahreddin Paşa\"; John Slight, The Open University (OpenLearn), \"The First World War continues: Medina, Arabia, January 1919\"\nGörsel: Kolhisli, CC BY 4.0, Wikimedia Commons. Diğer görseller: Wikimedia Commons, kamu malı\n\n#fahrettinpaşa #medinemüdafaası #çölkaplanı #osmanlı #shorts",
   "etiketler": [
    "fahrettin paşa",
    "çöl kaplanı fahrettin paşa",
