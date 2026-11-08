@@ -21,14 +21,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. Fahrettin Paşa (SIRADAKİ) 2. Cengiz Han'ın mezarı neden bulunamadı? 3. Tsutomu Yamaguchi 4. Napolyon ve tavşanlar 5. Seyit Onbaşı 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
+1. ~~Fahrettin Paşa~~ 2. Cengiz Han'ın mezarı neden bulunamadı? (SIRADAKİ) 3. Tsutomu Yamaguchi 4. Napolyon ve tavşanlar 5. Seyit Onbaşı 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-08: Fahrettin Paşa – savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı" (seri G)
+- 2026-11-09: Cengiz Han'ın mezarı neden hâlâ bulunamadı? (seri H)
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -93,7 +93,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Violet Jessop: Titanic, Olympic ve Britannic'ten kurtulan hemşire — "titanik"
 
 ## G. Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler (kaynak: TDV İA, üniversite yayınları)
-- [ ] Fahrettin Paşa: savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı" (SIRADAKİ)
+- [x] 2026-11-08 Fahrettin Paşa: savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı"
 - [ ] Fatih gemileri karadan nasıl yürüttü? — "istanbulun fethi"
 - [ ] Viyana kuşatması neden başarısız oldu? (1683) — doğrudan aranan soru
 - [ ] Kanuni'nin Fransa kralına mektubu (1526): neden yazıldı, ne diyordu? — doğrudan aranan
@@ -109,7 +109,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
 - [ ] Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
 - [ ] Napolyon piramitte ne gördü? efsane mi gerçek mi — doğrudan aranan
-- [ ] Cengiz Han'ın mezarı neden hâlâ bulunamadı? — doğrudan aranan
+- [ ] (SIRADAKİ) Cengiz Han'ın mezarı neden hâlâ bulunamadı? — doğrudan aranan
 - [ ] Jül Sezar'ı kaçıran korsanlar
 - [ ] Atilla nasıl öldü? (Priskos'un anlatısı)
 - [ ] Timur'un mezarı ve 1941 "lanet" efsanesi
