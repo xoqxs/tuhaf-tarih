@@ -31,5 +31,16 @@
   "ilerleme": true,
   "tanecik": true,
   "vinyet": false
+ },
+ {
+  "slug": "2026-11-08-fahrettin-pasa",
+  "font": "Archivo Black",
+  "palet": "buz",
+  "ton": "solgun",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": false,
+  "vinyet": true
  }
 ]
