@@ -1,5 +1,7 @@
 # Belgesellerim – konu havuzu (savaş ağırlıklı)
 
+Bu haftanın ağırlığı (2026-11-08): savaş ~%70 sürer, ÖNCELİK SIRASI korunur; başlıkta isim + rakam veya "neden" kalıbı öne çıkar (Onoda 1.134, Maraton 503 görüntüleme; veri az).
+
 Kanal konumu (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** + daha az sıklıkla diğer tuhaf tarih konuları.
 Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2 — G (Osmanlı ve Türk) serisi en çok aranan seri olduğu için en fazla 3.
 Her konu yalnızca 1 kez işlenir: işlenince satır başı `[x] YYYY-AA-GG` yapılır.
