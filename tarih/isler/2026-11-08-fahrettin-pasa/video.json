@@ -1,0 +1,189 @@
+{
+ "slug": "2026-11-08-fahrettin-pasa",
+ "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
+ "seri_rozet": "Osmanlı ve Türk #1",
+ "duygu": "epik",
+ "tempo": 1.14,
+ "kapak": [
+  "Savaş bitti ama paşa",
+  "Medine'yi vermedi"
+ ],
+ "vurgu_sahneleri": [
+  5,
+  10
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "sahneler": [
+  {
+   "metin": "Ocak 1919, Medine. Çöl Kaplanı Fahrettin Paşa yatağına girer.",
+   "gorseller": [
+    {
+     "dosya": "img/fahr1.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.25
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Şehir teslim ediliyor ama o gitmeyi reddediyor.",
+   "etiket": "Medine · Ocak 1919",
+   "gorseller": [
+    {
+     "dosya": "img/minare.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Oysa savaş yetmiş iki gün önce bitmiştir.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Mondros'tan sonra",
+      "ana": "72 gün"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Paşa, 1916'dan beri Medine'yi savunuyor.",
+   "gorseller": [
+    {
+     "dosya": "img/avlu.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "dosya": "img/istasyon.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Üç kez teslim emri gelir.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Medine'ye gelen",
+      "ana": "3 emir"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Üç: İngilizler şartları bildirir. Cevap bile vermez.",
+   "gorseller": [
+    {
+     "dosya": "img/arap1.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/arap2.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "İki: İstanbul bir yüzbaşı gönderir. Paşa onu hapseder.",
+   "gorseller": [
+    {
+     "dosya": "img/fahr2.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Bir: Padişahın imzalı emri gelir. Onu da dinlemez.",
+   "gorseller": [
+    {
+     "dosya": "img/ray.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Neden? Çünkü \"bayrağı kendi elimle indiremem\" diyordur.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Fahrettin Paşa",
+      "ana": "indiremem",
+      "alt": "bayrağı kendi elimle"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Ama cephane ve ilaç bitmiştir, askerlerin çoğu hastadır.",
+   "gorseller": [
+    {
+     "dosya": "img/istasyon.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "Sonunda kendi subayları onu tutup düşman karargâhına götürür.",
+   "etiket": "Ocak 1919",
+   "gorseller": [
+    {
+     "dosya": "img/fahr_yasli.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Savaşların unutulmuş inatları için bu kanalda kal.",
+   "gorseller": [
+    {
+     "dosya": "img/mezar.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı? Sence Paşa haklı mıydı, emre mi uymalıydı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "Cengiz Han",
+      "alt": "mezarı neden bulunamadı"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Çöl Kaplanı Fahrettin Paşa Neden Teslim Olmadı? #shorts",
+  "aciklama": "Çöl Kaplanı Fahrettin Paşa, Mondros Mütarekesi'nden sonra 72 gün daha Medine'yi teslim etmedi. Medine müdafaası sırasında üç teslim emrini reddeden paşa, teslim oluşu gününde yatağına girip gitmeyi reddetti ve kendi subaylarınca götürüldü.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #1 – tüm bölümler oynatma listesinde\nYarın: Cengiz Han'ın mezarı neden hâlâ bulunamadı?\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Fahreddin Paşa\"; John Slight, The Open University (OpenLearn), \"The First World War continues: Medina, Arabia, January 1919\"\nGörsel: Kolhisli, CC BY 4.0, Wikimedia Commons. Diğer görseller: Wikimedia Commons, kamu malı\n\n#fahrettinpaşa #medinemüdafaası #çölkaplanı #osmanlı #shorts",
+  "etiketler": [
+   "fahrettin paşa",
+   "çöl kaplanı fahrettin paşa",
+   "fahrettin paşa medine müdafaası",
+   "medine müdafaası",
+   "fahrettin paşa teslim oluşu",
+   "medine savunması",
+   "mondros mütarekesi",
+   "osmanlı tarihi",
+   "birinci dünya savaşı",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#fahrettinpaşa",
+   "#medinemüdafaası",
+   "#çölkaplanı",
+   "#osmanlı",
+   "#shorts"
+  ],
+  "kaynaklar": [
+   "TDV İslâm Ansiklopedisi: Fahreddin Paşa",
+   "The Open University OpenLearn (J. Slight)"
+  ]
+ }
+}
