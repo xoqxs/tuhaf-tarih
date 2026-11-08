@@ -5,8 +5,8 @@
  "duygu": "epik",
  "tempo": 1.14,
  "kapak": [
-  "Savaş bitti ama paşa",
-  "Medine'yi vermedi"
+  "Ateşkes imzalandı ama",
+  "paşa Medine'yi vermedi"
  ],
  "vurgu_sahneleri": [
   5,
@@ -126,7 +126,7 @@
    "metin": "Böyle unutulmuş savaş hikâyeleri için takipte kal.",
    "gorseller": [
     {
-     "dosya": "img/minare.jpg",
+     "dosya": "img/fahr1.jpg",
      "duzen": "detay",
      "odak": [
       0.5,
