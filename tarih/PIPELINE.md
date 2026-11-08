@@ -31,6 +31,9 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 - Yasak: dolgu ("arkadaşlar", "bildiğiniz gibi"), abartı ("ŞOK"), uydurma diyalog, kanıtsız iddia, şiddet ayrıntısında sansasyon, "Tuhaf Tarih" adı.
 - Yıllar rakamla yazılabilir; diğer sayıları yazıyla yaz ("otuz iki derece"). Yabancı isimleri bir kez okunuşuna dikkat ederek yaz. Kart metinlerinde özel simge (→, •) kullanma.
 
+## 2b) EDİTÖR KONTROLÜ (zorunlu, seslendirmeden önce)
+`tarih/editor.md`'yi uygula: metni Agent aracıyla bağımsız bir alt ajana kontrol ettir; GEÇTİ almadan seslendirmeye GEÇME (en fazla 3 tur, olmazsa DUR ve bildir). Sonucu iş klasörüne `editor.txt` olarak kaydet.
+
 ## 3) Görseller
 - Önce gerçek arşiv: `python3 tarih/pipeline/wm.py s "arama" 10` → `wm.py i "File:..." tarih/isler/<iş>/img/ad.jpg`. Yalnızca PD/CC0/CC BY/CC BY-SA (wm.py denetler). Atıflar `atif.json`'a yazılır; BY/BY-SA olanlar açıklamaya.
 - Görüntü en fazla ~3 sn ekranda kalır (kurgu otomatik böler); sahne başına 1–3 görsel. Bir videoda aynı görsel en fazla 2 kez (ikincisi otomatik yakın plan olur). `kullanilan-gorseller.txt`'de olanı tekrar kullanma.
