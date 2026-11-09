@@ -7,7 +7,7 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 
 ## 0) Başlangıç
 - `git clone`/`pull` depo → `/home/claude/tuhaf-tarih`. `pip install --break-system-packages -q pillow numpy fonttools` (eksikse).
-- `tarih/gunluk.md`'de bugünün tarihli "yayınlandı" kaydı varsa DUR (mesaj gönderme).
+- `tarih/gunluk.md`'de bugünün tarihli "yayınlandı" kaydı varsa DUR (mesaj gönderme). Seri sütunu "ÖZEL" ile başlayan satırlar (özel gün videoları) SAYILMAZ: o gün günlük video yine de üretilir ve yayınlanır.
 - Son 15 günlük satırını oku: seri, başlık kalıbı, kanca türü, yapı, duygu. Yeni video bunların hiçbirini bir önceki videoyla aynı kullanmaz.
 
 ## 1) Konu seçimi ve SEO araştırması
@@ -90,4 +90,4 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
 - Kararı `konular.md` başına "Bu haftanın ağırlığı:" satırı olarak yaz; günlük görev konu seçerken buna uyar (oran ve seri kurallarını bozmadan).
 - Rapor: 3 satır özet + derleme bağlantısı.
 
-- **10 Kasım 2026 notu:** ElevenLabs anahtarında `music_generation` ve `sound_generation` izni yok (401). `eleven_muzik`/`eleven_sfx` sessizce atlanır; müzik sentetik üretilir, efekt gerekiyorsa numpy ile `sfx_<ad>.mp3` olarak iş klasörüne yazılır. Özel gün videosu yayınlanan gün günlük konu atlanır, SIRADAKİ ertesi güne kalır. Kapak yazısı görselle çakışırsa `kapak_y` (varsayılan 330) ile yukarı alınır.
+- **10 Kasım 2026 notu:** ElevenLabs anahtarında `music_generation` ve `sound_generation` izni yok (401). `eleven_muzik`/`eleven_sfx` sessizce atlanır; müzik sentetik üretilir, efekt gerekiyorsa numpy ile `sfx_<ad>.mp3` olarak iş klasörüne yazılır. Özel gün videosu günlük videoyu ENGELLEMEZ (kullanıcı kararı): aynı gün 15:07 görevi SIRADAKİ konuyu yine yayınlar. Kapak yazısı görselle çakışırsa `kapak_y` (varsayılan 330) ile yukarı alınır.
