@@ -89,3 +89,5 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
 - `tarih/gunluk.md` sonuna "### Haftalık özet YYYY-AA-GG" başlığıyla: en iyi 3 ve en zayıf 3 video (görüntüleme), hangi seri/kanca/başlık kalıbının iyi gittiği, 2–3 maddelik karar (ör. "G serisi iki kat izlendi → önümüzdeki hafta 2 G videosu").
 - Kararı `konular.md` başına "Bu haftanın ağırlığı:" satırı olarak yaz; günlük görev konu seçerken buna uyar (oran ve seri kurallarını bozmadan).
 - Rapor: 3 satır özet + derleme bağlantısı.
+
+- **10 Kasım 2026 notu:** ElevenLabs anahtarında `music_generation` ve `sound_generation` izni yok (401). `eleven_muzik`/`eleven_sfx` sessizce atlanır; müzik sentetik üretilir, efekt gerekiyorsa numpy ile `sfx_<ad>.mp3` olarak iş klasörüne yazılır. Özel gün videosu yayınlanan gün günlük konu atlanır, SIRADAKİ ertesi güne kalır. Kapak yazısı görselle çakışırsa `kapak_y` (varsayılan 330) ile yukarı alınır.
