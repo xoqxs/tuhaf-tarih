@@ -1,0 +1,668 @@
+{
+ "kelimeler": [
+  {
+   "w": "Bir",
+   "s": 0.0,
+   "e": 0.16,
+   "sahne": 0
+  },
+  {
+   "w": "cep",
+   "s": 0.22,
+   "e": 0.4,
+   "sahne": 0
+  },
+  {
+   "w": "saati,",
+   "s": 0.48,
+   "e": 0.96,
+   "sahne": 0
+  },
+  {
+   "w": "Mustafa",
+   "s": 1.03,
+   "e": 1.52,
+   "sahne": 0
+  },
+  {
+   "w": "Kemal'in",
+   "s": 1.573,
+   "e": 2.0,
+   "sahne": 0
+  },
+  {
+   "w": "hayatını",
+   "s": 2.067,
+   "e": 2.56,
+   "sahne": 0
+  },
+  {
+   "w": "kurtardı.",
+   "s": 2.6,
+   "e": 3.28,
+   "sahne": 0
+  },
+  {
+   "w": "On",
+   "s": 3.653,
+   "e": 4.4,
+   "sahne": 1
+  },
+  {
+   "w": "Ağustos",
+   "s": 4.47,
+   "e": 4.96,
+   "sahne": 1
+  },
+  {
+   "w": "1915,",
+   "s": 5.04,
+   "e": 6.24,
+   "sahne": 1
+  },
+  {
+   "w": "Çanakkale.",
+   "s": 6.36,
+   "e": 7.12,
+   "sahne": 1
+  },
+  {
+   "w": "Albay",
+   "s": 7.4,
+   "e": 8.32,
+   "sahne": 1
+  },
+  {
+   "w": "Mustafa",
+   "s": 8.38,
+   "e": 8.8,
+   "sahne": 1
+  },
+  {
+   "w": "Kemal,",
+   "s": 8.867,
+   "e": 9.6,
+   "sahne": 1
+  },
+  {
+   "w": "Conkbayırı'ndaki",
+   "s": 9.64,
+   "e": 10.48,
+   "sahne": 1
+  },
+  {
+   "w": "çarpışmaların",
+   "s": 10.544,
+   "e": 11.28,
+   "sahne": 1
+  },
+  {
+   "w": "içindedir.",
+   "s": 11.333,
+   "e": 11.92,
+   "sahne": 1
+  },
+  {
+   "w": "Bir",
+   "s": 12.1,
+   "e": 12.64,
+   "sahne": 2
+  },
+  {
+   "w": "şarapnel",
+   "s": 12.72,
+   "e": 13.28,
+   "sahne": 2
+  },
+  {
+   "w": "parçası",
+   "s": 13.34,
+   "e": 13.76,
+   "sahne": 2
+  },
+  {
+   "w": "göğsüne",
+   "s": 13.813,
+   "e": 14.24,
+   "sahne": 2
+  },
+  {
+   "w": "çarpar.",
+   "s": 14.32,
+   "e": 14.88,
+   "sahne": 2
+  },
+  {
+   "w": "Parça,",
+   "s": 15.06,
+   "e": 15.92,
+   "sahne": 3
+  },
+  {
+   "w": "cebindeki",
+   "s": 16.08,
+   "e": 16.64,
+   "sahne": 3
+  },
+  {
+   "w": "saati",
+   "s": 16.693,
+   "e": 17.04,
+   "sahne": 3
+  },
+  {
+   "w": "paramparça",
+   "s": 17.107,
+   "e": 17.76,
+   "sahne": 3
+  },
+  {
+   "w": "eder",
+   "s": 17.824,
+   "e": 18.08,
+   "sahne": 3
+  },
+  {
+   "w": "ama",
+   "s": 18.22,
+   "e": 18.64,
+   "sahne": 3
+  },
+  {
+   "w": "vücuduna",
+   "s": 18.76,
+   "e": 19.44,
+   "sahne": 3
+  },
+  {
+   "w": "işleyemez.",
+   "s": 19.547,
+   "e": 20.32,
+   "sahne": 3
+  },
+  {
+   "w": "Mustafa",
+   "s": 20.46,
+   "e": 21.44,
+   "sahne": 4
+  },
+  {
+   "w": "Kemal,",
+   "s": 21.493,
+   "e": 21.84,
+   "sahne": 4
+  },
+  {
+   "w": "parçalanan",
+   "s": 21.952,
+   "e": 22.72,
+   "sahne": 4
+  },
+  {
+   "w": "saati",
+   "s": 22.8,
+   "e": 23.12,
+   "sahne": 4
+  },
+  {
+   "w": "sonradan,",
+   "s": 23.2,
+   "e": 23.84,
+   "sahne": 4
+  },
+  {
+   "w": "o",
+   "s": 24.04,
+   "e": 24.24,
+   "sahne": 4
+  },
+  {
+   "w": "günün",
+   "s": 24.28,
+   "e": 24.56,
+   "sahne": 4
+  },
+  {
+   "w": "hatırası",
+   "s": 24.64,
+   "e": 25.2,
+   "sahne": 4
+  },
+  {
+   "w": "olarak",
+   "s": 25.257,
+   "e": 25.6,
+   "sahne": 4
+  },
+  {
+   "w": "komutanı",
+   "s": 25.76,
+   "e": 26.56,
+   "sahne": 4
+  },
+  {
+   "w": "Liman",
+   "s": 26.7,
+   "e": 27.28,
+   "sahne": 4
+  },
+  {
+   "w": "von",
+   "s": 27.38,
+   "e": 27.68,
+   "sahne": 4
+  },
+  {
+   "w": "Sanders'e",
+   "s": 27.75,
+   "e": 28.32,
+   "sahne": 4
+  },
+  {
+   "w": "verir.",
+   "s": 28.387,
+   "e": 29.2,
+   "sahne": 4
+  },
+  {
+   "w": "O",
+   "s": 29.44,
+   "e": 29.68,
+   "sahne": 5
+  },
+  {
+   "w": "saat",
+   "s": 29.744,
+   "e": 30.0,
+   "sahne": 5
+  },
+  {
+   "w": "olmasaydı,",
+   "s": 30.08,
+   "e": 30.88,
+   "sahne": 5
+  },
+  {
+   "w": "belki",
+   "s": 30.987,
+   "e": 31.52,
+   "sahne": 5
+  },
+  {
+   "w": "ne",
+   "s": 31.6,
+   "e": 31.76,
+   "sahne": 5
+  },
+  {
+   "w": "Kurtuluş",
+   "s": 31.824,
+   "e": 32.44,
+   "sahne": 5
+  },
+  {
+   "w": "Savaşı",
+   "s": 32.469,
+   "e": 32.64,
+   "sahne": 5
+  },
+  {
+   "w": "olurdu",
+   "s": 32.704,
+   "e": 33.28,
+   "sahne": 5
+  },
+  {
+   "w": "ne",
+   "s": 33.413,
+   "e": 33.68,
+   "sahne": 5
+  },
+  {
+   "w": "de",
+   "s": 33.707,
+   "e": 33.76,
+   "sahne": 5
+  },
+  {
+   "w": "Cumhuriyet.",
+   "s": 33.825,
+   "e": 34.56,
+   "sahne": 5
+  },
+  {
+   "w": "Yirmi",
+   "s": 35.04,
+   "e": 35.76,
+   "sahne": 6
+  },
+  {
+   "w": "üç",
+   "s": 35.787,
+   "e": 35.84,
+   "sahne": 6
+  },
+  {
+   "w": "yıl",
+   "s": 35.9,
+   "e": 36.08,
+   "sahne": 6
+  },
+  {
+   "w": "sonra:",
+   "s": 36.16,
+   "e": 36.8,
+   "sahne": 6
+  },
+  {
+   "w": "On",
+   "s": 36.933,
+   "e": 37.2,
+   "sahne": 6
+  },
+  {
+   "w": "Kasım",
+   "s": 37.267,
+   "e": 37.6,
+   "sahne": 6
+  },
+  {
+   "w": "1938,",
+   "s": 37.68,
+   "e": 39.04,
+   "sahne": 6
+  },
+  {
+   "w": "Dolmabahçe",
+   "s": 39.16,
+   "e": 39.92,
+   "sahne": 6
+  },
+  {
+   "w": "Sarayı.",
+   "s": 39.98,
+   "e": 40.4,
+   "sahne": 6
+  },
+  {
+   "w": "Saat",
+   "s": 40.667,
+   "e": 41.36,
+   "sahne": 7
+  },
+  {
+   "w": "dokuzu",
+   "s": 41.42,
+   "e": 41.76,
+   "sahne": 7
+  },
+  {
+   "w": "beş",
+   "s": 41.82,
+   "e": 42.0,
+   "sahne": 7
+  },
+  {
+   "w": "geçe,",
+   "s": 42.08,
+   "e": 42.56,
+   "sahne": 7
+  },
+  {
+   "w": "Atatürk",
+   "s": 42.67,
+   "e": 43.44,
+   "sahne": 7
+  },
+  {
+   "w": "hayata",
+   "s": 43.509,
+   "e": 43.92,
+   "sahne": 7
+  },
+  {
+   "w": "gözlerini",
+   "s": 43.98,
+   "e": 44.4,
+   "sahne": 7
+  },
+  {
+   "w": "yumar.",
+   "s": 44.44,
+   "e": 44.88,
+   "sahne": 7
+  },
+  {
+   "w": "Bu",
+   "s": 45.093,
+   "e": 45.52,
+   "sahne": 8
+  },
+  {
+   "w": "kez",
+   "s": 45.6,
+   "e": 45.84,
+   "sahne": 8
+  },
+  {
+   "w": "onu",
+   "s": 45.98,
+   "e": 46.4,
+   "sahne": 8
+  },
+  {
+   "w": "koruyacak",
+   "s": 46.453,
+   "e": 46.96,
+   "sahne": 8
+  },
+  {
+   "w": "bir",
+   "s": 47.02,
+   "e": 47.2,
+   "sahne": 8
+  },
+  {
+   "w": "cep",
+   "s": 47.28,
+   "e": 47.52,
+   "sahne": 8
+  },
+  {
+   "w": "saati",
+   "s": 47.573,
+   "e": 47.92,
+   "sahne": 8
+  },
+  {
+   "w": "yoktur.",
+   "s": 47.989,
+   "e": 48.48,
+   "sahne": 8
+  },
+  {
+   "w": "Her",
+   "s": 48.72,
+   "e": 49.44,
+   "sahne": 9
+  },
+  {
+   "w": "On",
+   "s": 49.547,
+   "e": 49.76,
+   "sahne": 9
+  },
+  {
+   "w": "Kasım'da,",
+   "s": 49.813,
+   "e": 50.68,
+   "sahne": 9
+  },
+  {
+   "w": "saat",
+   "s": 50.752,
+   "e": 51.04,
+   "sahne": 9
+  },
+  {
+   "w": "dokuzu",
+   "s": 51.1,
+   "e": 51.44,
+   "sahne": 9
+  },
+  {
+   "w": "beş",
+   "s": 51.52,
+   "e": 51.76,
+   "sahne": 9
+  },
+  {
+   "w": "geçe",
+   "s": 51.82,
+   "e": 52.08,
+   "sahne": 9
+  },
+  {
+   "w": "sirenler",
+   "s": 52.28,
+   "e": 52.96,
+   "sahne": 9
+  },
+  {
+   "w": "çalar.",
+   "s": 53.0,
+   "e": 53.44,
+   "sahne": 9
+  },
+  {
+   "w": "Ve",
+   "s": 53.627,
+   "e": 54.0,
+   "sahne": 10
+  },
+  {
+   "w": "bütün",
+   "s": 54.067,
+   "e": 54.4,
+   "sahne": 10
+  },
+  {
+   "w": "Türkiye,",
+   "s": 54.47,
+   "e": 55.04,
+   "sahne": 10
+  },
+  {
+   "w": "iki",
+   "s": 55.16,
+   "e": 55.52,
+   "sahne": 10
+  },
+  {
+   "w": "dakikalığına",
+   "s": 55.56,
+   "e": 56.24,
+   "sahne": 10
+  },
+  {
+   "w": "durur.",
+   "s": 56.3,
+   "e": 57.28,
+   "sahne": 10
+  },
+  {
+   "w": "Saygı,",
+   "s": 57.42,
+   "e": 58.16,
+   "sahne": 11
+  },
+  {
+   "w": "minnet",
+   "s": 58.3,
+   "e": 58.96,
+   "sahne": 11
+  },
+  {
+   "w": "ve",
+   "s": 59.147,
+   "e": 59.52,
+   "sahne": 11
+  },
+  {
+   "w": "özlemle",
+   "s": 59.707,
+   "e": 60.4,
+   "sahne": 11
+  },
+  {
+   "w": "anıyoruz.",
+   "s": 60.427,
+   "e": 61.04,
+   "sahne": 11
+  }
+ ],
+ "sahneler": [
+  {
+   "s": 0.0,
+   "e": 3.653
+  },
+  {
+   "s": 3.653,
+   "e": 12.1
+  },
+  {
+   "s": 12.1,
+   "e": 15.06
+  },
+  {
+   "s": 15.06,
+   "e": 20.46
+  },
+  {
+   "s": 20.46,
+   "e": 29.44
+  },
+  {
+   "s": 29.44,
+   "e": 35.04
+  },
+  {
+   "s": 35.04,
+   "e": 40.667
+  },
+  {
+   "s": 40.667,
+   "e": 45.093
+  },
+  {
+   "s": 45.093,
+   "e": 48.72
+  },
+  {
+   "s": 48.72,
+   "e": 53.627
+  },
+  {
+   "s": 53.627,
+   "e": 57.42
+  },
+  {
+   "s": 57.42,
+   "e": 61.04
+  }
+ ],
+ "sure": 61.04,
+ "saglayici": "elevenlabs:t8fOU8zfPVWFYN34BllH",
+ "ozet": "dd89497881795dfc89dbca285d9ad21a",
+ "ekstra": {
+  "muzik": false,
+  "sfx": [],
+  "hata": [
+   "muzik 401 b'{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission music_generation to execute this operation.\",\"status\":\"missing_permissions\",\"re'",
+   "muzik 401 b'{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission music_generation to execute this operation.\",\"status\":\"missing_permissions\",\"re'",
+   "sfx tik 401 b'{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission sound_generation to execute this operation.\",\"status\":\"missing_permissions\",\"re'",
+   "sfx carpma 401 b'{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission sound_generation to execute this operation.\",\"status\":\"missing_permissions\",\"re'",
+   "sfx siren 401 b'{\"detail\":{\"type\":\"authentication_error\",\"code\":\"unauthorized\",\"message\":\"The API key you used is missing the permission sound_generation to execute this operation.\",\"status\":\"missing_permissions\",\"re'"
+  ]
+ }
+}
