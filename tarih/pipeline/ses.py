@@ -171,7 +171,48 @@ def tahmini(is_, klasor, hiz=15.5):
 def ozet(is_):
     import hashlib
     metin, _ = birlesik_metin(is_)
-    return hashlib.md5((metin + json.dumps(is_.get("ses", {}), sort_keys=True)).encode()).hexdigest()
+    ek = json.dumps([is_.get("ses", {}), is_.get("eleven_muzik"), is_.get("eleven_sfx")], sort_keys=True, ensure_ascii=False)
+    return hashlib.md5((metin + ek).encode()).hexdigest()
+
+
+def _eleven_post(yol, govde, cikis, zaman_asimi=300):
+    req = urllib.request.Request("https://api.elevenlabs.io" + yol, data=json.dumps(govde).encode(),
+                                 headers={"xi-api-key": os.environ["ELEVENLABS_API_KEY"], "Content-Type": "application/json"})
+    with urllib.request.urlopen(req, timeout=zaman_asimi) as r:
+        veri = r.read()
+    if len(veri) < 2000:
+        raise RuntimeError("yanıt çok kısa: %r" % veri[:200])
+    open(cikis, "wb").write(veri)
+
+
+def ekstra(is_, klasor):
+    """video.json'da istenirse ElevenLabs ile müzik (muzik_el.mp3) ve ses efektleri (sfx_<ad>.mp3) üretir.
+    Plan/izin yetmezse ya da hata olursa atlar; kurgu.py sentetik müziğe döner."""
+    sonuc = {"muzik": False, "sfx": [], "hata": []}
+    mz = is_.get("eleven_muzik")
+    if mz:
+        cik = os.path.join(klasor, "muzik_el.mp3")
+        govdeler = [{"prompt": mz["prompt"], "music_length_ms": int(mz.get("sure_ms", 60000)), "model_id": "music_v1", "force_instrumental": True},
+                    {"prompt": mz["prompt"], "music_length_ms": int(mz.get("sure_ms", 60000))}]
+        for g in govdeler:
+            try:
+                _eleven_post("/v1/music", g, cik); sonuc["muzik"] = True; break
+            except urllib.error.HTTPError as e:
+                sonuc["hata"].append(f"muzik {e.code} {e.read()[:200]!r}")
+            except Exception as e:
+                sonuc["hata"].append(f"muzik {e!r}")
+    for sx in is_.get("eleven_sfx", []):
+        cik = os.path.join(klasor, f"sfx_{sx['ad']}.mp3")
+        try:
+            _eleven_post("/v1/sound-generation", {"text": sx["text"], "duration_seconds": float(sx.get("sure", 4)),
+                                                  "prompt_influence": float(sx.get("etki", 0.4))}, cik, 120)
+            sonuc["sfx"].append(sx["ad"])
+        except urllib.error.HTTPError as e:
+            sonuc["hata"].append(f"sfx {sx['ad']} {e.code} {e.read()[:200]!r}")
+        except Exception as e:
+            sonuc["hata"].append(f"sfx {sx['ad']} {e!r}")
+    print("ekstra:", sonuc)
+    return sonuc
 
 
 if __name__ == "__main__":
@@ -184,5 +225,7 @@ if __name__ == "__main__":
         print("guncel" if guncel else "yenile"); sys.exit(0)
     z = {"eleven": eleven, "azure": azure, "tahmini": tahmini}[mod](is_, klasor)
     z["ozet"] = ozet(is_)
+    if mod == "eleven" and (is_.get("eleven_muzik") or is_.get("eleven_sfx")):
+        z["ekstra"] = ekstra(is_, klasor)
     yaz(os.path.join(klasor, "zaman.json"), z)
     print(z["saglayici"], "süre", z["sure"], "sahneler", [round(s["e"] - s["s"], 1) for s in z["sahneler"]])

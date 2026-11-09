@@ -1,0 +1,255 @@
+{
+ "slug": "2026-11-10-ataturk-saat",
+ "seri": "ÖZEL – 10 Kasım Atatürk'ü Anma",
+ "seri_rozet": "10 Kasım · Saygıyla",
+ "duygu": "huzun",
+ "tempo": 1.06,
+ "kuyruk": 2.6,
+ "max_cekim": 4.2,
+ "efekt_seviye": 0,
+ "vurgu_sahneleri": [],
+ "kapak": [
+  "Onu bir cep saati kurtardı",
+  "10 Kasım 09.05"
+ ],
+ "kapak_sure": 2.6,
+ "stil": {
+  "font": "Anton",
+  "palet": "anma",
+  "ton": "siyahbeyaz",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
+ },
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3",
+  "stability": 0.5,
+  "style": 0.25
+ },
+ "eleven_muzik": {
+  "prompt": "Slow, solemn memorial piece for solo piano with warm sustained strings. Mournful but dignified and reverent, like a state remembrance ceremony. Minor key, very slow tempo, gentle swell in the last third, soft ending. Instrumental only, no vocals, no drums, no percussion.",
+  "sure_ms": 70000
+ },
+ "eleven_sfx": [
+  {
+   "ad": "tik",
+   "text": "Close-up of an antique mechanical pocket watch ticking steadily in a silent room, clear soft ticks, no music",
+   "sure": 5,
+   "etki": 0.5
+  },
+  {
+   "ad": "carpma",
+   "text": "A single sharp metallic impact as shrapnel strikes a metal pocket watch, glass cracking, short ringing decay, no explosion",
+   "sure": 2.5,
+   "etki": 0.5
+  },
+  {
+   "ad": "siren",
+   "text": "A distant city air raid siren holding one long steady mournful tone, heard from far away over a quiet city, no voices, no traffic",
+   "sure": 10,
+   "etki": 0.5
+  }
+ ],
+ "sfx": [
+  {
+   "dosya": "sfx_tik.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 4.0,
+   "seviye": 0.55
+  },
+  {
+   "dosya": "sfx_carpma.mp3",
+   "sahne": 3,
+   "ofset": 0.25,
+   "sure": 2.5,
+   "seviye": 0.5
+  },
+  {
+   "dosya": "sfx_tik.mp3",
+   "sahne": 7,
+   "ofset": 0.0,
+   "sure": 2.1,
+   "seviye": 0.5
+  },
+  {
+   "dosya": "sfx_siren.mp3",
+   "sahne": 9,
+   "ofset": 0.6,
+   "sure": 9.5,
+   "seviye": 0.3
+  }
+ ],
+ "sahneler": [
+  {
+   "metin": "Bir cep saati, Mustafa Kemal'in hayatını kurtardı.",
+   "gorseller": [
+    {
+     "klip": "klip/cep.mp4"
+    }
+   ]
+  },
+  {
+   "metin": "On Ağustos 1915, Çanakkale. Albay Mustafa Kemal, Conkbayırı'ndaki çarpışmaların içindedir.",
+   "etiket": "Çanakkale · 10 Ağustos 1915",
+   "gorseller": [
+    {
+     "dosya": "img/mk_1915.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/siper.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Bir şarapnel parçası göğsüne çarpar.",
+   "gorseller": [
+    {
+     "dosya": "img/mk_gelibolu2.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.3
+     ],
+     "hareket": "yaklas"
+    }
+   ]
+  },
+  {
+   "metin": "Parça, cebindeki saati paramparça eder ama vücuduna işleyemez.",
+   "gorseller": [
+    {
+     "klip": "klip/kirik.mp4"
+    }
+   ]
+  },
+  {
+   "metin": "Mustafa Kemal, parçalanan saati sonradan, o günün hatırası olarak komutanı Liman von Sanders'e verir.",
+   "gorseller": [
+    {
+     "dosya": "img/sanders.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/servetifunun.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "O saat olmasaydı, belki ne Kurtuluş Savaşı olurdu ne de Cumhuriyet.",
+   "gorseller": [
+    {
+     "dosya": "img/mk_portre.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.3
+     ],
+     "hareket": "yaklas"
+    }
+   ]
+  },
+  {
+   "metin": "Yirmi üç yıl sonra: On Kasım 1938, Dolmabahçe Sarayı.",
+   "etiket": "İstanbul · 10 Kasım 1938",
+   "gorseller": [
+    {
+     "dosya": "img/dolmabahce.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Saat dokuzu beş geçe, Atatürk hayata gözlerini yumar.",
+   "etiket": "09.05",
+   "gorseller": [
+    {
+     "klip": "klip/0905.mp4"
+    }
+   ]
+  },
+  {
+   "metin": "Bu kez onu koruyacak bir cep saati yoktur.",
+   "gorseller": [
+    {
+     "dosya": "img/cenaze_halk.jpg",
+     "duzen": "doldur",
+     "hareket": "uzaklas"
+    }
+   ]
+  },
+  {
+   "metin": "Her On Kasım'da, saat dokuzu beş geçe sirenler çalar.",
+   "gorseller": [
+    {
+     "dosya": "img/cenaze_kortej.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "dosya": "img/anitkabir.jpg",
+     "duzen": "doldur"
+    }
+   ]
+  },
+  {
+   "metin": "Ve bütün Türkiye, iki dakikalığına durur.",
+   "gorseller": [
+    {
+     "dosya": "img/anitkabir2.jpg",
+     "duzen": "doldur",
+     "hareket": "uzaklas"
+    }
+   ]
+  },
+  {
+   "metin": "Saygı, minnet ve özlemle anıyoruz.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Mustafa Kemal Atatürk",
+      "ana": "1881 – 193∞",
+      "alt": "saygı, minnet ve özlemle"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Atatürk'ü Kurtaran Saat ve 09.05'te Duran Türkiye | 10 Kasım #shorts",
+  "aciklama": "",
+  "etiketler": [
+   "10 kasım",
+   "10 kasım atatürk",
+   "atatürk'ü kurtaran saat",
+   "atatürk 09.05",
+   "10 kasım 1938",
+   "atatürk'ü anma günü",
+   "conkbayırı",
+   "çanakkale savaşı",
+   "mustafa kemal atatürk",
+   "atatürk cep saati",
+   "saygı duruşu",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#10kasım",
+   "#atatürk",
+   "#0905",
+   "#çanakkale"
+  ],
+  "kaynaklar": [
+   "Atatürk Araştırma Merkezi Dergisi / DergiPark: \"Conkbayırı'nda Atatürk'ün Hayatını Kurtaran Saat\"",
+   "Ruşen Eşref Ünaydın, \"Anafartalar Kumandanı Mustafa Kemal ile Mülakat\" (1918)"
+  ]
+ }
+}

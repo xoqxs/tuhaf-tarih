@@ -47,7 +47,8 @@ def cekim_listesi(is_, zaman, r, klasor):
         gor = sh.get("gorseller") or []
         if not gor:
             raise SystemExit(f"sahne {i}: görsel yok")
-        k = max(len(gor), math.ceil(d / MAX_CEKIM))
+        maxc = float(is_.get("max_cekim", MAX_CEKIM))
+        k = len(gor) if any("klip" in g for g in gor) else max(len(gor), math.ceil(d / maxc))
         liste = []
         for j in range(k):
             g = dict(gor[j % len(gor)])
@@ -79,6 +80,8 @@ def kareleri_hazirla(cekimler, stil, klasor):
     for n, c in enumerate(cekimler):
         cik = os.path.join(klasor, "k", f"k{n:02d}.jpg")
         g = c["g"]
+        if "klip" in g:      # hazır video klibi (ör. saat animasyonu): kare üretilmez
+            continue
         if "kart" in g:
             kare_kart(g["kart"], stil, cik, tohum=n)
         else:
@@ -92,6 +95,13 @@ def cekimleri_render(cekimler, klasor, hizli=False):
     for n, c in enumerate(cekimler):
         kare_sayisi = max(2, round(c["sure"] * FPS))
         c["kare_sayisi"] = kare_sayisi
+        cik = os.path.join(klasor, f"c{n:02d}.mp4")
+        if "klip" in c["g"]:
+            run(["ffmpeg", "-y", "-loglevel", "error", "-i", os.path.join(klasor, c["g"]["klip"]), "-an",
+                 "-vf", f"scale={W}:{H},fps={FPS},tpad=stop_mode=clone:stop_duration=60,format=yuv420p",
+                 "-frames:v", str(kare_sayisi), "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-r", str(FPS), cik])
+            parcalar.append(cik)
+            continue
         expr = HAREKET[c["hareket"]].format(n=kare_sayisi)
         olcek = "1188:2112" if hizli else "2376:4224"   # 2x büyütüp hareket ettirmek titremeyi önler
         vf = f"scale={olcek},zoompan={expr}:d={kare_sayisi}:s={W}x{H}:fps={FPS},format=yuv420p"
@@ -238,10 +248,32 @@ def main():
     ses = os.path.join(k, "ses.wav")
     mix = os.path.join(k, "mix.wav")
     mv = is_.get("muzik_seviye", 0.17)
-    run(["ffmpeg", "-y", "-loglevel", "error", "-i", ses, "-i", m, "-i", ef, "-filter_complex",
-         "[0:a]loudnorm=I=-14:TP=-1.5:LRA=9,apad,asplit=2[v][sc];"
-         f"[1:a]volume={mv}[mm];[mm][sc]sidechaincompress=threshold=0.04:ratio=6:attack=20:release=350[md];"
-         "[2:a]volume=0.5[e];[v][md][e]amix=inputs=3:duration=longest:normalize=0,alimiter=limit=0.95[a]",
+    # ElevenLabs müziği varsa (muzik_el.mp3) sentetik müziğin yerine o kullanılır
+    mel = os.path.join(k, "muzik_el.mp3")
+    if os.path.exists(mel) and os.path.getsize(mel) > 20000:
+        run(["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", mel, "-t", f"{D:.3f}", "-af",
+             f"loudnorm=I=-18:TP=-2:LRA=11,afade=t=in:d=0.8,afade=t=out:st={max(0, D - 2.5):.2f}:d=2.5", "-ar", "44100", "-ac", "1", m])
+        mv = is_.get("muzik_seviye_el", 0.42)
+        print("müzik: ElevenLabs")
+    ev = float(is_.get("efekt_seviye", 0.5))      # 0 → sahne geçişi sesleri kapalı (anma videoları)
+    girdiler = ["-i", ses, "-i", m, "-i", ef]
+    fc = ("[0:a]loudnorm=I=-14:TP=-1.5:LRA=9,apad,asplit=2[v][sc];"
+          f"[1:a]volume={mv}[mm];[mm][sc]sidechaincompress=threshold=0.04:ratio=5:attack=20:release=450[md];"
+          f"[2:a]volume={ev}[e];")
+    etiketler = "[v][md][e]"; n_in = 3
+    tempo = float(is_.get("tempo", 1.0))
+    for sx in is_.get("sfx", []):               # {"dosya","sahne","ofset","seviye","sure"}: ElevenLabs ses efektleri
+        yol = os.path.join(k, sx["dosya"])
+        if not os.path.exists(yol) or os.path.getsize(yol) < 2000:
+            print("sfx yok, atlandı:", sx["dosya"]); continue
+        bas = max(0.0, zaman["sahneler"][sx["sahne"]]["s"] + float(sx.get("ofset", 0)))
+        sure_s = float(sx.get("sure", 4))
+        girdiler += ["-i", yol]
+        fc += (f"[{n_in}:a]aresample=44100,atrim=0:{sure_s},afade=t=in:d=0.15,afade=t=out:st={max(0.1, sure_s - 0.8):.2f}:d=0.8,"
+               f"volume={sx.get('seviye', 0.5)},adelay={int(bas * 1000)}:all=1[s{n_in}];")
+        etiketler += f"[s{n_in}]"; n_in += 1
+    fc += f"{etiketler}amix=inputs={n_in}:duration=longest:normalize=0,alimiter=limit=0.95[a]"
+    run(["ffmpeg", "-y", "-loglevel", "error", *girdiler, "-filter_complex", fc,
          "-map", "[a]", "-t", f"{D:.3f}", "-ar", "44100", mix])
 
     # son birleştirme: altyazı + vinyet + gren + ilerleme çubuğu

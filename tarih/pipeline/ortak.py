@@ -74,8 +74,14 @@ def font_bilgi(ad):
     return next(f for f in FONTLAR if f["ad"] == ad)
 
 
+# Yalnızca video.json'da "stil": {"palet": ...} ile seçilen özel paletler (rastgele seçime girmez)
+OZEL_PALETLER = [
+    {"ad": "anma", "vurgu": "#FF3B30", "etiket": "#111111"},   # anma günleri: siyah-beyaz + bayrak kırmızısı
+]
+
+
 def palet_bilgi(ad):
-    return next(p for p in PALETLER if p["ad"] == ad)
+    return next(p for p in PALETLER + OZEL_PALETLER if p["ad"] == ad)
 
 
 def ass_renk(hexrgb, alfa="00"):

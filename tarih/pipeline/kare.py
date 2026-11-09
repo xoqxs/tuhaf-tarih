@@ -29,7 +29,10 @@ def _contain(im, w, h):
 
 def ton_uygula(im, ton):
     im = im.convert("RGB")
-    if ton == "sepya":
+    if ton == "siyahbeyaz":
+        g = ImageOps.autocontrast(ImageOps.grayscale(im), cutoff=1)
+        im = ImageOps.colorize(g, black="#0b0b0c", white="#f1efea", mid="#7d7b78")
+    elif ton == "sepya":
         g = ImageOps.grayscale(im)
         im = ImageOps.colorize(g, black="#1c140c", white="#f3e3c3", mid="#8a6a45")
     elif ton == "soguk":
