@@ -1,0 +1,217 @@
+{
+ "slug": "2026-11-09-cengiz-han-mezari",
+ "seri": "Büyük Komutanların Bilinmeyen Anları",
+ "seri_rozet": "Büyük Komutanlar #1",
+ "duygu": "merak",
+ "tempo": 1.13,
+ "kapak": [
+  "Cengiz Han'ın mezarı",
+  "neden bulunamıyor?"
+ ],
+ "vurgu_sahneleri": [
+  1,
+  8
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "sahneler": [
+  {
+   "metin": "Cengiz Han'ın Çin'deki dev türbesinde naaşı yoktur.",
+   "gorseller": [
+    {
+     "dosya": "img/turbe.jpg"
+    },
+    {
+     "dosya": "img/portre.jpg",
+     "duzen": "cerceve"
+    }
+   ],
+   "etiket": "Ordos, Çin"
+  },
+  {
+   "metin": "Peki mezarı neden yaklaşık sekiz yüz yıldır bulunamıyor?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "mezarın yeri",
+      "ana": "bilinmiyor",
+      "alt": "yaklaşık 800 yıldır"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Cengiz Han 1227'de bir sefer sırasında ölür.",
+   "gorseller": [
+    {
+     "dosya": "img/atli.jpg"
+    },
+    {
+     "dosya": "img/gur.jpg",
+     "duzen": "cerceve"
+    }
+   ],
+   "etiket": "1227"
+  },
+  {
+   "metin": "Moğolların Gizli Tarih kitabı bile mezardan söz etmez.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Gizli Tarih",
+      "ana": "sessiz",
+      "alt": "mezardan söz yok"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Efsaneye göre atlılar mezarı çiğner, sonra öldürülür.",
+   "gorseller": [
+    {
+     "dosya": "img/atlar.jpg"
+    },
+    {
+     "dosya": "img/atli.jpg",
+     "duzen": "detay"
+    }
+   ],
+   "etiket": "Efsane"
+  },
+  {
+   "metin": "Ama dönemin kaynaklarında bu öldürme hikâyesi geçmez.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "dönemin kaynakları",
+      "ana": "kayıt yok",
+      "alt": "öldürme hikâyesi geçmez"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Mezarın, kutsal Burkan Haldun Dağı çevresinde olduğu düşünülür.",
+   "gorseller": [
+    {
+     "dosya": "img/dag1.jpg"
+    },
+    {
+     "dosya": "img/dag2.jpg"
+    }
+   ],
+   "etiket": "Burkan Haldun"
+  },
+  {
+   "metin": "Cengiz Han'ın ölümünden sonra bölgeye girmek, ailesi dışındakilere ölüm cezasıyla yasaklanır.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "240 kilometrekare",
+      "ana": "Büyük Yasak",
+      "alt": "aile dışında giriş yok"
+     }
+    },
+    {
+     "dosya": "img/dag2.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "Bir kabile bu yasağı neredeyse yedi yüz yıl korur.",
+   "gorseller": [
+    {
+     "dosya": "img/dag1.jpg",
+     "duzen": "detay"
+    },
+    {
+     "kart": {
+      "ust": "yasağın süresi",
+      "ana": "700 yıl",
+      "alt": "1924'e kadar"
+     }
+    }
+   ],
+   "etiket": "Darhadlar"
+  },
+  {
+   "metin": "Uzmanlara göre bazı Moğollar, mezarın bulunmamasını tercih edebilir.",
+   "gorseller": [
+    {
+     "dosya": "img/heykel.jpg",
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Savaş tarihinin çözülmemiş sırları için bu kanalı takip et.",
+   "gorseller": [
+    {
+     "dosya": "img/portre.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Sence bu mezar açılmalı mı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "açılmalı mı?",
+      "alt": "yorumlara yaz"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: İki atom bombasından da sağ kurtulan adam.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "iki bomba",
+      "alt": "ikisinden de sağ çıktı"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Cengiz Han'ın Mezarı Neden Bulunamıyor? 800 Yıllık Sır #shorts",
+  "aciklama": "Cengiz Han'ın mezarı neden bulunamıyor? Çin'deki türbede naaşı yok, Moğolların Gizli Tarih kitabı mezardan söz etmiyor ve Burkan Haldun Dağı çevresi neredeyse yedi yüz yıl yasak bölge olarak korundu. Cengiz Han'ın mezarı nerede sorusunun hâlâ kesin bir cevabı yok.\n\nSeri: Büyük Komutanların Bilinmeyen Anları #1 – tüm bölümler oynatma listesinde\nYarın: İki atom bombasından da sağ kurtulan adam: Tsutomu Yamaguchi\n\nKaynaklar: Live Science, \"Where is the tomb of Genghis Khan?\" (Owen Jarus, 2022); Atlas Obscura, \"Mongolia's Forbidden Zone Is Guarding an 800-Year-Old Secret\" (Frank Jacobs, 2023)\nGörseller: Samxli, CC BY 3.0; Ganzorig Gavaa, CC BY-SA 2.0; Jeanne Menj, CC BY 2.0; Chinneeb, CC BY 4.0, Wikimedia Commons. Diğer görseller: Wikimedia Commons, kamu malı\n\n#cengizhan #moğolimparatorluğu #tarih #shorts",
+  "etiketler": [
+   "cengiz han mezarı",
+   "cengiz han'ın mezarı neden bulunamıyor",
+   "cengiz han mezarı nerede",
+   "cengiz han mezarı bulundu mu",
+   "cengiz han kayıp mezarı",
+   "burkan haldun",
+   "moğol imparatorluğu",
+   "cengiz han",
+   "tarih gizemleri",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#cengizhan",
+   "#moğolimparatorluğu",
+   "#tarih",
+   "#shorts"
+  ],
+  "kaynaklar": [
+   "Live Science (O. Jarus, 2022)",
+   "Atlas Obscura (F. Jacobs, 2023)"
+  ]
+ }
+}

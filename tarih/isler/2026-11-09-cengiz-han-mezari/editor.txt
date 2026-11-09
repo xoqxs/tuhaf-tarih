@@ -1,0 +1,3 @@
+Editör kontrolü (bağımsız alt ajan), 9 Kasım 2026
+1. tur: DÜZELT (sahne 4, 5, 10: kaynak dışına taşan genelleme)
+2. tur: önerilen cümleler uygulandı → GEÇTİ
