@@ -149,7 +149,7 @@ def altyazi_yaz(is_, zaman, stil, yol, toplam):
         "Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding",
         f"Style: Alt,{f['ad']},{boy},{beyaz},{beyaz},{siyah},&H64000000,0,0,0,0,100,100,1,0,1,7,3,2,70,70,{stil['konum']},1",
         f"Style: Etiket,Oswald,66,{beyaz},{beyaz},{ass_renk(p['etiket'])},{ass_renk(p['etiket'])},1,0,0,0,100,100,2,0,3,16,0,8,80,80,250,1",
-        f"Style: Kapak,{f['ad']},{int(boy * 1.3)},{beyaz},{beyaz},{siyah},&H80000000,0,0,0,0,100,100,1,0,1,9,4,8,60,60,330,1",
+        f"Style: Kapak,{f['ad']},{int(boy * 1.3)},{beyaz},{beyaz},{siyah},&H80000000,0,0,0,0,100,100,1,0,1,9,4,8,60,60,{int(is_.get('kapak_y', 330))},1",
         f"Style: Rozet,Oswald,44,{beyaz},{beyaz},{siyah},&H50000000,1,0,0,0,100,100,1,0,3,10,0,7,60,60,150,1",
         f"Style: Imza,Oswald,40,&H55FFFFFF,&H55FFFFFF,&H80000000,&H00000000,1,0,0,0,100,100,1,0,1,2,0,9,60,60,158,1",
         "", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text",

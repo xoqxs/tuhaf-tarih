@@ -122,7 +122,7 @@ def kare_kart(kart, stil, cikis, tohum=0):
     temizle = lambda s: s.replace("→", "–").replace("←", "–").replace("•", "·") if s else s
     yukari = lambda s: tr_upper(temizle(s)) if s else s
     ana = yukari(kart.get("ana", ""))
-    fa = _sigdir(d, ana, fy, KW - 160, 420)
+    fa = _sigdir(d, ana, fy, KW - 340, 420)   # kamera yaklaşınca kenardan taşmasın
     bb = d.textbbox((0, 0), ana, font=fa)
     ah = bb[3] - bb[1]
     y0 = int(KH * 0.40 - ah / 2)
@@ -133,7 +133,7 @@ def kare_kart(kart, stil, cikis, tohum=0):
         d.text(((KW - w) / 2, y0 - 120), u, font=fk, fill="#e9e4da")
         d.line(((KW - w) / 2, y0 - 30, (KW + w) / 2, y0 - 30), fill=p["vurgu"], width=6)
     if kart.get("alt"):
-        a = yukari(kart["alt"]); fa2 = _sigdir(d, a, fy, KW - 180, 96)
+        a = yukari(kart["alt"]); fa2 = _sigdir(d, a, fy, KW - 340, 96)
         w = d.textlength(a, font=fa2)
         d.text(((KW - w) / 2, y0 + ah + 60), a, font=fa2, fill="#ffffff")
     taban.save(cikis, quality=95)

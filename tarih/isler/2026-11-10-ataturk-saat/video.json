@@ -4,7 +4,7 @@
  "seri_rozet": "10 Kasım · Saygıyla",
  "duygu": "huzun",
  "tempo": 1.06,
- "kuyruk": 2.6,
+ "kuyruk": 2.2,
  "max_cekim": 4.2,
  "efekt_seviye": 0,
  "vurgu_sahneleri": [],
@@ -164,8 +164,9 @@
    "etiket": "İstanbul · 10 Kasım 1938",
    "gorseller": [
     {
-     "dosya": "img/dolmabahce.jpg",
-     "duzen": "bulanik"
+     "dosya": "img/dolmabahce2.jpg",
+     "duzen": "doldur",
+     "hareket": "yaklas"
     }
    ]
   },
@@ -218,15 +219,16 @@
      "kart": {
       "ust": "Mustafa Kemal Atatürk",
       "ana": "1881 – 193∞",
-      "alt": "saygı, minnet ve özlemle"
-     }
+      "alt": "Atam, izindeyiz"
+     },
+     "hareket": "yaklas"
     }
    ]
   }
  ],
  "seo": {
   "baslik": "Atatürk'ü Kurtaran Saat ve 09.05'te Duran Türkiye | 10 Kasım #shorts",
-  "aciklama": "",
+  "aciklama": "10 Ağustos 1915, Çanakkale: Conkbayırı'nda bir şarapnel parçası Mustafa Kemal'in göğsüne çarptı. Cebindeki saat parçalandı, o ise yara almadan kurtuldu. 23 yıl sonra, 10 Kasım 1938'de saat 09.05'te Dolmabahçe Sarayı'nda hayata gözlerini yumdu. Her 10 Kasım'da saat 09.05'te sirenler çalar ve Türkiye iki dakikalığına durur.\n\nSaygı, minnet ve özlemle anıyoruz.\n\nKaynaklar:\n• Atatürk Araştırma Merkezi Dergisi: \"Conkbayırı'nda Atatürk'ün Hayatını Kurtaran Saat\"\n• Ruşen Eşref Ünaydın, \"Anafartalar Kumandanı Mustafa Kemal ile Mülakat\" (1918)\nGörseller: Wikimedia Commons (kamu malı / CC lisanslı arşiv fotoğrafları)\n\nSavaş tarihinin gerçek hikâyeleri için abone olun: @Belgesellerim\n\n#10kasım #atatürk #0905 #çanakkale #shorts",
   "etiketler": [
    "10 kasım",
    "10 kasım atatürk",
@@ -251,5 +253,6 @@
    "Atatürk Araştırma Merkezi Dergisi / DergiPark: \"Conkbayırı'nda Atatürk'ün Hayatını Kurtaran Saat\"",
    "Ruşen Eşref Ünaydın, \"Anafartalar Kumandanı Mustafa Kemal ile Mülakat\" (1918)"
   ]
- }
+ },
+ "kapak_y": 225
 }

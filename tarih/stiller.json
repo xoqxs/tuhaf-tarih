@@ -53,5 +53,27 @@
   "ilerleme": false,
   "tanecik": true,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-10-ataturk-saat",
+  "font": "Anton",
+  "palet": "anma",
+  "ton": "siyahbeyaz",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-10-ataturk-saat",
+  "font": "Anton",
+  "palet": "anma",
+  "ton": "siyahbeyaz",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
  }
 ]
