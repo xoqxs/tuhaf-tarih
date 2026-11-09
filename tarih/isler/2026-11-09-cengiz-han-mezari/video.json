@@ -35,9 +35,8 @@
    "gorseller": [
     {
      "kart": {
-      "ust": "mezarın yeri",
-      "ana": "bilinmiyor",
-      "alt": "yaklaşık 800 yıldır"
+      "ust": "yaklaşık 800 yıldır",
+      "ana": "bilinmiyor"
      }
     }
    ]
@@ -72,10 +71,6 @@
    "gorseller": [
     {
      "dosya": "img/atlar.jpg"
-    },
-    {
-     "dosya": "img/atli.jpg",
-     "duzen": "detay"
     }
    ],
    "etiket": "Efsane"
@@ -109,9 +104,9 @@
    "gorseller": [
     {
      "kart": {
-      "ust": "240 kilometrekare",
-      "ana": "Büyük Yasak",
-      "alt": "aile dışında giriş yok"
+      "ust": "Büyük Yasak",
+      "ana": "giriş yok",
+      "alt": "240 kilometrekare"
      }
     },
     {
@@ -181,7 +176,7 @@
     {
      "kart": {
       "ust": "yarın",
-      "ana": "iki bomba",
+      "ana": "2 bomba",
       "alt": "ikisinden de sağ çıktı"
      }
     }
