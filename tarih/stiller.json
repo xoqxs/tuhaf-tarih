@@ -75,5 +75,16 @@
   "ilerleme": false,
   "tanecik": true,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-10-tsutomu-yamaguchi",
+  "font": "Archivo Black",
+  "palet": "sari",
+  "ton": "sicak",
+  "konum": 720,
+  "grup": 2,
+  "ilerleme": true,
+  "tanecik": false,
+  "vinyet": true
  }
 ]
