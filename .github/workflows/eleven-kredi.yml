@@ -1,0 +1,25 @@
+name: ElevenLabs kredi durumu
+on:
+  workflow_dispatch:
+jobs:
+  kredi:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Abonelik bilgisi
+        env:
+          KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        run: |
+          curl -s -H "xi-api-key: $KEY" https://api.elevenlabs.io/v1/user/subscription > s.json
+          python3 - <<'PY'
+          import json, datetime
+          s = json.load(open("s.json"))
+          if "character_count" not in s:
+              print("HATA", str(s)[:300]); raise SystemExit
+          k, l = s["character_count"], s["character_limit"]
+          y = s.get("next_character_count_reset_unix")
+          print(f"PLAN={s.get('tier')}")
+          print(f"KULLANILAN={k}")
+          print(f"LIMIT={l}")
+          print(f"KALAN={l-k}")
+          if y: print("YENILENME=" + datetime.datetime.utcfromtimestamp(y).strftime("%Y-%m-%d %H:%M UTC"))
+          PY
