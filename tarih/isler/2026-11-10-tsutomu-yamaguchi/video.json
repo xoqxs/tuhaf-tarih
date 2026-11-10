@@ -1,0 +1,185 @@
+{
+ "slug": "2026-11-10-tsutomu-yamaguchi",
+ "seri": "Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler",
+ "seri_rozet": "Sağ Kurtulanlar #1",
+ "duygu": "gerilim",
+ "tempo": 1.14,
+ "kapak": [
+  "İki atom bombası",
+  "ikisinden de sağ çıktı"
+ ],
+ "vurgu_sahneleri": [
+  1,
+  7
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "sahneler": [
+  {
+   "metin": "İki atom bombasından da kurtulan biri olabilir mi?",
+   "gorseller": [
+    {
+     "dosya": "img/bulut1.jpg"
+    },
+    {
+     "dosya": "img/bulut2.jpg",
+     "duzen": "cerceve"
+    }
+   ],
+   "etiket": "Hiroşima ve Nagazaki"
+  },
+  {
+   "metin": "Japon mühendis Tsutomu Yamaguchi, 1945'te Hiroşima'da iş gezisindeydi.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "mühendis",
+      "ana": "Yamaguchi",
+      "alt": "Mitsubishi, 1945"
+     }
+    },
+    {
+     "dosya": "img/kubbe.jpg"
+    }
+   ],
+   "etiket": "Hiroşima"
+  },
+  {
+   "metin": "Altı Ağustos sabahı, ondan üç kilometre kadar ötede kör edici bir ışık çaktı.",
+   "gorseller": [
+    {
+     "dosya": "img/bulut1.jpg",
+     "duzen": "detay"
+    }
+   ],
+   "etiket": "6 Ağustos 1945"
+  },
+  {
+   "metin": "Atom bombası Yamaguchi'nin yüzünü yaktı ama onu öldürmedi.",
+   "gorseller": [
+    {
+     "dosya": "img/hiro_hava.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Yaralı halde memleketi Nagazaki'ye döndü ve dokuz Ağustos'ta işe gitti.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "trenle eve",
+      "ana": "Nagazaki",
+      "alt": "8 Ağustos"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Hiroşima'yı anlatınca müdürü inanmadı: Tek bomba koca şehri nasıl yok edebilirdi?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "müdürü",
+      "ana": "inanmadı",
+      "alt": "tek bomba, koca şehir?"
+     }
+    },
+    {
+     "dosya": "img/hiro_hava.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "O anda dışarıda aynı kör edici ışık çaktı.",
+   "gorseller": [
+    {
+     "dosya": "img/bulut2.jpg"
+    }
+   ],
+   "etiket": "9 Ağustos 1945"
+  },
+  {
+   "metin": "Yamaguchi yine üç kilometre uzaktaydı ve yine kurtuldu.",
+   "gorseller": [
+    {
+     "dosya": "img/naga.jpg"
+    }
+   ],
+   "etiket": "Nagazaki"
+  },
+  {
+   "metin": "Japonya, onun iki bombadan da kurtulduğunu 2009'da resmen tanıdı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "resmen tanındı",
+      "ana": "2009",
+      "alt": "iki bombadan da sağ"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Tuhaf ama gerçek tarih hikâyeleri her gün burada.",
+   "gorseller": [
+    {
+     "dosya": "img/hiro_ekim.png"
+    }
+   ]
+  },
+  {
+   "metin": "Sence bu büyük şans mı, büyük talihsizlik mi?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "şans mı?",
+      "alt": "yoksa talihsizlik mi"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Napolyon'u kaçmak zorunda bırakan tavşanlar.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "tavşanlar",
+      "alt": "Napolyon geri çekildi"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "İki Atom Bombasından Kurtulan Adam: Müdürü Ona İnanmadı #shorts",
+  "aciklama": "İki atom bombasından kurtulan adam Tsutomu Yamaguchi, 6 Ağustos 1945'te Hiroşima'da iş gezisindeyken bombaya yaklaşık üç kilometre uzaktaydı. Yaralı halde Nagazaki'ye döndü; 9 Ağustos'ta müdürüne Hiroşima'yı anlatırken ikinci atom bombası patladı. Hiroşima ve Nagazaki atom bombasının ikisinden de sağ çıktığı 2009'da Japonya tarafından resmen tanındı.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #1 – tüm bölümler oynatma listesinde\nYarın: Napolyon ve tavşan olayı: Napolyon'u geri çekilmek zorunda bırakan tavşanlar\n\nKaynaklar: HISTORY, \"The Man Who Survived Two Atomic Bombs\" (Evan Andrews); Guinness World Records, \"First confirmed person to survive two nuclear attacks\"\nGörseller: Wikimedia Commons, kamu malı\n\n#hiroşima #nagazaki #atombombası #ikincidünyasavaşı #shorts",
+  "etiketler": [
+   "iki atom bombasından kurtulan adam",
+   "2 atom bombasından kurtulan adam",
+   "atom bombasından kurtulan adam",
+   "tsutomu yamaguchi",
+   "hiroşima ve nagazaki",
+   "hiroşima ve nagazaki atom bombası",
+   "ikinci dünya savaşı atom bombası",
+   "savaş tarihi",
+   "inanılmaz gerçek hikayeler",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#hiroşima",
+   "#nagazaki",
+   "#atombombası",
+   "#ikincidünyasavaşı",
+   "#shorts"
+  ],
+  "kaynaklar": [
+   "HISTORY (E. Andrews)",
+   "Guinness World Records"
+  ]
+ }
+}

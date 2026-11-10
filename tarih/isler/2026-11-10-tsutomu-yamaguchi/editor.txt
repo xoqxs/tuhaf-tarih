@@ -1,0 +1,3 @@
+Editör kontrolü (bağımsız alt ajan)
+Tur 1: DÜZELT (sahne 3 'ötede' belirsiz, sahne 6 kip, sahne 7 ışık tutarlılığı, sahne 10 vaat yarınla çelişki)
+Tur 2: GEÇTİ (105 kelime)
