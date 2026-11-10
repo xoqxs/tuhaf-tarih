@@ -23,14 +23,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. Tsutomu Yamaguchi (SIRADAKİ) 4. Napolyon ve tavşanlar 5. Seyit Onbaşı 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. Napolyon ve tavşanlar (SIRADAKİ) 5. Seyit Onbaşı 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-10: Tsutomu Yamaguchi: iki atom bombasından da sağ çıkan adam (seri F)
+- 2026-11-11: Napolyon ve tavşan olayı: Napolyon'u geri çekilmek zorunda bırakan tavşanlar (seri H; anı kaynaklı anlatı, öyle anlat) — öneriler: "napolyon tavşan olayı", "napolyon vs 3000 tavşan"
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -86,7 +86,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Starfish Prime: uzayda patlatılan nükleer bomba
 
 ## F. Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler
-- [ ] (SIRADAKİ) Tsutomu Yamaguchi: iki atom bombasından da sağ çıkan adam — "atom bombası hiroşima"
+- [x] 2026-11-10 Tsutomu Yamaguchi: iki atom bombasından da sağ çıkan adam — "atom bombası hiroşima"
 - [ ] "Deli" Jack Churchill: II. Dünya Savaşı'nda kılıç ve gaydayla savaşan subay
 - [ ] Adrian Carton de Wiart: "ölmeyen" general
 - [ ] Simo Häyhä: "Beyaz Ölüm" ve Kış Savaşı (vahşet ayrıntısı yok)
@@ -109,7 +109,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 ## H. Büyük Komutanların Bilinmeyen Anları ("neden" soruları)
 - [ ] Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı) — doğrudan aranan
 - [ ] Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
-- [ ] Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
+- [ ] (SIRADAKİ) Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
 - [ ] Napolyon piramitte ne gördü? efsane mi gerçek mi — doğrudan aranan
 - [x] 2026-11-09 Cengiz Han'ın mezarı neden hâlâ bulunamadı? — doğrudan aranan
 - [ ] Jül Sezar'ı kaçıran korsanlar
