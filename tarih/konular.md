@@ -1,12 +1,21 @@
 # Belgesellerim – konu havuzu (savaş ağırlıklı)
 
-Bu haftanın ağırlığı (2026-11-08): savaş ~%70 sürer, ÖNCELİK SIRASI korunur; başlıkta isim + rakam veya "neden" kalıbı öne çıkar (Onoda 1.134, Maraton 503 görüntüleme; veri az).
+Bu haftanın ağırlığı (2026-11-11): savaş ~%70 sürer, HEYECAN TESTİ zorunlu, yeni ÖNCELİK SIRASI geçerli; başlıkta isim + rakam veya "neden" kalıbı öne çıkar (Onoda 1.134, Maraton 503 görüntüleme; veri az).
 
 Kanal konumu (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** + daha az sıklıkla diğer tuhaf tarih konuları.
 Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2 — G (Osmanlı ve Türk) serisi en çok aranan seri olduğu için en fazla 3.
 Her konu yalnızca 1 kez işlenir: işlenince satır başı `[x] YYYY-AA-GG` yapılır.
 Her olgu **iki bağımsız güvenilir kaynakla** doğrulanır. Efsaneyi gerçek gibi anlatma; "efsane mi gerçek mi" açısını kullan. Vahşet/kan ayrıntısı YOK (reklam uygunluğu ve saygı): anlatı "tuhaflık ve şaşkınlık" üzerine kurulur.
 Havuzda 25'ten az boş konu kalınca görev, aynı kurallarla ve SEO araştırmasıyla 15 yeni konu ekler, raporda bildirir.
+
+## HEYECAN TESTİ (Kadir Bey 11 Kasım 2026, kesin istek)
+"Napolyon ve tavşanlar" gibi sevimli/komik ama sönük konular izleyiciyi tutmuyor. Bir konu ancak şu dört maddeden EN AZ İKİSİNİ karşılıyorsa seçilir:
+1. **Ölüm kalım / büyük risk:** biri hayatını, bir ordu savaşı, bir ülke kaderini kaybetmenin eşiğinde.
+2. **Büyük sonuç:** olay bir savaşın, bir imparatorluğun ya da dünyanın gidişatını değiştirdi.
+3. **Zaman baskısı / gerilim:** saatler, dakikalar, tek gece, son an kararı.
+4. **Gizem ya da büyük aldatma:** hâlâ çözülmemiş ya da milyonları kandıran bir sır.
+"Sadece komik", "sadece sevimli", "ilginç bilgi" konuları (hayvan maskotları, kazara icatlar, küçük absürt olaylar) YAYINLANMAZ. Havuzda bu tür konuların yanında `(SÖNÜK)` yazar; seçilmez. Kanca ve başlık da gerilimi öne koyar: "Kimse inanmadı ama…", "Son 90 dakika", "Tek bir hata her şeyi bitirecekti".
+Savaş dışı %30 artık yalnızca K (Gizemler), J (Dolandırıcılar) ve L'nin heyecan testini geçen konularından (Tunguska, Carrington, 1938 radyo paniği) gelir.
 
 ## SEO bulguları (YouTube arama önerileri, TR, 7 Kasım 2026)
 - İnsanlar **tanınmış isim + "neden" sorusu** ile arıyor: "hitler neden isviçreye saldırmadı", "hitler neden türkiye'ye saldırmadı", "napolyon neden korktu", "napolyon piramitlerde ne gördü", "viyana kuşatması neden başarısız oldu", "roma imparatorluğu neden ikiye ayrıldı", "cengiz han'ın mezarı".
@@ -23,7 +32,7 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. Seyit Onbaşı (SIRADAKİ) 6. Simo Häyhä 7. Cem Sultan 8. Desmond Doss 9. Hitler neden İsviçre'ye saldırmadı? 10. Kut'ül Amare 11. Violet Jessop 12. Çar Bombası 13. Viyana kuşatması neden başarısız oldu? 14. Kayıp Norfolk alayı 15. Malazgirt'te esir düşen imparator 16. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 17. Roma'nın kayıp lejyonu 18. Kanuni'nin Fransa kralına mektubu 19. Nusret 20. Hayalet Ordu
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. Seyit Onbaşı (SIRADAKİ) 6. Entebbe Baskını: 90 dakikada 100 rehine 7. Vasili Arhipov: nükleer savaşı tek başına durduran subay 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. Dyatlov Geçidi 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
@@ -44,27 +53,30 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Roma'nın kayıp lejyonu: IX. Lejyon (Hispana) efsanesi ve kanıtlar
 
 ## B. Savaşan Hayvanlar
-- [ ] Çavuş Stubby: rütbe alan sokak köpeği (I. Dünya Savaşı)
-- [ ] Cher Ami: tek bacaklı kahraman güvercin
-- [ ] Simon: madalya alan gemi kedisi (1949)
+- [ ] (SÖNÜK) Çavuş Stubby: rütbe alan sokak köpeği (I. Dünya Savaşı)
+- [ ] (SÖNÜK) Cher Ami: tek bacaklı kahraman güvercin
+- [ ] (SÖNÜK) Simon: madalya alan gemi kedisi (1949)
 - [ ] Hannibal'in filleri Alpleri nasıl aştı?
-- [ ] Savaş domuzları: antik çağda fillere karşı kullanılan domuzlar (kaynak: Plinius, Aelianus; dikkatli anlat)
-- [ ] ABD Donanması'nın mayın arayan yunusları ve fokları
-- [ ] Akustik Kedi: CIA'in kediyi dinleme cihazına çevirme projesi
+- [ ] (SÖNÜK) Savaş domuzları: antik çağda fillere karşı kullanılan domuzlar (kaynak: Plinius, Aelianus; dikkatli anlat)
+- [ ] (SÖNÜK) ABD Donanması'nın mayın arayan yunusları ve fokları
+- [ ] (SÖNÜK) Akustik Kedi: CIA'in kediyi dinleme cihazına çevirme projesi
 - [ ] Sovyet tank karşıtı köpekleri (vahşet ayrıntısı yok, programın neden başarısız olduğu)
 
 ## C. Tarihin En Tuhaf Savaşları
-- [ ] Domuz Savaşı (1859): bir domuz yüzünden ABD ile İngiltere karşı karşıya
-- [ ] Kova Savaşı (1325): çalınan tahta kova yüzünden savaş
+- [ ] (SÖNÜK) Domuz Savaşı (1859): bir domuz yüzünden ABD ile İngiltere karşı karşıya
+- [ ] (SÖNÜK) Kova Savaşı (1325): çalınan tahta kova yüzünden savaş
 - [ ] Futbol Savaşı (1969): El Salvador–Honduras
-- [ ] Başıboş Köpek Savaşı (1925): bir köpek yüzünden Yunanistan–Bulgaristan çatışması
-- [ ] Jenkins'in Kulağı Savaşı (1739): kesilen bir kulak yüzünden çıkan savaş
-- [ ] Pasta Savaşı (1838): Fransa–Meksika, bir pastacının alacağı
+- [ ] (SÖNÜK) Başıboş Köpek Savaşı (1925): bir köpek yüzünden Yunanistan–Bulgaristan çatışması
+- [ ] (SÖNÜK) Jenkins'in Kulağı Savaşı (1739): kesilen bir kulak yüzünden çıkan savaş
+- [ ] (SÖNÜK) Pasta Savaşı (1838): Fransa–Meksika, bir pastacının alacağı
 - [ ] 1914 Noel Ateşkesi: cephede futbol oynayan askerler
 - [ ] Karánsebes 1788: kendi kendisiyle savaşan ordu (efsane mi gerçek mi)
-- [ ] 335 yıl süren savaş efsanesi: Hollanda ile Scilly Adaları (efsane mi gerçek mi)
+- [ ] (SÖNÜK) 335 yıl süren savaş efsanesi: Hollanda ile Scilly Adaları (efsane mi gerçek mi)
 
 ## D. Aldatma, Casusluk ve Gizli Operasyonlar
+- [ ] Entebbe Baskını (1976): 4.000 km uzakta, 90 dakikada rehine kurtarma
+- [ ] Valkür: Hitler'e çantadaki bomba ile suikast girişimi (20 Temmuz 1944)
+- [ ] Büyük Firar (1944): Stalag Luft III'te kazılan tünel ve 76 kaçak
 - [ ] Mincemeat Operasyonu: bir cesetle Hitler'i kandıran plan
 - [ ] Hayalet Ordu: şişme tanklar ve sahte seslerle kandıran birlik
 - [ ] Garbo: 27 hayali ajan uyduran çift ajan Juan Pujol
@@ -75,17 +87,19 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Nusret mayın gemisi: Çanakkale'nin kaderini değiştiren gece — "çanakkale savaşı"
 
 ## E. Garip Silahlar ve Çılgın Projeler
-- [ ] Panjandrum: İngilizlerin yuvarlanan bombası — "dünyanın en garip silahları"
-- [ ] Habakkuk Projesi: buzdan uçak gemisi
+- [ ] (SÖNÜK) Panjandrum: İngilizlerin yuvarlanan bombası — "dünyanın en garip silahları"
+- [ ] (SÖNÜK) Habakkuk Projesi: buzdan uçak gemisi
 - [ ] Schwerer Gustav: tarihin en büyük topu
 - [ ] Fu-Go: Japonya'nın Amerika'ya gönderdiği balon bombalar
-- [ ] Yarasa bombası projesi
-- [ ] Güvercin Projesi: güvercinle yönlendirilen füze (B. F. Skinner)
+- [ ] (SÖNÜK) Yarasa bombası projesi
+- [ ] (SÖNÜK) Güvercin Projesi: güvercinle yönlendirilen füze (B. F. Skinner)
 - [ ] Antonov A-40: Sovyetlerin uçan tankı
 - [ ] Çar Bombası: tarihin en güçlü patlaması (1961)
 - [ ] Starfish Prime: uzayda patlatılan nükleer bomba
 
 ## F. Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler
+- [ ] Vasili Arhipov: Küba krizinde nükleer torpidoya "hayır" diyen subay (1962)
+- [ ] Stanislav Petrov: ekranda 5 Amerikan füzesi gördü, alarm vermedi (1983)
 - [x] 2026-11-10 Tsutomu Yamaguchi: iki atom bombasından da sağ çıkan adam — "atom bombası hiroşima"
 - [ ] "Deli" Jack Churchill: II. Dünya Savaşı'nda kılıç ve gaydayla savaşan subay
 - [ ] Adrian Carton de Wiart: "ölmeyen" general
@@ -108,27 +122,27 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 
 ## H. Büyük Komutanların Bilinmeyen Anları ("neden" soruları)
 - [ ] Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı) — doğrudan aranan
-- [ ] Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
+- [ ] (SÖNÜK) Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
 - [x] 2026-11-11 Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
 - [ ] Napolyon piramitte ne gördü? efsane mi gerçek mi — doğrudan aranan
 - [x] 2026-11-09 Cengiz Han'ın mezarı neden hâlâ bulunamadı? — doğrudan aranan
 - [ ] Jül Sezar'ı kaçıran korsanlar
 - [ ] Atilla nasıl öldü? (Priskos'un anlatısı)
 - [ ] Timur'un mezarı ve 1941 "lanet" efsanesi
-- [ ] İskender ve Gordion düğümü (efsane)
+- [ ] (SÖNÜK) İskender ve Gordion düğümü (efsane)
 - [ ] Hitler neden Türkiye'ye saldırmadı? (tarihçilerin açıklamaları, tarafsız)
 
 ---------------------------------------------------------------- DİĞER TUHAF TARİH (~%30)
 
 ## I. Kazara ve Ters Giden İcatlar
-- [ ] Mikrodalga fırın: cebindeki çikolatanın erimesi
-- [ ] Penisilin: küflenen tabak
-- [ ] Post-it: başarısız yapıştırıcı
-- [ ] Teflon: kazara bulunan kaygan madde
-- [ ] Süper yapıştırıcı: iki kez "başarısız" sayılan icat
+- [ ] (SÖNÜK) Mikrodalga fırın: cebindeki çikolatanın erimesi
+- [ ] (SÖNÜK) Penisilin: küflenen tabak
+- [ ] (SÖNÜK) Post-it: başarısız yapıştırıcı
+- [ ] (SÖNÜK) Teflon: kazara bulunan kaygan madde
+- [ ] (SÖNÜK) Süper yapıştırıcı: iki kez "başarısız" sayılan icat
 - [ ] Thomas Midgley: kurşunlu benzin ve CFC'nin mucidi
-- [ ] Ketçap 1830'larda ilaç olarak satılıyordu
-- [ ] Coca-Cola'nın ilaç olarak doğuşu
+- [ ] (SÖNÜK) Ketçap 1830'larda ilaç olarak satılıyordu
+- [ ] (SÖNÜK) Coca-Cola'nın ilaç olarak doğuşu
 
 ## J. Tarihin Büyük Dolandırıcıları
 - [ ] George C. Parker: Brooklyn Köprüsü'nü "satan" adam
@@ -139,6 +153,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Ferdinand Waldo Demara: savaş gemisinde sahte cerrah
 
 ## K. Gizemler ve Çözülen Sırlar
+- [ ] Alcatraz'dan kaçış (1962): Frank Morris ve Anglin kardeşler hâlâ kayıp
 - [ ] Voynich el yazması
 - [ ] Dyatlov Geçidi ve 2021 çığ açıklaması
 - [ ] Somerton Adamı (Tamam Shud)
@@ -147,11 +162,11 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Piri Reis haritası: "Antarktika" iddiası ve gerçek
 
 ## L. Absürt Olaylar
-- [ ] Londra Bira Seli (1814)
-- [ ] Büyük Pis Koku (1858)
-- [ ] Tanganyika gülme salgını (1962)
+- [ ] (SÖNÜK) Londra Bira Seli (1814)
+- [ ] (SÖNÜK) Büyük Pis Koku (1858)
+- [ ] (SÖNÜK) Tanganyika gülme salgını (1962)
 - [ ] Carrington Olayı (1859)
 - [ ] Tunguska (1908)
 - [ ] 1938 radyo paniği gerçekten oldu mu?
-- [ ] Başsız tavuk Mike
+- [ ] (SÖNÜK) Başsız tavuk Mike
 - [ ] IV. Murad'ın kahve ve tütün yasağı — "osmanlı'da yaşanmış ilginç olaylar"

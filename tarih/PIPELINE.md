@@ -91,3 +91,5 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
 - Rapor: 3 satır özet + derleme bağlantısı.
 
 - **10 Kasım 2026 notu:** ElevenLabs anahtarında `music_generation` ve `sound_generation` izni yok (401). `eleven_muzik`/`eleven_sfx` sessizce atlanır; müzik sentetik üretilir, efekt gerekiyorsa numpy ile `sfx_<ad>.mp3` olarak iş klasörüne yazılır. Özel gün videosu günlük videoyu ENGELLEMEZ (kullanıcı kararı): aynı gün 15:07 görevi SIRADAKİ konuyu yine yayınlar. Kapak yazısı görselle çakışırsa `kapak_y` (varsayılan 330) ile yukarı alınır.
+
+- **Konu seçimi (11 Kasım 2026, Kadir Bey):** Yarının konusunu seçerken `konular.md`'deki HEYECAN TESTİ zorunludur; `(SÖNÜK)` işaretli konu seçilmez. Havuza yeni konu eklerken de test uygulanır. Kanca ve başlık gerilimi (risk, son an, sır) öne koyar.
