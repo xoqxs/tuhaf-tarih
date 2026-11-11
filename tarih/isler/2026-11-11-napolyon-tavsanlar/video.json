@@ -3,7 +3,7 @@
  "seri": "Büyük Komutanların Bilinmeyen Anları",
  "seri_rozet": "Büyük Komutanlar #2",
  "duygu": "komik",
- "tempo": 1.14,
+ "tempo": 1.2,
  "kapak": [
   "Napolyon'u yenen",
   "tavşan ordusu"
@@ -17,19 +17,16 @@
   "model": "eleven_v3"
  },
  "yazim": {
-  "Bertiye": "Berthier",
-  "Tiyebo": "Thiébault"
+  "Bertiye": "BERTHIER",
+  "Tiyebo": "THIÉBAULT"
  },
  "sahneler": [
   {
    "metin": "Napolyon'u savaş meydanında değil, bir av partisinde tavşanlar püskürttü.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "klip": "klip/k_kanca.mp4",
+     "uretim": true
     }
    ]
   },
@@ -37,35 +34,41 @@
    "metin": "Temmuz 1807: Napolyon, Rusya ile Tilsit barışını yeni imzalamıştır.",
    "gorseller": [
     {
+     "dosya": "img/napolyon.jpg",
+     "duzen": "cerceve"
+    },
+    {
      "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
+      "ust": "temmuz 1807",
+      "ana": "Tilsit",
+      "alt": "Rusya ile barış",
+      "zemin": "img/napolyon.jpg"
      }
     }
-   ]
+   ],
+   "etiket": "Napolyon · 1807"
   },
   {
    "metin": "Kurmay başkanı Bertiye, bunu kutlamak için bir tavşan avı düzenler.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/berthier.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/av.jpg",
+     "duzen": "bulanik"
     }
-   ]
+   ],
+   "etiket": "BERTHIER · kurmay başkanı"
   },
   {
    "metin": "Çiftçilerden yüzlerce tavşan satın alınır.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/c_ciftci.jpg",
+     "uretim": true,
+     "duzen": "doldur"
     }
    ]
   },
@@ -73,11 +76,13 @@
    "metin": "Kafesler açılır ama tavşanlar kaçmaz; doğruca Napolyon'a koşar.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/c_kafes.jpg",
+     "uretim": true,
+     "duzen": "doldur"
+    },
+    {
+     "klip": "klip/k_kosu.mp4",
+     "uretim": true
     }
    ]
   },
@@ -85,11 +90,9 @@
    "metin": "Napolyon'un adamları onları kırbaçla, sopayla uzaklaştırmaya çalışır.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/c_kirbac.jpg",
+     "uretim": true,
+     "duzen": "doldur"
     }
    ]
   },
@@ -97,11 +100,13 @@
    "metin": "Başaramazlar. Napolyon arabasına binip uzaklaşır.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "klip": "klip/k_araba.mp4",
+     "uretim": true
+    },
+    {
+     "dosya": "img/c_uzak.jpg",
+     "uretim": true,
+     "duzen": "doldur"
     }
    ]
   },
@@ -109,10 +114,16 @@
    "metin": "Sebep basittir: Bunlar yabani değil, evcil tavşanlardır.",
    "gorseller": [
     {
+     "dosya": "img/c_evcil.jpg",
+     "uretim": true,
+     "duzen": "doldur"
+    },
+    {
      "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
+      "ust": "yabani değil",
+      "ana": "evcil",
+      "alt": "çiftlik tavşanları",
+      "zemin": "img/c_evcil.jpg"
      }
     }
    ]
@@ -121,11 +132,9 @@
    "metin": "O gün beslenmemişlerdir; insanları görünce yem beklerler.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/c_ac.jpg",
+     "uretim": true,
+     "duzen": "doldur"
     }
    ]
   },
@@ -133,23 +142,28 @@
    "metin": "Bu olayı General Tiyebo anılarında anlatır; bazı tarihçiler hikâyeye temkinli yaklaşır.",
    "gorseller": [
     {
+     "dosya": "img/c_ani.jpg",
+     "uretim": true,
+     "duzen": "doldur"
+    },
+    {
      "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
+      "ust": "anıları",
+      "ana": "1895",
+      "alt": "ölümünden sonra yayımlandı",
+      "zemin": "img/c_ani.jpg"
      }
     }
-   ]
+   ],
+   "etiket": "General THIÉBAULT"
   },
   {
    "metin": "Büyük komutanların bilinmeyen anları için takipte kal.",
    "gorseller": [
     {
-     "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
-     }
+     "dosya": "img/c_bakis.jpg",
+     "uretim": true,
+     "duzen": "doldur"
     }
    ]
   },
@@ -158,9 +172,10 @@
    "gorseller": [
     {
      "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
+      "ust": "sence",
+      "ana": "gerçek mi?",
+      "alt": "yoksa abartı mı",
+      "zemin": "img/c_uzak.jpg"
      }
     }
    ]
@@ -170,10 +185,15 @@
    "gorseller": [
     {
      "kart": {
-      "ust": "",
-      "ana": "...",
-      "alt": ""
+      "ust": "yarın",
+      "ana": "Seyit Onbaşı",
+      "alt": "dev top mermisi",
+      "zemin": "img/seyit.jpg"
      }
+    },
+    {
+     "dosya": "img/seyit.jpg",
+     "duzen": "cerceve"
     }
    ]
   }
@@ -204,5 +224,17 @@
    "Mental Floss",
    "Deseret News"
   ]
+ },
+ "max_cekim": 3.8,
+ "kapak_y": 860,
+ "stil": {
+  "ton": "dogal",
+  "tanecik": false,
+  "vinyet": true,
+  "ilerleme": true,
+  "palet": "sari",
+  "font": "Anton",
+  "konum": 560,
+  "grup": 3
  }
 }
