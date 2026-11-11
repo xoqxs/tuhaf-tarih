@@ -1,0 +1,4 @@
+{"ogeler": [
+ {"tur": "resim", "cikis": "img/tavsan.jpg", "tohum": 7, "prompt": "Vintage 19th-century engraving illustration, crosshatched ink on aged paper, sepia tones: a huge swarm of hundreds of rabbits charging across a grassy field toward a startled Napoleonic-era officer in bicorne hat seen from behind, hunting party and carriages in the distance, dramatic composition, vertical format, no text"},
+ {"tur": "klip", "cikis": "klip/tavsan.mp4", "kaynak": "img/tavsan.jpg", "tohum": 7, "prompt": "The swarm of rabbits runs and hops forward across the field toward the officer, grass moving in the wind, slight slow camera push-in, animated engraving illustration style"}
+]}

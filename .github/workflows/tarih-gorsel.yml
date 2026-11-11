@@ -1,0 +1,39 @@
+name: Belgesellerim – fal.ai görsel ve klip
+# Görev, <klasör>/gorsel.json dosyasını gönderir; bu iş eksik görselleri/klipleri fal.ai ile üretip geri gönderir.
+on:
+  push:
+    paths:
+      - "tarih/**/gorsel.json"
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tarih-gorsel
+  cancel-in-progress: false
+jobs:
+  gorsel:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kurulum
+        run: pip install -q fal-client
+      - name: Üret
+        env:
+          FAL_KEY: ${{ secrets.FAL_KEY }}
+        run: |
+          set -e
+          test -n "$FAL_KEY" || { echo "::error::FAL_KEY secret tanımlı değil"; exit 1; }
+          for f in $(git ls-files 'tarih/**/gorsel.json'); do
+            d=$(dirname "$f"); echo "== $d"
+            python3 tarih/pipeline/fal_uret.py "$d" 2>&1 | tee "$d/gorsel.log"
+          done
+      - name: Gönder
+        if: always()
+        run: |
+          git config user.name "tarih-gorsel-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add tarih 2>/dev/null || true
+          git diff --cached --quiet && { echo "değişiklik yok"; exit 0; }
+          git commit -m "Görsel/klip (fal.ai) $(date -u +%F_%H%M)"
+          for i in 1 2 3; do git pull --rebase -q && git push && exit 0; sleep 5; done; exit 1
