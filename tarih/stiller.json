@@ -86,5 +86,16 @@
   "ilerleme": true,
   "tanecik": false,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-11-napolyon-tavsanlar",
+  "font": "Anton",
+  "palet": "sari",
+  "ton": "dogal",
+  "konum": 560,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": false,
+  "vinyet": true
  }
 ]
