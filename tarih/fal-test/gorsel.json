@@ -1,4 +1,35 @@
-{"ogeler": [
- {"tur": "resim", "cikis": "img/tavsan.jpg", "tohum": 7, "prompt": "Vintage 19th-century engraving illustration, crosshatched ink on aged paper, sepia tones: a huge swarm of hundreds of rabbits charging across a grassy field toward a startled Napoleonic-era officer in bicorne hat seen from behind, hunting party and carriages in the distance, dramatic composition, vertical format, no text"},
- {"tur": "klip", "cikis": "klip/tavsan.mp4", "kaynak": "img/tavsan.jpg", "tohum": 7, "prompt": "The swarm of rabbits runs and hops forward across the field toward the officer, grass moving in the wind, slight slow camera push-in, animated engraving illustration style"}
-]}
+{
+ "ogeler": [
+  {
+   "tur": "resim",
+   "cikis": "img/tavsan.jpg",
+   "tohum": 7,
+   "prompt": "Vintage 19th-century engraving illustration, crosshatched ink on aged paper, sepia tones: a huge swarm of hundreds of rabbits charging across a grassy field toward a startled Napoleonic-era officer in bicorne hat seen from behind, hunting party and carriages in the distance, dramatic composition, vertical format, no text"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/tavsan.mp4",
+   "kaynak": "img/tavsan.jpg",
+   "tohum": 7,
+   "prompt": "The swarm of rabbits runs and hops forward across the field toward the officer, grass moving in the wind, slight slow camera push-in, animated engraving illustration style"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/renk_yagli.jpg",
+   "tohum": 11,
+   "prompt": "Cinematic classical oil painting in rich full color, dramatic warm light, detailed brushwork, 19th-century history painting style: a huge swarm of hundreds of rabbits charging across a green field toward a startled Napoleon-era French officer in a bicorne hat and blue uniform, hunting party with carriages in the background, dramatic, vertical composition, no text, no signature, no watermark"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/renk_cizgiroman.jpg",
+   "tohum": 11,
+   "prompt": "Modern graphic novel illustration, bold ink outlines, vivid flat colors, dynamic cinematic angle, high contrast: a huge swarm of hundreds of rabbits charging across a green field toward a startled Napoleon-era French officer in a bicorne hat and blue uniform, hunting party with carriages in the background, dramatic, vertical composition, no text, no signature, no watermark"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/renk_elboyama.jpg",
+   "tohum": 11,
+   "prompt": "Hand-colored vintage engraving, fine crosshatched ink lines with soft watercolor tints in blue, green and red on aged paper: a huge swarm of hundreds of rabbits charging across a green field toward a startled Napoleon-era French officer in a bicorne hat and blue uniform, hunting party with carriages in the background, dramatic, vertical composition, no text, no signature, no watermark"
+  }
+ ]
+}
