@@ -1,0 +1,102 @@
+{
+ "ogeler": [
+  {
+   "tur": "resim",
+   "cikis": "img/c_kanca.jpg",
+   "tohum": 21,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. Napoleon Bonaparte in black bicorne hat and green colonel's coat with white breeches stands in a sunny green meadow recoiling in surprise as a huge swarm of hundreds of fluffy rabbits charges straight at him, seen from the front, officers behind him startled, comic and dramatic"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_ciftci.jpg",
+   "tohum": 22,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. French peasants in 1807 handing wicker cages packed with fluffy domestic rabbits to a uniformed imperial officer beside a farm cart, stacks of cages, village farmyard"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_kafes.jpg",
+   "tohum": 23,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. servants in livery opening rows of wooden cages at the edge of a grassy field, dozens of rabbits pouring out of the cages onto the grass, hunters with muskets waiting in the distance"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_kosu.jpg",
+   "tohum": 24,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. low ground-level view of a stampede of hundreds of white, grey and brown rabbits running across a meadow directly toward the viewer, dust and flying grass, château in the far background"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_kirbac.jpg",
+   "tohum": 25,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. elegant Napoleonic officers in blue uniforms and tall boots desperately swatting with riding crops and sticks at dozens of rabbits swarming around their legs in a meadow, comic chaos, no blood, rabbits unharmed"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_araba.jpg",
+   "tohum": 26,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. Napoleon Bonaparte in black bicorne hat and green colonel's coat with white breeches hurriedly climbing into an ornate dark green imperial carriage with gold trim while rabbits leap around the wheels and onto the step, coachman alarmed"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_uzak.jpg",
+   "tohum": 27,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. an imperial horse-drawn carriage driving away fast down a country road seen from behind, a crowd of rabbits sitting victorious in the meadow in the foreground watching it leave"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_evcil.jpg",
+   "tohum": 28,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. close-up portrait of plump tame domestic rabbits, white and spotted, sitting calmly in a wooden hutch with straw, gentle and friendly, soft light"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_ac.jpg",
+   "tohum": 29,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. a crowd of hungry domestic rabbits standing on their hind legs looking up expectantly at a tall man's polished black boots, seen from rabbit eye level, begging for food, meadow"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_ani.jpg",
+   "tohum": 30,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. an elderly French general in a dark coat with medals writing his memoirs with a quill pen at a desk by candlelight, stacks of manuscript pages, thoughtful expression, 1840s study"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_bakis.jpg",
+   "tohum": 31,
+   "prompt": "Cinematic classical oil painting in rich vivid full color, dramatic warm sunlight, detailed brushwork, early 19th-century French history painting, vertical composition, no text, no signature, no watermark, no frame. comic face-off: Napoleon Bonaparte in black bicorne hat and green colonel's coat with white breeches bending down glaring at a single small white rabbit sitting fearlessly in the grass staring back at him, side view"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_kanca.mp4",
+   "kaynak": "img/c_kanca.jpg",
+   "tohum": 5,
+   "prompt": "The swarm of rabbits runs and hops rapidly forward toward the man, he steps back in alarm raising his arms, grass sways, slow camera push-in, oil painting come to life",
+   "cozunurluk": "580p"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_kafes.mp4",
+   "kaynak": "img/c_kafes.jpg",
+   "tohum": 5,
+   "prompt": "Rabbits keep pouring out of the open cages and hop quickly across the grass, servants step back, gentle camera pan, oil painting come to life",
+   "cozunurluk": "580p"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_kosu.mp4",
+   "kaynak": "img/c_kosu.jpg",
+   "tohum": 5,
+   "prompt": "The stampede of rabbits runs fast toward the camera, ears bouncing, dust and grass flying, slight camera shake, oil painting come to life",
+   "cozunurluk": "580p"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_araba.mp4",
+   "kaynak": "img/c_araba.jpg",
+   "tohum": 5,
+   "prompt": "The man climbs up into the carriage and the carriage door swings, rabbits jump around the wheels, horses stamp, slow camera push-in, oil painting come to life",
+   "cozunurluk": "580p"
+  }
+ ]
+}
