@@ -9,8 +9,8 @@
 | 2026-11-10 | ÖZEL – 10 Kasım Atatürk'ü Anma | Atatürk'ü kurtaran cep saati (1915) + 09.05 | Atatürk'ü Kurtaran Saat ve 09.05'te Duran Türkiye \| 10 Kasım | nesne üzerinden iddia | iki saat / iki tarih | hüzün | Anton/anma (siyah-beyaz) | https://youtube.com/shorts/48L4te7EQJY | yayınlandı |
 | 2026-11-10 | Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler (#1) | Tsutomu Yamaguchi | İki Atom Bombasından Kurtulan Adam: Müdürü Ona İnanmadı | soru | iki şehir / üç gün kronolojisi | gerilim | Archivo Black/sari | https://youtube.com/shorts/4Y924SReOAs | yayınlandı |
 | 2026-11-11 | Büyük Komutanların Bilinmeyen Anları (#2) | Napolyon ve tavşanlar | Napolyon'u Kaçıran Tavşanlar: Napolyon Tavşan Olayı Gerçek mi? | şaşırtıcı sonuç önce | ters köşe (sebep sonda) + kaynak notu | komik | Anton/sari (renkli; fal.ai görsel + 3 Wan klibi, sentetik içerik: Evet) | https://youtube.com/shorts/2jvuNmxJZpg | yayınlandı |
-
 | 2026-11-12 | Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler (#2) | Seyit Onbaşı / 215 mi 276 kilo mu | Seyit Onbaşı Gerçekte Kaç Kilo Kaldırdı? Fotoğraftaki Sır | sahnenin ortasından | efsane ve belge karşılaştırması (iki taraf) | epik | Bebas Neue/pembe | https://youtube.com/shorts/tv_w8h8F8F8 | gizli – yükleme tamam, "Yayınla" adımı otomatik onaydan geçmedi; Kadir Bey'in herkese açık yapması bekleniyor |
+
 ### Haftalık özet 2026-11-08
 Veri çok az: yeni hatta 3 Short var, en eskisi 1 günlük. Derleme yapılmadı (3 video, en az 4 gerekir). Abone verisi okunmadı.
 - En iyi: Hiroo Onoda 1.134 · 1904 Maratonu 503 · Fahrettin Paşa 171 (bugün yayınlandı, henüz karşılaştırılamaz). 14 günde başka Short yok, en zayıf 3 aynı liste.
