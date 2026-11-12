@@ -1,0 +1,46 @@
+{
+ "ogeler": [
+  {
+   "tur": "resim",
+   "cikis": "img/c_gece.jpg",
+   "prompt": "1976, night, four military C-130 Hercules transport planes flying very low over a dark sea toward Africa, moonlight on the water, tense atmosphere, cinematic wide shot, muted teal and amber colors, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_gece.mp4",
+   "kaynak": "img/c_gece.jpg",
+   "prompt": "the transport planes fly low over the dark sea at night, propellers spinning, moonlight shimmering on waves, slow camera tracking, cinematic, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_ucak.jpg",
+   "prompt": "1970s wide-body passenger airliner with plain white livery and no logos parked alone on a remote African airport runway under harsh afternoon sun, heat haze, armed figures far away, tense, cinematic, 1970s film look, grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_murettebat.jpg",
+   "prompt": "1970s airline flight crew in uniforms sitting with worried passengers in a crowded old airport terminal hall at night, dim yellow light, tense quiet faces, seen from a distance, documentary photo style, 1970s film grain, realistic, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_deniz.jpg",
+   "prompt": "inside a dark military transport plane cockpit at night in 1976, two pilots in silhouette, instrument lights glowing green, dark sea visible through the windows, tense, cinematic, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_mercedes.jpg",
+   "prompt": "1976, night, a black 1970s luxury limousine sedan with headlights on driving down a dark airport runway, followed by two military land rovers, a large transport plane with open rear ramp behind, dramatic, cinematic, film grain, realistic, no logos, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_mercedes.mp4",
+   "kaynak": "img/c_mercedes.jpg",
+   "prompt": "the black limousine drives forward toward the camera on the dark runway with headlights glowing, military vehicles following, slow cinematic camera, no text"
+  }
+ ]
+}
