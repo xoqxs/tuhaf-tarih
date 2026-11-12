@@ -3,7 +3,7 @@
  "seri": "Aldatma, Casusluk ve Gizli Operasyonlar",
  "seri_rozet": "Gizli Operasyonlar #1",
  "duygu": "gerilim",
- "tempo": 1.1,
+ "tempo": 1.16,
  "kapak": [
   "Entebbe Baskını",
   "90 dakikada 102 rehine"
@@ -34,7 +34,13 @@
    "gorseller": [
     {
      "dosya": "img/c_ucak.jpg",
-     "uretim": true
+     "uretim": true,
+     "duzen": "doldur",
+     "odak": [
+      0.5,
+      0.62
+     ],
+     "hareket": "uzaklas"
     }
    ]
   },
@@ -84,7 +90,7 @@
    "metin": "İndiklerinde, Amin'in arabasına benzeyen siyah bir Mercedes'le nöbetçileri kandırırlar.",
    "gorseller": [
     {
-     "klip": "klip/k_mercedes.mp4",
+     "dosya": "img/c_mercedes.jpg",
      "uretim": true
     },
     {
