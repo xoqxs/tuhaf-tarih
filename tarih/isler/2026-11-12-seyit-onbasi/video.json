@@ -90,9 +90,11 @@
    "metin": "Savaştan sonra köyünde odunculuk ve kömürcülük yaparak yaşar.",
    "gorseller": [
     {
-     "dosya": "img/c_koy.jpg",
-     "uretim": true,
-     "duzen": "doldur"
+     "dosya": "img/seyit2.jpg",
+     "odak": [
+      0.55,
+      0.45
+     ]
     }
    ]
   },
@@ -124,10 +126,6 @@
    "metin": "Heykeli bugün Çanakkale'de nöbet tutar.",
    "etiket": "Seyit Onbaşı heykeli",
    "gorseller": [
-    {
-     "klip": "klip/k_heykel.mp4",
-     "uretim": true
-    },
     {
      "dosya": "img/heykel.jpg"
     }

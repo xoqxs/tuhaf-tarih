@@ -1,10 +1,10 @@
 {
- "font": "Bebas Neue",
- "palet": "pembe",
- "ton": "soguk",
- "konum": 560,
+ "font": "Anton",
+ "palet": "kor",
+ "ton": "sepya",
+ "konum": 720,
  "grup": 3,
  "ilerleme": true,
- "tanecik": false,
+ "tanecik": true,
  "vinyet": true
 }

@@ -108,5 +108,16 @@
   "ilerleme": true,
   "tanecik": false,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-12-seyit-onbasi",
+  "font": "Anton",
+  "palet": "kor",
+  "ton": "sepya",
+  "konum": 720,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
  }
 ]
