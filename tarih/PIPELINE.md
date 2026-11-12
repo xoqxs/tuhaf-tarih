@@ -95,3 +95,6 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
 - **Konu seçimi (11 Kasım 2026, Kadir Bey):** Yarının konusunu seçerken `konular.md`'deki HEYECAN TESTİ zorunludur; `(SÖNÜK)` işaretli konu seçilmez. Havuza yeni konu eklerken de test uygulanır. Kanca ve başlık gerilimi (risk, son an, sır) öne koyar.
 
 - **Millî kahramanlar (12 Kasım 2026, Kadir Bey):** Türk/Osmanlı kahramanları yalnızca olumlu yönleriyle, saygılı ve gururlu bir tonla anlatılır; efsaneyi 'çürüten', küçümser gibi duran açılar (ör. 'aslında kaldıramadı', 'rakam yanlış') kullanılmaz. Tartışmalı rakam varsa hiç söylenmez.
+
+- **Metin mantığı (12 Kasım 2026, Kadir Bey: 'metinler bazen tökezliyor'):** editor.md'deki 0. adım (önce olay özeti), 11–12. maddeler (çift anlam, neden-sonuç) ve editörden sonra **geri anlatım testi** zorunludur. Rapora "Editör: n. tur, geri anlatım: geçti" yaz.
+- **Yayın saati:** günlük görev 18:31'de başlar, video ~19:00'da yayınlanır.
