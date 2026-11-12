@@ -1,16 +1,2 @@
-tamam: img/c_kanca.jpg 875782
-tamam: img/c_ciftci.jpg 658504
-tamam: img/c_kafes.jpg 840099
-tamam: img/c_kosu.jpg 770419
-tamam: img/c_kirbac.jpg 749623
-tamam: img/c_araba.jpg 696857
-tamam: img/c_uzak.jpg 909051
-tamam: img/c_evcil.jpg 546185
-tamam: img/c_ac.jpg 679440
-tamam: img/c_ani.jpg 546225
-tamam: img/c_bakis.jpg 677151
-tamam: klip/k_kanca.mp4 4681255
 ::warning::klip/k_kafes.mp4 üretilemedi: FalClientHTTPError: [{'loc': ['body', 'image_url'], 'msg': 'The content could not be processed because it contained material flagged by a content checker.', 'type': 'content_policy_violation', 'url': 'https://docs.fal.ai/errors#content_policy_violation', 'input': {'prompt': 'Rabbits keep pouring out of the open cages a
-tamam: klip/k_kosu.mp4 3729131
-tamam: klip/k_araba.mp4 2733831
-özet: 11 resim, 3 klip, 1 hata
+özet: 0 resim, 0 klip, 1 hata
