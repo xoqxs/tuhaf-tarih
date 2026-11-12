@@ -148,7 +148,8 @@
      "dosya": "img/ocean.jpg"
     },
     {
-     "dosya": "img/irres.jpg"
+     "dosya": "img/ocean.jpg",
+     "duzen": "detay"
     }
    ]
   },
@@ -167,7 +168,7 @@
      "kart": {
       "ust": "sence",
       "ana": "215 kilo",
-      "alt": "az mı, çok mu?"
+      "alt": "efsane küçülür mü?"
      }
     }
    ]
