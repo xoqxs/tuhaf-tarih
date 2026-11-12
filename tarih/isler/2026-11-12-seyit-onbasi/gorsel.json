@@ -1,0 +1,40 @@
+{
+ "ogeler": [
+  {
+   "tur": "resim",
+   "cikis": "img/c_filo.jpg",
+   "prompt": "1915 Dardanelles naval battle, several dreadnought battleships firing their guns in a narrow strait, huge smoke plumes and water splashes, coastal hills, early morning light, cinematic wide shot, muted sepia color, film grain, historical war painting realism",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_kanca.mp4",
+   "kaynak": "img/c_filo.jpg",
+   "prompt": "battleships fire their guns, smoke rolls across the water, splashes rise, slow camera push in, cinematic, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_sirt.jpg",
+   "prompt": "1915 Ottoman coastal fortress, a strong mustached Ottoman artillery corporal in WWI uniform and kalpak carrying a huge artillery shell on his back toward a large Krupp coastal gun, smoke and dust, low angle heroic shot, seen from behind and side, dramatic sunlight, sepia tones, cinematic, film grain",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_sirt.mp4",
+   "kaynak": "img/c_sirt.jpg",
+   "prompt": "the soldier walks forward slowly carrying the heavy shell on his back toward the cannon, straining, dust and smoke drifting, slow camera follow, cinematic, no text"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_heykel.mp4",
+   "kaynak": "img/heykel.jpg",
+   "prompt": "slow cinematic camera push in toward the bronze statue, clouds moving softly in the sky, gentle light change, the statue stays still, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_koy.jpg",
+   "prompt": "1920s Anatolian mountain village, a tall strong man in simple village clothes carrying a bundle of firewood on his back along a forest path, pine trees, evening light, seen from behind, peaceful, sepia tones, cinematic, film grain",
+   "boyut": "portrait_16_9"
+  }
+ ]
+}
