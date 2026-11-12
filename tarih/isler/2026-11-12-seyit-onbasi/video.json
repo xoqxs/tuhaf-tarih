@@ -1,0 +1,215 @@
+{
+ "slug": "2026-11-12-seyit-onbasi",
+ "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
+ "seri_rozet": "Osmanlı ve Türk #2",
+ "duygu": "epik",
+ "tempo": 1.14,
+ "kapak": [
+  "Seyit Onbaşı",
+  "kaç kilo kaldırdı?"
+ ],
+ "vurgu_sahneleri": [
+  1,
+  7
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "sahneler": [
+  {
+   "metin": "18 Mart 1915, Çanakkale: Seyit'in topunda mermi vinci vurulur.",
+   "etiket": "18 Mart 1915",
+   "gorseller": [
+    {
+     "dosya": "img/qe.jpg"
+    },
+    {
+     "dosya": "img/tabya.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Seyit Onbaşı mermiyi sırtlayıp topa taşır.",
+   "etiket": "Rumeli Mecidiye Tabyası",
+   "gorseller": [
+    {
+     "dosya": "img/seyit2.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.55,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "O mermi kaç kiloydu?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "asıl soru",
+      "ana": "kaç kilo?",
+      "alt": "efsane ve belge"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Heykelinde iki yüz yetmiş altı kilo yazar.",
+   "etiket": "Seyit Onbaşı heykeli",
+   "gorseller": [
+    {
+     "dosya": "img/heykel.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Oysa o topların en ağır mermisi iki yüz on beş kiloydu.",
+   "etiket": "belge",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "arşiv belgesi",
+      "ana": "215 kilo",
+      "alt": "en ağır mermi"
+     }
+    },
+    {
+     "dosya": "img/krupp.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Fark, 1915'teki bir dergi fotoğrafının altyazısından doğdu.",
+   "etiket": "Harp Mecmuası, 1915",
+   "gorseller": [
+    {
+     "dosya": "img/seyit.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Altyazıda eski ölçüyle iki yüz on beş okka yazıyordu.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "altyazıda",
+      "ana": "215 okka",
+      "alt": "eski bir ölçü"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Kiloya çevrilince iki yüz yetmiş altı çıktı; böyle bir mermi yoktu.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "çevrilince",
+      "ana": "276 kilo",
+      "alt": "böyle bir mermi yoktu"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Fotoğraf çekilirken Seyit mermiyi kaldıramadı.",
+   "gorseller": [
+    {
+     "dosya": "img/seyit2.jpg",
+     "odak": [
+      0.55,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Fotoğraftaki mermi bu yüzden tahtadır.",
+   "etiket": "tahta mermi",
+   "gorseller": [
+    {
+     "dosya": "img/seyit.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.45
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Seyit'in bir İngiliz zırhlısını vurduğu da söylenir, ama kanıtlanmadı.",
+   "etiket": "HMS Ocean",
+   "gorseller": [
+    {
+     "dosya": "img/ocean.jpg"
+    },
+    {
+     "dosya": "img/irres.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Efsanelerin ardındaki gerçekler için abone ol.",
+   "gorseller": [
+    {
+     "dosya": "img/bouvet.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Sence gerçek rakam efsaneyi küçültüyor mu, büyütüyor mu?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "215 kilo",
+      "alt": "az mı, çok mu?"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Doksan dakikada yüzü aşkın rehineyi kurtaran baskın.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "Entebbe",
+      "alt": "doksan dakika"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Seyit Onbaşı Gerçekte Kaç Kilo Kaldırdı? Fotoğraftaki Sır #shorts",
+  "aciklama": "Seyit Onbaşı gerçekte kaç kilo kaldırdı? 18 Mart 1915'te Çanakkale'deki Rumeli Mecidiye Tabyası'nda topun mermi vinci vurulunca Seyit Onbaşı mermiyi sırtlayıp topa taşıdı. Genelkurmay belgelerine göre o topların en ağır mermisi 215 kiloydu; yaygın 276 kilo rakamı, 1915 tarihli Harp Mecmuası'ndaki \"215 kıyye (okka)\" altyazısının kiloya çevrilmesinden doğdu. Seyit Onbaşı'nın ünlü fotoğrafındaki mermi ise tahtadandı; Ocean zırhlısını vurduğu iddiası da kanıtlanmadı.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #2 – tüm bölümler oynatma listesinde\nYarın: Entebbe Baskını – doksan dakikada yüzü aşkın rehinenin kurtarıldığı operasyon\n\nKaynaklar: 1914-1918-online, Tuncay Yılmazer, \"Çabuk, Seyit Ali\"; Hürriyet, \"Ne çektin be Seyit Onbaşı\"\nGörseller: Wikimedia Commons, kamu malı. Ayrıca: Dosseman (Rumeli Mecidiye Tabyası, Seyit Onbaşı heykeli), CC BY-SA 4.0; Alan Wilson (Krupp kıyı topu, İstanbul Askerî Müze), CC BY-SA 4.0 – Wikimedia Commons\n\n#seyitonbaşı #çanakkale #18mart #çanakkalesavaşı #shorts",
+  "etiketler": [
+   "seyit onbaşı",
+   "seyit onbaşı kaç kilo kaldırdı",
+   "seyit onbaşı gerçek hikayesi",
+   "seyit onbaşı mermi",
+   "koca seyit",
+   "seyit onbaşı gerçek mi",
+   "çanakkale savaşı",
+   "18 mart 1915",
+   "osmanlı savaş tarihi",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#seyitonbaşı",
+   "#çanakkale",
+   "#18mart",
+   "#çanakkalesavaşı",
+   "#shorts"
+  ],
+  "kaynaklar": [
+   "1914-1918-online (T. Yılmazer)",
+   "Hürriyet"
+  ]
+ }
+}
