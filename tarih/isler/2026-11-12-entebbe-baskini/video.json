@@ -1,0 +1,180 @@
+{
+ "slug": "2026-11-12-entebbe-baskini",
+ "seri": "Aldatma, Casusluk ve Gizli Operasyonlar",
+ "seri_rozet": "Gizli Operasyonlar #1",
+ "duygu": "gerilim",
+ "tempo": 1.1,
+ "kapak": [
+  "Entebbe Baskını",
+  "90 dakikada 102 rehine"
+ ],
+ "vurgu_sahneleri": [
+  6,
+  7
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "27 Haziran 1976'da Tel Aviv–Paris seferindeki bir Air France uçağı kaçırılıp Uganda'daki Entebbe Havalimanı'na indirilir; Uganda lideri İdi Amin korsanlara destek verir. Yolcuların çoğu bırakılır ama İsrailli ve Yahudi yolculardan oluşan 106 rehine ölüm tehdidiyle tutulur, Fransız mürettebat yolcularını bırakmayıp onlarla kalır. 3 Temmuz gecesi dört İsrail nakliye uçağı yaklaşık yüz komandoyla 4.000 km uçup Entebbe'ye iner, Amin'inkine benzeyen siyah bir Mercedes'le nöbetçileri kandırır. Doksan dakikada 106 rehineden 102'si kurtarılır; üç rehine ve harekâtın komutanı hayatını kaybeder.",
+ "sahneler": [
+  {
+   "metin": "Entebbe, 1976: rehineleri kurtarmak için dört bin kilometre uçmak gerekiyordu.",
+   "etiket": "Entebbe · Uganda",
+   "gorseller": [
+    {
+     "klip": "klip/k_gece.mp4",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Yirmi yedi Haziran 1976'da Tel Aviv'den kalkan bir Air France uçağı kaçırılır.",
+   "etiket": "Air France 139 · 27 Haziran 1976",
+   "gorseller": [
+    {
+     "dosya": "img/c_ucak.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Korsanlar uçağı Uganda'daki Entebbe'ye indirir; ülkenin lideri İdi Amin onlara destek verir.",
+   "gorseller": [
+    {
+     "dosya": "img/entebbe.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Yolcuların çoğu bırakılır; İsrailli ve Yahudi yolcular ise ölüm tehdidiyle tutulur.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Entebbe Havalimanı",
+      "ana": "ölüm tehdidi",
+      "alt": "rehineler bekliyor"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Fransız mürettebat serbest kalmayı reddedip yolcularla kalır.",
+   "gorseller": [
+    {
+     "dosya": "img/c_murettebat.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Üç Temmuz gecesi yaklaşık yüz İsrailli komando, dört nakliye uçağıyla Entebbe'ye uçar.",
+   "etiket": "3 Temmuz 1976 gecesi",
+   "gorseller": [
+    {
+     "dosya": "img/herc2.jpg"
+    },
+    {
+     "dosya": "img/c_deniz.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "İndiklerinde, Amin'in arabasına benzeyen siyah bir Mercedes'le nöbetçileri kandırırlar.",
+   "gorseller": [
+    {
+     "klip": "klip/k_mercedes.mp4",
+     "uretim": true
+    },
+    {
+     "dosya": "img/mercedes.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Doksan dakikada rehinelerden yüz ikisi kurtarılır.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "doksan dakikada",
+      "ana": "102 kurtarıldı",
+      "alt": "Entebbe, 4 Temmuz 1976"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Üç rehine ve harekâtın komutanı hayatını kaybeder.",
+   "gorseller": [
+    {
+     "dosya": "img/entebbe2.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Tarihin en şaşırtıcı operasyonları için abone ol.",
+   "gorseller": [
+    {
+     "dosya": "img/herc2.jpg",
+     "odak": [
+      0.6,
+      0.5
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Sence en kritik an hangisiydi?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "en kritik an?",
+      "alt": "yorumlara yaz"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Nükleer torpidoya onay vermeyen Sovyet subayı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "Vasili Arhipov",
+      "alt": "Küba krizi, 1962"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Entebbe Baskını: 4.000 km Uzaktaki Rehineleri 90 Dakikada Kurtaran Operasyon #shorts",
+  "aciklama": "27 Haziran 1976'da Tel Aviv–Paris seferindeki Air France 139 kaçırılıp Uganda'daki Entebbe Havalimanı'na indirildi; Uganda lideri İdi Amin korsanlara destek verdi. Yolcuların çoğu bırakıldı; İsrailli ve Yahudi yolcular ölüm tehdidiyle tutuldu, Fransız mürettebat serbest kalmayı reddedip onlarla kaldı. 3–4 Temmuz gecesi dört C-130 Hercules yaklaşık yüz komandoyla 4.000 km uçup Entebbe'ye indi; Amin'inkine benzeyen siyah bir Mercedes nöbetçileri kandırmak için kullanıldı. Doksan dakikada 106 rehineden 102'si kurtarıldı; üç rehine ve harekâtın komutanı hayatını kaybetti.\n\nSeri: Aldatma, Casusluk ve Gizli Operasyonlar #1 – tüm bölümler oynatma listesinde\nYarın: Vasili Arhipov – 1962 Küba krizinde nükleer torpidoya onay vermeyen Sovyet subayı\n\nKaynaklar: Wikipedia, \"Entebbe raid\"; Air & Space Forces Magazine, \"Entebbe\" (2010); Military History Wiki, \"Operation Entebbe\"\nGörseller: Wikimedia Commons – Rob Schleiffert (C-130E, CC BY-SA 2.0); IDF Spokesperson's Unit (Mercedes, 4 Temmuz 1976, CC BY-SA 3.0); ABD Hava Kuvvetleri (Entebbe Havalimanı 1994, kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#entebbe #entebbebaskını #rehine #askeritarih #shorts",
+  "etiketler": [
+   "entebbe baskını",
+   "entebbe operasyonu",
+   "entebbe 1976",
+   "rehine kurtarma operasyonu",
+   "air france 139",
+   "idi amin",
+   "askeri operasyonlar",
+   "gizli operasyonlar",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#entebbe",
+   "#rehine",
+   "#askeritarih"
+  ],
+  "kaynaklar": [
+   "Wikipedia – Entebbe raid",
+   "airandspaceforces.com – Entebbe (2010)",
+   "military-history.fandom.com – Operation Entebbe",
+   "migflug.com – Four Hercules, 2,500 Miles, Ninety Minutes"
+  ]
+ }
+}

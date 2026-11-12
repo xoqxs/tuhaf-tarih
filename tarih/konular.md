@@ -32,14 +32,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. Entebbe Baskını: 90 dakikada 100 rehine (SIRADAKİ) 7. Vasili Arhipov: nükleer savaşı tek başına durduran subay 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. Dyatlov Geçidi 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. Vasili Arhipov (SIRADAKİ): nükleer savaşı tek başına durduran subay 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. Dyatlov Geçidi 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-13: Entebbe Baskını (1976): 4.000 km uzakta, 90 dakikada 100'ü aşkın rehineyi kurtaran operasyon (seri D; gerilim/zaman baskısı; vahşet ayrıntısı yok, siyasi taraf tutma yok) — öneriler: "entebbe operasyonu", "entebbe baskını"
+- 2026-11-13: Vasili Arhipov (1962 Küba krizi): B-59 denizaltısında nükleer torpido atışına onay vermeyen Sovyet subayı (seri F; Entebbe videosu "Yarın: Nükleer torpidoya onay vermeyen Sovyet subayı" diye duyurdu; "nükleer savaşı tek başına durdurdu" abartısı KULLANILMAZ) — öneriler: "vasili arhipov", "küba füze krizi"
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -74,7 +74,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] (SÖNÜK) 335 yıl süren savaş efsanesi: Hollanda ile Scilly Adaları (efsane mi gerçek mi)
 
 ## D. Aldatma, Casusluk ve Gizli Operasyonlar
-- [ ] (SIRADAKİ) Entebbe Baskını (1976): 4.000 km uzakta, 90 dakikada rehine kurtarma
+- [x] 2026-11-12 Entebbe Baskını (1976): 4.000 km uzakta, 90 dakikada rehine kurtarma
 - [ ] Valkür: Hitler'e çantadaki bomba ile suikast girişimi (20 Temmuz 1944)
 - [ ] Büyük Firar (1944): Stalag Luft III'te kazılan tünel ve 76 kaçak
 - [ ] Mincemeat Operasyonu: bir cesetle Hitler'i kandıran plan
