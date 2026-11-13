@@ -1,0 +1,196 @@
+{
+ "slug": "2026-11-13-vasili-arhipov",
+ "seri": "Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler",
+ "seri_rozet": "Sağ Kurtulanlar #2",
+ "duygu": "merak",
+ "tempo": 1.14,
+ "kapak": [
+  "Vasili Arhipov",
+  "Tek bir hayır"
+ ],
+ "vurgu_sahneleri": [
+  7,
+  8
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "27 Ekim 1962'de, Küba füze krizinin en gergin gününde, Sovyet denizaltısı B-59 Küba yakınlarında ABD savaş gemilerince sıkıştırılır; Amerikalılar onu yüzeye çıkarmak için uyarı amaçlı küçük patlayıcılar atar. Günlerdir Moskova'yla bağlantısı olmayan kaptan Savitski savaşın başladığını düşünür ve tanıkların anlattığına göre nükleer torpidoyu hazırlatır. Ateşleme için gemideki üç kıdemli subayın onayı gerekir; kaptan ve siyasi subay evet der, filotilla kurmay başkanı Vasili Arhipov hayır der ve yüzeye çıkmayı önerir. Denizaltı yüzeye çıkar, torpido ateşlenmez; olay ancak 2002'deki Havana konferansında geniş çapta duyulur.",
+ "sahneler": [
+  {
+   "metin": "1962'de bir Sovyet denizaltısında, nükleer torpido ateşlenmeye hazırlanıyor.",
+   "etiket": "Sovyet denizaltısı B-59",
+   "gorseller": [
+    {
+     "dosya": "img/ic.jpg",
+     "duzen": "doldur"
+    },
+    {
+     "dosya": "img/ic2.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Bu atışı tek bir subay durdurabilir: Vasili Arhipov.",
+   "etiket": "Vasili Arhipov",
+   "gorseller": [
+    {
+     "dosya": "img/arhipov.jpg",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Küba füze krizinin en gergin günündeyiz.",
+   "etiket": "27 Ekim 1962",
+   "gorseller": [
+    {
+     "dosya": "img/fuzeler.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Amerikan gemileri, denizaltıyı yüzeye çıkarmak için uyarı bombaları atar.",
+   "etiket": "USS Beale",
+   "gorseller": [
+    {
+     "dosya": "img/beale.jpg"
+    },
+    {
+     "dosya": "img/barry.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Günlerdir Moskova'dan haber alamayan kaptan, savaşın başlamış olabileceğini düşünür.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Moskova ile bağlantı yok",
+      "ana": "savaş mı?",
+      "alt": "kaptanın şüphesi"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Anlatılana göre torpidoyu ateşlemek için üç kıdemli subayın onayı gerekir.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "nükleer torpido",
+      "ana": "üç onay",
+      "alt": "üç kıdemli subayın onayı şart"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Kaptan ve siyasi subay evet der.",
+   "gorseller": [
+    {
+     "dosya": "img/ic2.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "Arhipov ise hayır der ve yüzeye çıkmayı önerir.",
+   "gorseller": [
+    {
+     "dosya": "img/arhipov.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "Denizaltı yüzeye çıkar; torpido hiç ateşlenmez.",
+   "etiket": "B-59, Ekim 1962",
+   "gorseller": [
+    {
+     "dosya": "img/b59.jpg"
+    },
+    {
+     "dosya": "img/b36.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Dünya bunu ancak kırk yıl sonra öğrenir.",
+   "gorseller": [
+    {
+     "dosya": "img/mezar.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Kıl payı atlatılan savaşları kaçırmamak için kanalı takip et.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Belgesellerim",
+      "ana": "kıl payı",
+      "alt": "atlatılan savaşlar"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Sen o denizaltıda olsan evet mi derdin, hayır mı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "sence",
+      "ana": "evet mi hayır mı?",
+      "alt": "yorumlara yaz"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Yarın: Dokuz dağcı neden çadırı içeriden kesip karlı geceye kaçtı?",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "yarın",
+      "ana": "Dyatlov Geçidi",
+      "alt": "Ural Dağları, 1959"
+     }
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Vasili Arhipov Nükleer Torpidoya Neden Hayır Dedi? Küba Krizi #shorts",
+  "aciklama": "Vasili Arhipov, 27 Ekim 1962'de Küba füze krizinin en gergin gününde Sovyet denizaltısı B-59'daydı. Amerikan gemileri denizaltıyı yüzeye çıkarmak için uyarı bombaları atarken, Moskova'dan günlerdir haber alamayan kaptan Valentin Savitski savaşın başlamış olabileceğini düşündü; tanıklara göre nükleer torpido hazırlandı. Ateşleme için üç kıdemli subayın onayı gerekiyordu: kaptan ve siyasi subay evet dedi, Arhipov hayır dedi ve yüzeye çıkmayı önerdi. Bu karar ancak 2002'deki Havana konferansında geniş çapta duyuldu.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #2 – tüm bölümler oynatma listesinde\nYarın: Dyatlov Geçidi – dokuz dağcı neden çadırı içeriden kesip karlı geceye kaçtı?\n\nKaynaklar: National Security Archive, \"The Submarines of October\" (2012); Atomic Heritage Foundation, \"Nuclear Close Calls: The Cuban Missile Crisis\"\nGörseller: Wikimedia Commons – Olga Arkhipova (Vasili Arhipov, CC BY-SA 4.0); MBH ve Anastasiya Lvova (müze denizaltısı iç mekânı, CC BY-SA 4.0); mezar taşı fotoğrafı (CC BY-SA 4.0); ABD Donanması (B-59, B-36, USS Beale, USS Barry ve keşif fotoğrafı, kamu malı).\n\n#vasiliarhipov #kübafüzekrizi #soğuksavaş #denizaltı #shorts",
+  "etiketler": [
+   "vasili arhipov",
+   "vasili arkhipov",
+   "küba füze krizi",
+   "küba krizi",
+   "b-59 denizaltısı",
+   "nükleer torpido",
+   "soğuk savaş",
+   "nükleer savaş",
+   "sovyet denizaltısı",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "hashtagler": [
+   "#vasiliarhipov",
+   "#kübafüzekrizi",
+   "#soğuksavaş",
+   "#denizaltı",
+   "#shorts"
+  ],
+  "kaynaklar": [
+   "https://nsarchive2.gwu.edu/NSAEBB/NSAEBB399/",
+   "https://ahf.nuclearmuseum.org/ahf/history/nuclear-close-calls-cuban-missile-crisis"
+  ]
+ }
+}

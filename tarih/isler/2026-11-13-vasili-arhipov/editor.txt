@@ -1,0 +1,5 @@
+Editör kontrolü (bağımsız alt ajan) – 2026-11-13 Vasili Arhipov
+Tur 1: DÜZELT – sahne 5 ("sanır" fazla kesin → "başlamış olabileceğini düşünür"), sahne 6 ("ateş için üç subayın da" → "torpidoyu ateşlemek için üç kıdemli subayın onayı"), sahne 13 (tek çadır: "çadırı").
+Tur 2: GEÇTİ (105 kelime).
+Geri anlatım testi tur 1: özet doğru; sahne 2 "Bu kararı" belirsiz → "Bu atışı tek bir subay durdurabilir".
+Geri anlatım: geçti (2. tur).
