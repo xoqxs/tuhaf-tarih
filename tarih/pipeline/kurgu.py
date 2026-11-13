@@ -253,12 +253,12 @@ def main():
     if os.path.exists(mel) and os.path.getsize(mel) > 20000:
         run(["ffmpeg", "-y", "-loglevel", "error", "-stream_loop", "-1", "-i", mel, "-t", f"{D:.3f}", "-af",
              f"loudnorm=I=-18:TP=-2:LRA=11,afade=t=in:d=0.8,afade=t=out:st={max(0, D - 2.5):.2f}:d=2.5", "-ar", "44100", "-ac", "1", m])
-        mv = is_.get("muzik_seviye_el", 0.42)
+        mv = is_.get("muzik_seviye_el", 0.62)   # 14 Kasım: Kadir Bey "müzik az" → 0.42'den yükseltildi
         print("müzik: ElevenLabs")
     ev = float(is_.get("efekt_seviye", 0.5))      # 0 → sahne geçişi sesleri kapalı (anma videoları)
     girdiler = ["-i", ses, "-i", m, "-i", ef]
     fc = ("[0:a]loudnorm=I=-14:TP=-1.5:LRA=9,apad,asplit=2[v][sc];"
-          f"[1:a]volume={mv}[mm];[mm][sc]sidechaincompress=threshold=0.04:ratio=5:attack=20:release=450[md];"
+          f"[1:a]volume={mv}[mm];[mm][sc]sidechaincompress=threshold=0.05:ratio=3:attack=30:release=500[md];"
           f"[2:a]volume={ev}[e];")
     etiketler = "[v][md][e]"; n_in = 3
     tempo = float(is_.get("tempo", 1.0))
