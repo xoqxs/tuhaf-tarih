@@ -1,10 +1,10 @@
 {
- "font": "Anton",
- "palet": "zehir",
- "ton": "sepya",
- "konum": 720,
+ "font": "Archivo Black",
+ "palet": "pembe",
+ "ton": "soguk",
+ "konum": 640,
  "grup": 2,
- "ilerleme": true,
+ "ilerleme": false,
  "tanecik": true,
- "vinyet": true
+ "vinyet": false
 }

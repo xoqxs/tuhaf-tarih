@@ -103,3 +103,5 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
   - Başlık: en fazla 45 karakter + " #shorts"; kısa, merak uyandıran, mümkünse rakamlı (ör. "Bir Gecede 1700 Kişiyi Uykusunda Boğan Göl!"). Arama kelimeleri açıklamanın ilk cümlesine ve etiketlere.
   - Ekran sade: `seri_rozet` boş bırakılır (""), sahne etiketi videoda en fazla 2 kez (ilk sahne + bir kritik an). Seri bilgisi yalnızca açıklamada ve oynatma listesinde.
   - Kapak yazısı en fazla 2 kısa satır.
+
+- **ElevenLabs müziği (13 Kasım 2026, Kadir Bey izni açtı):** Her video.json'a `"eleven_muzik": {"prompt": "<konuya ve duyguya özel, İngilizce, enstrümantal; tempo/enstrüman/gerilim eğrisi; 'Instrumental only, no vocals'>", "sure_ms": <tahmini süre + 4000>}` eklenir. Her videoda prompt FARKLI olur (son 5 videonun promptlarını tekrar etme). İş akışı muzik_el.mp3 üretir, kurgu.py otomatik kullanır (`muzik_seviye_el` varsayılan 0.42). Müzik üretilemezse (zaman.json → ekstra.hata) sentetik müzikle devam et, raporda belirt. Ses efektleri (`eleven_sfx`) de açık; yalnızca gerçekten gerekli 1–2 anda kullan (kredi).
