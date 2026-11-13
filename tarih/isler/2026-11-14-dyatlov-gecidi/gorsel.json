@@ -35,6 +35,18 @@
    "cikis": "klip/k_cig.mp4",
    "kaynak": "img/c_cig.jpg",
    "prompt": "the snow slab slides down slowly and crushes part of the tent, snow dust rises, slow cinematic camera, no people, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_cig2.jpg",
+   "prompt": "1959, night, an old-fashioned long rectangular canvas ridge tent (army style, grey-brown fabric, wooden poles, ropes) half buried on a snowy treeless mountain slope, a slab of hard packed snow sliding down onto it from the shoulder above, snow dust, cold blue moonlight, no modern dome tent, no bright colors, no people, dramatic, cinematic, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_cig2.mp4",
+   "kaynak": "img/c_cig2.jpg",
+   "prompt": "the snow slab slides down and presses onto the old canvas tent, snow dust rises in the moonlight, slow cinematic camera, no people, no text"
   }
  ]
 }
