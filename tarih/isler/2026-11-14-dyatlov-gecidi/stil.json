@@ -1,10 +1,10 @@
 {
- "font": "Anton",
- "palet": "kor",
- "ton": "kontrast",
- "konum": 640,
+ "font": "Archivo Black",
+ "palet": "altin",
+ "ton": "sicak",
+ "konum": 560,
  "grup": 3,
- "ilerleme": true,
+ "ilerleme": false,
  "tanecik": true,
- "vinyet": false
+ "vinyet": true
 }

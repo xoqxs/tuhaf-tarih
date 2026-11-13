@@ -1,27 +1,5 @@
 [
  {
-  "slug": "2026-11-10-tsutomu-yamaguchi",
-  "font": "Archivo Black",
-  "palet": "sari",
-  "ton": "sicak",
-  "konum": 720,
-  "grup": 2,
-  "ilerleme": true,
-  "tanecik": false,
-  "vinyet": true
- },
- {
-  "slug": "2026-11-11-napolyon-tavsanlar",
-  "font": "Anton",
-  "palet": "sari",
-  "ton": "dogal",
-  "konum": 560,
-  "grup": 3,
-  "ilerleme": true,
-  "tanecik": false,
-  "vinyet": true
- },
- {
   "slug": "2026-11-12-seyit-onbasi",
   "font": "Bebas Neue",
   "palet": "pembe",
@@ -130,5 +108,27 @@
   "ilerleme": false,
   "tanecik": true,
   "vinyet": false
+ },
+ {
+  "slug": "2026-11-14-dyatlov-gecidi",
+  "font": "Bebas Neue",
+  "palet": "sari",
+  "ton": "solgun",
+  "konum": 640,
+  "grup": 2,
+  "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-14-dyatlov-gecidi",
+  "font": "Archivo Black",
+  "palet": "altin",
+  "ton": "sicak",
+  "konum": 560,
+  "grup": 3,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
  }
 ]
