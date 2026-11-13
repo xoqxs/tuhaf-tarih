@@ -34,10 +34,6 @@
     {
      "dosya": "img/d02.jpg",
      "duzen": "cerceve"
-    },
-    {
-     "dosya": "img/c_iz.jpg",
-     "uretim": true
     }
    ]
   },
@@ -67,7 +63,7 @@
    "metin": "Belki çadıra küçük bir kar kütlesi çöktü, dağcılar çığdan korkup kaçtı, çoğu soğuktan öldü.",
    "gorseller": [
     {
-     "klip": "klip/k_cig.mp4",
+     "klip": "klip/k_cig2.mp4",
      "uretim": true
     }
    ]

@@ -1,27 +1,5 @@
 [
  {
-  "slug": "2026-11-09-cengiz-han-mezari",
-  "font": "Bebas Neue",
-  "palet": "kor",
-  "ton": "sepya",
-  "konum": 640,
-  "grup": 4,
-  "ilerleme": false,
-  "tanecik": true,
-  "vinyet": true
- },
- {
-  "slug": "2026-11-10-ataturk-saat",
-  "font": "Anton",
-  "palet": "anma",
-  "ton": "siyahbeyaz",
-  "konum": 640,
-  "grup": 3,
-  "ilerleme": false,
-  "tanecik": true,
-  "vinyet": true
- },
- {
   "slug": "2026-11-10-ataturk-saat",
   "font": "Anton",
   "palet": "anma",
@@ -130,5 +108,27 @@
   "ilerleme": true,
   "tanecik": true,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-14-dyatlov-gecidi",
+  "font": "Archivo Black",
+  "palet": "altin",
+  "ton": "sicak",
+  "konum": 560,
+  "grup": 3,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-14-dyatlov-gecidi",
+  "font": "Anton",
+  "palet": "kor",
+  "ton": "kontrast",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": true,
+  "vinyet": false
  }
 ]
