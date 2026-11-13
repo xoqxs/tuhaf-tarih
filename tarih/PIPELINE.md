@@ -19,12 +19,12 @@ Depo: xoqxs/tuhaf-tarih (bu dosya `tarih/PIPELINE.md`). Rapor Türkçe ve kısa.
 
 ## 2) Metin (video.json → `tarih/isler/<YYYY-AA-GG>-<slug>/video.json`)
 Örnekler: `tarih/isler/2026-11-07-hiroo-onoda/video.json`, `tarih/isler/1904-maratonu/video.json`. Alanlar: slug, seri, seri_rozet ("<Seri kısa adı> #<n>", n = günlükte o serinin kaçıncı videosu), duygu (gerilim|merak|epik|komik|huzun), tempo (1.12–1.18), kapak (2 satır, ≤22 karakter/satır), vurgu_sahneleri, ses, sahneler[{metin, etiket?, gorseller[]}], seo{baslik, aciklama, etiketler, hashtagler, kaynaklar}.
-- **85–105 kelime** (hedef 40–58 sn). 9–12 sahne, sahne başı 1–2 kısa cümle (≤12 kelime). 60 sn'yi aşarsa kısalt ve yeniden seslendir.
-- **İlk cümle kancadır**, ilk saniyede başlar, merak boşluğu açar ve başlıktaki anahtar kelimeyi içerir. Kanca türünü dönüştür: (a) şaşırtıcı sonuç önce, (b) soru, (c) "herkes X sanır ama", (d) rakam şoku, (e) sahnenin ortasından başlama.
+- **KISA FORMAT (Kadir Bey 13 Kasım 2026): 40–50 kelime, video 25–35 sn.** 6–8 sahne, sahne başı tek kısa cümle (≤10 kelime). 36 sn'yi aşarsa metni kısalt (tempo ile sıkıştırma en fazla 1.12). Hikâyenin yalnızca en çarpıcı çizgisi anlatılır; yan ayrıntı açıklamaya gider.
+- **İlk cümle kancadır: rakam içeren şok edici bir iddia** (tarih ya da yerle AÇILMAZ; tarih/yer ekrandaki etikette durur). İlk saniyede başlar, merak boşluğu açar ve başlıktaki anahtar kelimeyi içerir. Kanca türünü dönüştür: (a) şaşırtıcı sonuç önce, (b) soru, (c) "herkes X sanır ama", (d) rakam şoku, (e) sahnenin ortasından başlama.
 - **Yapı dönüşümü** (son 3 videodan farklı): ters köşe final · kronolojik gerilim · "3 tuhaf ayrıntı" geri sayımı · efsane mi gerçek mi · iki tarafın karşılaştırması.
 - **ABONE KAZANDIRAN KAPANIŞ** (zorunlu sıra, son 2 sahne):
-  1. Hikâyenin en şaşırtıcı anından hemen sonra tek cümlelik kanal vaadi (her videoda FARKLI ifade): ör. "Savaşların böyle unutulmuş hikâyeleri için takipte kal." / "Her akşam bir savaş sırrı: kanala katıl." "Abone ol" kelimesini her videoda kullanma.
-  2. Son sahne = YARIN duyurusu + yorum sorusu: "Yarın: <SIRADAKİ konunun merak uyandıran tek cümlesi>." ve kısa, iki taraflı bir soru. Görseli kart: `{"kart": {"ust": "yarın", "ana": "<2–3 kelime>", "alt": "<kısa merak>"}}`.
+  1. (KISA FORMAT) Ayrı kanal vaadi cümlesi ve yorum sorusu metne GİRMEZ; yorum sorusu açıklamanın ilk satırına yazılır.
+  2. Son sahne = yalnızca YARIN duyurusu (en fazla 7 kelime) — eski kural (vaat + soru) iptal: "Yarın: <SIRADAKİ konunun merak uyandıran tek cümlesi>." ve kısa, iki taraflı bir soru. Görseli kart: `{"kart": {"ust": "yarın", "ana": "<2–3 kelime>", "alt": "<kısa merak>"}}`.
   3. Mümkünse son cümle ilk cümleye bağlansın (video başa sarınca akış kopmasın).
 - **Anlaşılırlık:** İzleyici her cümleyi tek seferde, önceki bilgiye ihtiyaç duymadan anlamalı. İlginç bir ayrıntıyı kısaltırken bağlamını atma (kötü: "Suzuki'nin listesi tuhaftı: Onoda, panda, Kar Adamı." iyi: "Suzuki dünyayı dolaşıp sırayla üç şey arıyordu: Onoda, bir panda ve Kar Adamı."). Metni bitirince her sahneyi "bunu ilk kez duyan biri anlar mı?" diye oku.
 - **Fahrettin Paşa dersi (8 Kasım 2026):** (1) Açılış cümlesi tek başına anlaşılmalı: "Paşa yatağına girer." gibi bağlamsız cümle YOK → "Medine teslim ediliyor ama komutanı yatağından kalkmayı reddediyor." (2) Geri sayım kullanacaksan sayı ile cümle karışmasın: "Üç kez emir gelir. Üç: …" YANLIŞ → "İlk emir … İkinci emir … Sonuncusu padişahtan gelir." (3) Kanal vaadi doğal Türkçe olsun: "Savaşların unutulmuş inatları için bu kanalda kal." gibi yapay cümle YOK → "Böyle unutulmuş savaş hikâyeleri için takipte kal." (4) Son sahnede "Yarın: …" ile yorum sorusu ayrı cümleler olsun ve soru bugünkü konuya dönsün; ikisini tek nefeste karıştırma. (5) Metni bitirince yüksek sesle okur gibi baştan sona bir kez daha oku; anlamı bozuk, yarım ya da tuhaf duran her cümleyi yeniden yaz.
@@ -98,3 +98,8 @@ g) GERİ DÖN (ZORUNLU, hata/DUR'da da): channel_switcher → "Döviz Radar" (@d
 
 - **Metin mantığı (12 Kasım 2026, Kadir Bey: 'metinler bazen tökezliyor'):** editor.md'deki 0. adım (önce olay özeti), 11–12. maddeler (çift anlam, neden-sonuç) ve editörden sonra **geri anlatım testi** zorunludur. Rapora "Editör: n. tur, geri anlatım: geçti" yaz.
 - **Yayın saati:** günlük görev 18:31'de başlar, video ~19:00'da yayınlanır.
+
+- **Paketleme (13 Kasım 2026, Kadir Bey):**
+  - Başlık: en fazla 45 karakter + " #shorts"; kısa, merak uyandıran, mümkünse rakamlı (ör. "Bir Gecede 1700 Kişiyi Uykusunda Boğan Göl!"). Arama kelimeleri açıklamanın ilk cümlesine ve etiketlere.
+  - Ekran sade: `seri_rozet` boş bırakılır (""), sahne etiketi videoda en fazla 2 kez (ilk sahne + bir kritik an). Seri bilgisi yalnızca açıklamada ve oynatma listesinde.
+  - Kapak yazısı en fazla 2 kısa satır.

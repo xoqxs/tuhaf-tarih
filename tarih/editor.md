@@ -15,7 +15,7 @@ Metin doğrudan sahne sahne yazılmaz. Önce 3–4 cümlelik düz bir **olay öz
 6. **Kapanış:** Kanal vaadi doğal ve tek cümle mi? Yorum sorusu bugünkü konuya mı dönüyor? "Yarın: …" ayrı bir cümle mi ve tek başına anlaşılıyor mu?
 7. **Doğruluk:** Her rakam, tarih, isim ve alıntı verilen kaynaklarla uyumlu mu? Kaynakta olmayan ayrıntı, abartı ya da kesinmiş gibi sunulan tartışmalı bilgi var mı? Doğrudan alıntı ("…" dedi) kaynakta gerçekten öyle mi?
 8. **Seslendirme:** ElevenLabs'in yanlış okuyabileceği kısaltma, rakam (yıllar hariç), parantez, simge var mı? Yabancı isimler Türkçe okunuşa uygun mu?
-9. **Süre:** 85–105 kelime arası mı?
+9. **Süre:** 40–50 kelime arası mı (25–35 sn)? İlk cümle rakamlı şok iddia mı, tarih/yerle mi açılıyor (açılıyorsa DÜZELT)?
 10. **Saygı ve uygunluk:** Kan/vahşet ayrıntısı, aşağılayıcı ifade, siyasi taraf tutma var mı? Türk/Osmanlı kahramanı küçümser gibi duran bir açı var mı?
 11. **Çift anlam:** Bir cümle iki farklı şekilde anlaşılabiliyor mu? Özellikle isim tamlamaları ve yüklem: "mermi vinci vurulur" hem "vinç vuruldu" hem "mermi vinci vurdu" diye okunabilir → DÜZELT. Her sahneyi yüksek sesle, önceki ve sonraki cümleyle birlikte oku.
 12. **Neden-sonuç:** Her olayın nedeni ya da sonucu söyleniyor mu? Dinleyici "bu neden önemli?" diye sormak zorunda kalıyor mu?
