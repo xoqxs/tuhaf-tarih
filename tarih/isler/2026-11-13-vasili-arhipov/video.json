@@ -20,14 +20,12 @@
  "sahneler": [
   {
    "metin": "1962'de bir Sovyet denizaltısında, nükleer torpido ateşlenmeye hazırlanıyor.",
-   "etiket": "Sovyet denizaltısı B-59",
    "gorseller": [
     {
-     "dosya": "img/ic.jpg",
-     "duzen": "doldur"
+     "dosya": "img/b36.jpg"
     },
     {
-     "dosya": "img/ic2.jpg"
+     "dosya": "img/torpido.jpg"
     }
    ]
   },
@@ -55,7 +53,7 @@
   },
   {
    "metin": "Amerikan gemileri, denizaltıyı yüzeye çıkarmak için uyarı bombaları atar.",
-   "etiket": "USS Beale",
+   "etiket": "ABD donanması",
    "gorseller": [
     {
      "dosya": "img/beale.jpg"
@@ -93,7 +91,7 @@
    "metin": "Kaptan ve siyasi subay evet der.",
    "gorseller": [
     {
-     "dosya": "img/ic2.jpg",
+     "dosya": "img/torpido.jpg",
      "duzen": "detay"
     }
    ]
@@ -113,9 +111,6 @@
    "gorseller": [
     {
      "dosya": "img/b59.jpg"
-    },
-    {
-     "dosya": "img/b36.jpg"
     }
    ]
   },
@@ -167,7 +162,7 @@
  ],
  "seo": {
   "baslik": "Vasili Arhipov Nükleer Torpidoya Neden Hayır Dedi? Küba Krizi #shorts",
-  "aciklama": "Vasili Arhipov, 27 Ekim 1962'de Küba füze krizinin en gergin gününde Sovyet denizaltısı B-59'daydı. Amerikan gemileri denizaltıyı yüzeye çıkarmak için uyarı bombaları atarken, Moskova'dan günlerdir haber alamayan kaptan Valentin Savitski savaşın başlamış olabileceğini düşündü; tanıklara göre nükleer torpido hazırlandı. Ateşleme için üç kıdemli subayın onayı gerekiyordu: kaptan ve siyasi subay evet dedi, Arhipov hayır dedi ve yüzeye çıkmayı önerdi. Bu karar ancak 2002'deki Havana konferansında geniş çapta duyuldu.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #2 – tüm bölümler oynatma listesinde\nYarın: Dyatlov Geçidi – dokuz dağcı neden çadırı içeriden kesip karlı geceye kaçtı?\n\nKaynaklar: National Security Archive, \"The Submarines of October\" (2012); Atomic Heritage Foundation, \"Nuclear Close Calls: The Cuban Missile Crisis\"\nGörseller: Wikimedia Commons – Olga Arkhipova (Vasili Arhipov, CC BY-SA 4.0); MBH ve Anastasiya Lvova (müze denizaltısı iç mekânı, CC BY-SA 4.0); mezar taşı fotoğrafı (CC BY-SA 4.0); ABD Donanması (B-59, B-36, USS Beale, USS Barry ve keşif fotoğrafı, kamu malı).\n\n#vasiliarhipov #kübafüzekrizi #soğuksavaş #denizaltı #shorts",
+  "aciklama": "Vasili Arhipov, 27 Ekim 1962'de Küba füze krizinin en gergin gününde Sovyet denizaltısı B-59'daydı. Amerikan gemileri denizaltıyı yüzeye çıkarmak için uyarı bombaları atarken, Moskova'dan günlerdir haber alamayan kaptan Valentin Savitski savaşın başlamış olabileceğini düşündü; tanıklara göre nükleer torpido hazırlandı. Ateşleme için üç kıdemli subayın onayı gerekiyordu: kaptan ve siyasi subay evet dedi, Arhipov hayır dedi ve yüzeye çıkmayı önerdi. Bu karar ancak 2002'deki Havana konferansında geniş çapta duyuldu.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #2 – tüm bölümler oynatma listesinde\nYarın: Dyatlov Geçidi – dokuz dağcı neden çadırı içeriden kesip karlı geceye kaçtı?\n\nKaynaklar: National Security Archive, \"The Submarines of October\" (2012); Atomic Heritage Foundation, \"Nuclear Close Calls: The Cuban Missile Crisis\"\nGörseller: Wikimedia Commons – Olga Arkhipova (Vasili Arhipov, CC BY-SA 4.0); Richard Connors (Sovyet denizaltısı torpido odası, CC BY-SA 4.0); mezar taşı fotoğrafı (CC BY-SA 4.0); ABD Donanması (B-59, B-36, USS Beale, USS Barry ve keşif fotoğrafı, kamu malı).\n\n#vasiliarhipov #kübafüzekrizi #soğuksavaş #denizaltı #shorts",
   "etiketler": [
    "vasili arhipov",
    "vasili arkhipov",

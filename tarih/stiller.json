@@ -1,17 +1,6 @@
 [
  {
   "slug": "2026-11-07-hiroo-onoda",
-  "font": "Bebas Neue",
-  "palet": "zehir",
-  "ton": "kontrast",
-  "konum": 640,
-  "grup": 2,
-  "ilerleme": true,
-  "tanecik": true,
-  "vinyet": true
- },
- {
-  "slug": "2026-11-07-hiroo-onoda",
   "font": "Anton",
   "palet": "sari",
   "ton": "soguk",
@@ -128,6 +117,17 @@
   "konum": 560,
   "grup": 3,
   "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-13-vasili-arhipov",
+  "font": "Archivo Black",
+  "palet": "buz",
+  "ton": "soguk",
+  "konum": 720,
+  "grup": 3,
+  "ilerleme": false,
   "tanecik": true,
   "vinyet": true
  }

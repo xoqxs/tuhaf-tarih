@@ -30,26 +30,6 @@
   "aciklama": "A U.S. Navy Martin SP-5B Marlin (BuNo 135513) from Patrol Squadron VP-45 overflies the Soviet Project 641 submarine B-36 (NATO reporting code: \"Foxtrot\"-class) "
  },
  {
-  "dosya": "ic.jpg",
-  "baslik": "File:Interior of B-396 Russian museum submarine 59.jpg",
-  "lisans": "CC BY-SA 4.0",
-  "yazar": "MBH",
-  "tarih": "2021-09-29 16:09:23",
-  "w": 9248,
-  "h": 6936,
-  "aciklama": "Interior of B-396 Russian museum submarine"
- },
- {
-  "dosya": "ic2.jpg",
-  "baslik": "File:B-515 (submarine, 1976) interiors 010.jpg",
-  "lisans": "CC BY-SA 4.0",
-  "yazar": "Anastasiya Lvova",
-  "tarih": "2026-03-18 15:59:52",
-  "w": 3072,
-  "h": 4096,
-  "aciklama": "Внутри Б-515"
- },
- {
   "dosya": "beale.jpg",
   "baslik": "File:USS Beale (DD-471) underway on 27 October 1964 (NH 103711).jpg",
   "lisans": "Public domain",
@@ -88,5 +68,15 @@
   "w": 1160,
   "h": 1121,
   "aciklama": "U.S. aerial reconnaissance photograph of a medium range ballistic missile launch site at San Cristobal in Cuba, on 1 November 1962 during the Cuban missile cris"
+ },
+ {
+  "dosya": "torpido.jpg",
+  "baslik": "File:Soviet K-77 Torpedo Room.jpg",
+  "lisans": "CC BY-SA 4.0",
+  "yazar": "Richard Connors (talk)",
+  "tarih": "3-5-2005",
+  "w": 1984,
+  "h": 1488,
+  "aciklama": "K-77 After Torpedo Room"
  }
 ]
