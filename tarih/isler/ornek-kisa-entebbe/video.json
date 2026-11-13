@@ -54,7 +54,12 @@
    "metin": "Bir gece yaklaşık yüz İsrailli komando Entebbe'ye indi.",
    "gorseller": [
     {
-     "dosya": "img/herc2.jpg"
+     "dosya": "img/herc2.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "dosya": "img/c_deniz.jpg",
+     "uretim": true
     }
    ]
   },

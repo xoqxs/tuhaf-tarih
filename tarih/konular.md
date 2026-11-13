@@ -32,14 +32,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. Dyatlov Geçidi (SIRADAKİ) 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") (SIRADAKİ) 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-14: Dyatlov Geçidi (Şubat 1959, Ural Dağları): dokuz dağcı tek çadırlarını içeriden kesip karlı geceye çıktı; 2021 çığ açıklaması (seri K – savaş dışı oranı için; son 9 videonun 8'i savaştı). Arhipov videosu "Yarın: Dokuz dağcı neden çadırı içeriden kesip karlı geceye kaçtı?" diye duyurdu — öneriler: "dyatlov geçidi", "dyatlov geçidi çözüldü"
+- 2026-11-15: Mincemeat Operasyonu (1943): İngilizler sahte belgeli bir cesetle Alman komutasını ve Hitler'i Sicilya çıkarmasının yeri konusunda kandırdı (seri D). Dyatlov videosu "Yarın: Hitler'i bir cesetle kandıran operasyon." diye duyurdu. KISA FORMAT.
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Vasili Arhipov
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -155,7 +155,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 ## K. Gizemler ve Çözülen Sırlar
 - [ ] Alcatraz'dan kaçış (1962): Frank Morris ve Anglin kardeşler hâlâ kayıp
 - [ ] Voynich el yazması
-- [ ] Dyatlov Geçidi ve 2021 çığ açıklaması (SIRADAKİ 2026-11-14)
+- [x] 2026-11-14 Dyatlov Geçidi ve 2021 çığ açıklaması
 - [ ] Somerton Adamı (Tamam Shud)
 - [ ] Antikythera düzeneği
 - [ ] Mary Celeste
