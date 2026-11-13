@@ -19,17 +19,20 @@
  "ozet": "Şubat 1959'da Ural Dağları'nda dokuz deneyimli dağcı, gece çadırlarını içeriden kesip dondurucu soğukta çoğu çorapla ya da yalınayak dışarı kaçtı; hiçbiri sağ dönmedi. Olay altmış yıl boyunca kar adamı, KGB, gizli askerî deney gibi teorilere konu oldu. 2021'de İsviçreli bilim insanları Gaume ve Puzrin, bilgisayar modelleriyle küçük ve gecikmeli bir kar levhası kaymasının çadırı ezdiğini, dağcıların daha büyük bir çığdan korkup kaçmış olabileceğini gösterdi.",
  "sahneler": [
   {
-   "metin": "Dokuz dağcı, gece çadırlarını içeriden kesip karlı dağa kaçtı.",
+   "metin": "Dokuz dağcı, çadırlarını içeriden kesip karlı dağa kaçtı.",
    "etiket": "Ural Dağları · Şubat 1959",
    "gorseller": [
     {
      "klip": "klip/k_cadir.mp4",
      "uretim": true
+    },
+    {
+     "klip": "klip/k_harita.mp4"
     }
    ]
   },
   {
-   "metin": "Çoğu çoraplıydı ve dokuzu da öldü.",
+   "metin": "Çoğu çizmesizdi; dokuzu da öldü, büyük kısmı donarak.",
    "gorseller": [
     {
      "dosya": "img/d02.jpg",
@@ -38,7 +41,7 @@
    ]
   },
   {
-   "metin": "Kar adamından gizli deneylere, pek çok teori çıktı.",
+   "metin": "Kar adamından gizli deneylere kadar pek çok teori çıktı.",
    "gorseller": [
     {
      "dosya": "img/c_teori.jpg",
@@ -47,20 +50,19 @@
    ]
   },
   {
-   "metin": "2021'de İsviçreli bilim insanları bir açıklama getirdi.",
-   "etiket": "2021",
+   "metin": "2021'de İsviçre'deki bilim insanları bir açıklama önerdi.",
    "gorseller": [
     {
      "kart": {
       "ust": "2021",
       "ana": "bilgisayar modeli",
-      "alt": "İsviçreli bilim insanları"
+      "alt": "İsviçre'deki bilim insanları"
      }
     }
    ]
   },
   {
-   "metin": "Belki çadıra küçük bir kar kütlesi çöktü, dağcılar çığdan korkup kaçtı, çoğu soğuktan öldü.",
+   "metin": "Çadıra küçük bir kar kütlesi çökmüş, dağcılar da çığ geliyor sanmış olabilir.",
    "gorseller": [
     {
      "klip": "klip/k_cig2.mp4",
@@ -69,21 +71,19 @@
    ]
   },
   {
-   "metin": "Yarın: Hitler'i bir cesetle kandıran operasyon.",
+   "metin": "Belki de bu yüzden...",
+   "etiket": "Yarın: Hitler'i kandıran ceset",
    "gorseller": [
     {
-     "kart": {
-      "ust": "yarın",
-      "ana": "bir ceset",
-      "alt": "Hitler'i kandırdı"
-     }
+     "klip": "klip/k_cadir.mp4",
+     "uretim": true
     }
    ]
   }
  ],
  "seo": {
   "baslik": "Dokuz Dağcı Çadırı İçeriden Kesti #shorts",
-  "aciklama": "Sence dağcıları çadırdan kaçıran neydi? Yorumlara yaz.\n\nDyatlov Geçidi olayı: Şubat 1959'da Ural Dağları'nda Igor Dyatlov liderliğindeki dokuz deneyimli dağcı, gece çadırlarını içeriden kesip dondurucu soğukta çoğu çorapla ya da yalınayak kaçtı; hiçbiri sağ dönmedi. Kar adamından gizli askerî deneylere kadar pek çok teori ortaya atıldı. 2021'de İsviçreli bilim insanları Johan Gaume ve Alexander Puzrin, bilgisayar modelleriyle küçük ve gecikmeli bir kar levhası kaymasının çadırı ezdiğini, dağcıların daha büyük bir çığdan korkup kaçmış olabileceğini gösterdi.\n\nSeri: Gizemler ve Çözülen Sırlar\nYarın: Mincemeat Operasyonu – Hitler'i bir cesetle kandıran plan\n\nKaynaklar: Gaume & Puzrin, Communications Earth & Environment (2021); History.com, \"The Dyatlov Pass Incident\"; National Geographic (2021)\nGörseller: Wikimedia Commons, kamu malı (çadır, 26 Şubat 1959). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#dyatlov #dyatlovgeçidi #gizem #çözülemeyengizemler #shorts",
+  "aciklama": "Sence dağcıları çadırdan kaçıran neydi? Yorumlara yaz.\n\nDyatlov Geçidi olayı: Şubat 1959'da Ural Dağları'nda Igor Dyatlov liderliğindeki dokuz deneyimli dağcı, gece çadırlarını içeriden kesip dondurucu soğukta çoğu çorapla ya da yalınayak kaçtı; hiçbiri sağ dönmedi. Kar adamından gizli askerî deneylere kadar pek çok teori ortaya atıldı. 2021'de İsviçreli bilim insanları Johan Gaume ve Alexander Puzrin, bilgisayar modelleriyle küçük ve gecikmeli bir kar levhası kaymasının çadırı ezdiğini, dağcıların daha büyük bir çığdan korkup kaçmış olabileceğini gösterdi.\n\nSeri: Gizemler ve Çözülen Sırlar\nYarın: Mincemeat Operasyonu – Hitler'i bir cesetle kandıran plan\n\nKaynaklar: Gaume & Puzrin, Communications Earth & Environment (2021); History.com, \"The Dyatlov Pass Incident\"; National Geographic (2021)\nGörseller: Wikimedia Commons, kamu malı (çadır, 26 Şubat 1959). Harita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#dyatlov #dyatlovgeçidi #gizem #çözülemeyengizemler #shorts",
   "etiketler": [
    "dyatlov geçidi",
    "dyatlov geçidi olayı",
@@ -103,5 +103,49 @@
    "earthsky.org – slab avalanche"
   ],
   "youtube": "https://youtube.com/shorts/46HS9llNCQc"
- }
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Eerie cold mountain night ambience turned into a cinematic mystery underscore: low sustained drones, distant howling wind texture, sparse dissonant piano notes, slow heartbeat-like pulse, tension rising toward the end and stopping abruptly without resolution so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 32000
+ },
+ "eleven_sfx": [
+  {
+   "ad": "whoosh",
+   "text": "Fast cinematic whoosh transition sound, deep and airy, single swoosh",
+   "sure": 1.2,
+   "etki": 0.6
+  },
+  {
+   "ad": "darbe",
+   "text": "Deep heavy cinematic impact hit with snow crunch and low boom, short tail",
+   "sure": 2.0,
+   "etki": 0.6
+  }
+ ],
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.45
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 2,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.35
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 4,
+   "ofset": 0.4,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
+ ],
+ "efekt_seviye": 0
 }

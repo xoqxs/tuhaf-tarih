@@ -3,3 +3,7 @@ Tur 1: DÜZELT (uzaylı/onlarca kaynakta yok, 'geri dönmedi' belirsiz)
 Tur 2: DÜZELT (5. sahne kesinlik iddiası)
 Tur 3: GEÇTİ (50 kelime)
 Geri anlatım: tur 1 takıldı (akıbet belirsiz, kaçış-ölüm bağı yok); tur 2 geçti (küçük: 'nereye kaçtı' → 'karlı dağa' eklendi)
+
+v2 (döngü sonu + müzik + harita), 14 Kasım 2026 00:50
+Editör: tur 1 DÜZELT ("İşte bu yüzden" kesinlik → "Belki de bu yüzden", "İsviçreli"→"İsviçre'deki", "kadar" eksik, 5. sahne kip); tur 2: tek düzeltmeyle GEÇTİ ("kaçtı" tekrarı → "çizmesizdi")
+Geri anlatım: tur 1 takıldı (ölüm nedeni yok, "çoraplıydı"); tur 2 geçti (küçük: "çoğu" tekrarı → "büyük kısmı"); döngü doğal birleşiyor
