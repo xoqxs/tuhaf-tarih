@@ -1,0 +1,40 @@
+{
+ "ogeler": [
+  {
+   "tur": "resim",
+   "cikis": "img/c_cadir.jpg",
+   "prompt": "1959, night, a single canvas tent pitched on a snowy treeless mountain slope in the northern Ural mountains, strong wind blowing snow, dim cold moonlight, no people, eerie, cinematic, muted blue tones, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_cadir.mp4",
+   "kaynak": "img/c_cadir.jpg",
+   "prompt": "wind blows snow across the slope, the tent fabric flaps violently in the wind at night, slow camera push in, eerie, cinematic, no people, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_iz.jpg",
+   "prompt": "night, a line of footprints in deep snow leading down a mountain slope toward a dark forest, some prints from bare feet and socks, a cut-open tent far behind, cold blue moonlight, no people, eerie, cinematic, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_teori.jpg",
+   "prompt": "night sky over snowy Ural mountains with mysterious faint orange glowing orbs in the distance, old 1950s photo look, grain, eerie, cinematic, no people, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_cig.jpg",
+   "prompt": "night, a small slab of hard packed snow breaking off a snowy slope right above a single canvas tent on a mountainside, snow dust, cold moonlight, no people visible, dramatic, cinematic, film grain, realistic",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_cig.mp4",
+   "kaynak": "img/c_cig.jpg",
+   "prompt": "the snow slab slides down slowly and crushes part of the tent, snow dust rises, slow cinematic camera, no people, no text"
+  }
+ ]
+}
