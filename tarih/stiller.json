@@ -1,16 +1,5 @@
 [
  {
-  "slug": "2026-11-12-seyit-onbasi",
-  "font": "Anton",
-  "palet": "kor",
-  "ton": "sepya",
-  "konum": 720,
-  "grup": 3,
-  "ilerleme": true,
-  "tanecik": true,
-  "vinyet": true
- },
- {
   "slug": "2026-11-12-entebbe-baskini",
   "font": "Bebas Neue",
   "palet": "zehir",
@@ -128,6 +117,17 @@
   "konum": 640,
   "grup": 3,
   "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-14-nusret",
+  "font": "Archivo Black",
+  "palet": "kor",
+  "ton": "dogal",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": false,
   "tanecik": true,
   "vinyet": true
  }
