@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-14-nusret",
+ "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
+ "seri_rozet": "",
+ "duygu": "epik",
+ "tempo": 1.0,
+ "kapak": ["26 mayın", "3 zırhlı battı"],
+ "vurgu_sahneleri": [0, 4],
+ "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "ozet": "8 Mart 1915 sabahı sisli havada Yüzbaşı Hakkı Bey komutasındaki Nusret mayın gemisi, Çanakkale Boğazı'nda Erenköy Koyu'na, İtilaf gemilerinin dönüş yaptığı alana kıyıya paralel 26 mayın döktü. Günlerce süren taramalara rağmen bu mayınlar bulunamadı. 18 Mart 1915'te İtilaf filosu Boğaz'a saldırdı; Bouvet, Irresistible ve Ocean zırhlıları bu mayınlara çarparak battı, filo geri çekildi.",
+ "sahneler": [
+  {"metin": "1915'te Nusret adlı küçük bir gemi, sisin içinde 26 mayın döktü.", "etiket": "Çanakkale · 8 Mart 1915",
+   "gorseller": [{"klip": "klip/k_nusret.mp4", "uretim": true}]},
+  {"metin": "Mayınları, düşman gemilerinin dönüş yaptığı koya, kıyıya paralel dizdi.",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}, {"klip": "klip/k_mayin.mp4", "uretim": true}]},
+  {"metin": "Düşman günlerce mayın aradı ama bulamadı.",
+   "gorseller": [{"kart": {"ust": "26 mayın", "ana": "bulunamadı", "alt": "Erenköy Koyu"}}]},
+  {"metin": "18 Mart'ta dev İtilaf filosu Çanakkale Boğazı'na saldırdı.",
+   "gorseller": [{"klip": "klip/k_filo.mp4", "uretim": true}]},
+  {"metin": "Üç zırhlı, Nusret'in mayınlarına çarpıp battı.",
+   "gorseller": [{"dosya": "img/c_batis.jpg", "uretim": true}]},
+  {"metin": "Filo geri çekildi; çünkü...", "etiket": "Yarın: 76 esirin tüneli",
+   "gorseller": [{"klip": "klip/k_nusret.mp4", "uretim": true}]}
+ ],
+ "seo": {
+  "baslik": "Nusret'in 26 Mayını Filoyu Durdurdu #shorts",
+  "aciklama": "Sence 18 Mart'ın asıl kahramanı kim? Yorumlara yaz.\n\nNusret Mayın Gemisi: 8 Mart 1915 sabahı, sisli havada Yüzbaşı Hakkı Bey komutasındaki Nusret, Çanakkale Boğazı'nda Erenköy Koyu'na, İtilaf gemilerinin dönüş yaptığı alana kıyıya paralel 26 mayın döktü. Müttefik filo günlerce tarama yaptı ama bu mayınları bulamadı. 18 Mart 1915'teki büyük saldırıda Bouvet, Irresistible ve Ocean zırhlıları bu mayınlara çarparak battı; Inflexible, Suffren ve Gaulois ağır hasar aldı. Filo geri çekildi ve Boğaz denizden geçilemedi.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler\nYarın: Büyük Firar – 76 esirin kazdığı tünel\n\nKaynaklar: Çanakkale Savaşları Ansiklopedisi, \"Nusret Mayın Gemisi\"; ATAM Dergisi; Australian War Memorial; Anzac Portal (DVA)\nHarita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#nusret #çanakkale #18mart #çanakkalezaferi #shorts",
+  "etiketler": ["nusret mayın gemisi", "nusret", "çanakkale deniz zaferi", "18 mart 1915", "çanakkale savaşı", "hakkı bey", "osmanlı tarihi", "belgesellerim"],
+  "kaynaklar": ["canakkalesavaslariansiklopedisi.com – Nusret Mayın Gemisi", "atamdergi.gov.tr", "awm.gov.au", "anzacportal.dva.gov.au – The Nusret"],
+  "sabit_yorum": "Nusret'in komutanı Yüzbaşı Hakkı Bey'di. 26 mayın, aralarında yaklaşık 100 metre olacak şekilde 4,5 metre derinliğe döşendi. 18 Mart'ta zırhlıların batmasında kıyıdaki Türk topçusunun da büyük payı vardı. Sence 18 Mart'ın asıl kahramanı kim? 👇"
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {"prompt": "Epic tense cinematic WWI naval underscore: low brass and deep strings, distant war drums, foggy sea ambience, slowly building heroic tension, a dramatic swell near the end then stopping abruptly without resolution so it can loop. Instrumental only, no vocals.", "sure_ms": 32000},
+ "sfx": [
+  {"dosya": "sfx_whoosh.mp3", "sahne": 0, "ofset": 0.0, "sure": 1.2, "seviye": 0.45},
+  {"dosya": "sfx_whoosh.mp3", "sahne": 3, "ofset": 0.0, "sure": 1.2, "seviye": 0.35},
+  {"dosya": "sfx_darbe.mp3", "sahne": 4, "ofset": 0.2, "sure": 2.0, "seviye": 0.6}
+ ],
+ "efekt_seviye": 0
+}
