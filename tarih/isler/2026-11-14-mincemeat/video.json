@@ -1,0 +1,41 @@
+{
+ "slug": "2026-11-14-mincemeat",
+ "seri": "Aldatma, Casusluk ve Gizli Operasyonlar",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.0,
+ "kapak": ["1 ceset", "Hitler'i kandırdı"],
+ "vurgu_sahneleri": [0, 5],
+ "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "ozet": "1943'te İngiliz istihbaratı, evsiz bir Galli adamın cesedini sahte 'Binbaşı William Martin' kimliğiyle subay gibi giydirdi ve çantasına Müttefik çıkarmasının Yunanistan ve Sardunya'ya olacağını ima eden sahte mektuplar koydu. HMS Seraph denizaltısı cesedi Huelva açıklarında denize bıraktı; belgeler Almanlara ulaştı. Almanlar inandı ve Yunanistan ile Sardunya'yı güçlendirdi; Temmuz 1943'te Müttefikler asıl hedef Sicilya'ya çıktı.",
+ "sahneler": [
+  {"metin": "1943'te İngilizler, Hitler'i tek bir cesetle kandırdı.", "etiket": "II. Dünya Savaşı · 1943",
+   "gorseller": [{"klip": "klip/k_denizalti.mp4", "uretim": true}]},
+  {"metin": "Cesedi bir subay gibi giydirip çantasına sahte gizli mektuplar koydular.",
+   "gorseller": [{"klip": "klip/k_canta.mp4", "uretim": true}]},
+  {"metin": "Boğulmuş gibi görünsün diye İspanya açıklarında denize bıraktılar; mektuplar Almanlara ulaştı.",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}, {"dosya": "img/c_denizalti.jpg", "uretim": true}]},
+  {"metin": "Mektuplara göre Müttefik çıkarması Yunanistan ve Sardunya'ya olacaktı.",
+   "gorseller": [{"kart": {"ust": "Sahte mektup", "ana": "Yunanistan", "alt": "ve Sardunya"}}]},
+  {"metin": "Almanlar inandı, birliklerini oralara kaydırdı.",
+   "gorseller": [{"dosya": "img/c_alman.jpg", "uretim": true}]},
+  {"metin": "Müttefikler ise Sicilya'ya çıktı; çünkü...", "etiket": "Yarın: Nusret'in gecesi",
+   "gorseller": [{"klip": "klip/k_sicilya.mp4", "uretim": true}, {"klip": "klip/k_denizalti.mp4", "uretim": true}]}
+ ],
+ "seo": {
+  "baslik": "Hitler'i Bir Cesetle Kandırdılar #shorts",
+  "aciklama": "Sence bu oyun bugün işe yarar mıydı? Yorumlara yaz.\n\nMincemeat Operasyonu: 1943'te İngiliz istihbaratçılar Ewen Montagu ve Charles Cholmondeley, evsiz bir Galli adamın cesedini sahte 'Binbaşı William Martin' kimliğiyle subay gibi giydirdi; bileğine zincirli çantaya Müttefik çıkarmasının Yunanistan ve Sardunya'ya yapılacağını ima eden sahte mektuplar koydu. HMS Seraph denizaltısı cesedi İspanya'nın Huelva açıklarında denize bıraktı; 30 Nisan 1943'te bir balıkçı buldu ve belgeler Almanlara ulaştı. Almanlar inandı, Yunanistan ve Sardunya'yı güçlendirdi. Temmuz 1943'te Müttefikler asıl hedef Sicilya'ya çıktı.\n\nSeri: Aldatma, Casusluk ve Gizli Operasyonlar\nYarın: Nusret – Çanakkale'nin kaderini değiştiren gece\n\nKaynaklar: Ben Macintyre, Operation Mincemeat (2010); The National WWII Museum, \"Secret Agents, Secret Armies: Operation Mincemeat\"; History.com, \"What Was Operation Mincemeat?\"\nHarita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#mincemeat #ikincidünyasavaşı #hitler #casusluk #shorts",
+  "etiketler": ["mincemeat operasyonu", "operation mincemeat", "hitler'i kandıran ceset", "ikinci dünya savaşı", "sicilya çıkarması", "casusluk", "savaş tarihi", "belgesellerim"],
+  "kaynaklar": ["Macintyre 2010", "nationalww2museum.org – Operation Mincemeat", "history.com – What Was Operation Mincemeat"],
+  "sabit_yorum": "Cesedin sahibi Glyndwr Michael adında evsiz bir Galliydi; sahte kimliği 'Binbaşı William Martin'di. Almanlar o kadar inandı ki Sicilya çıkarmasından sonra bile bir süre asıl saldırıyı Yunanistan ve Sardunya'da bekledi. Sence bu oyun bugün işe yarar mıydı? 👇"
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {"prompt": "Tense cinematic WWII espionage underscore: ticking clock pulse, low strings ostinato, muted snare, distant sea ambience, sparse brass swells, building suspense toward the end and stopping abruptly without resolution so it can loop. Instrumental only, no vocals.", "sure_ms": 32000},
+ "sfx": [
+  {"dosya": "sfx_whoosh.mp3", "sahne": 0, "ofset": 0.0, "sure": 1.2, "seviye": 0.45},
+  {"dosya": "sfx_whoosh.mp3", "sahne": 3, "ofset": 0.0, "sure": 1.2, "seviye": 0.35},
+  {"dosya": "sfx_darbe.mp3", "sahne": 5, "ofset": 0.2, "sure": 2.0, "seviye": 0.55}
+ ],
+ "efekt_seviye": 0
+}
