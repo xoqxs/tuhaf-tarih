@@ -1,0 +1,11 @@
+{
+ "ogeler": [
+  {"tur":"resim","cikis":"img/c_denizalti.jpg","prompt":"1943, night, an old World War II British submarine surfaced on a calm dark sea off the Spanish coast, faint coastline lights in the distance, cold moonlight on the water, silhouetted crew on the conning tower, no faces, cinematic, muted blue tones, film grain, realistic, no text, no flags","boyut":"portrait_16_9"},
+  {"tur":"klip","cikis":"klip/k_denizalti.mp4","kaynak":"img/c_denizalti.jpg","prompt":"the submarine slowly glides forward on the dark sea, gentle waves, moonlight shimmering, slow cinematic camera push in, no text"},
+  {"tur":"resim","cikis":"img/c_canta.jpg","prompt":"1943, close-up of an old black leather officer's briefcase chained to a uniform sleeve, an envelope stamped with a red wax seal and a typed letter marked secret sticking out, dim warm lamp light, wartime office desk, cinematic, film grain, realistic, no readable text","boyut":"portrait_16_9"},
+  {"tur":"klip","cikis":"klip/k_canta.mp4","kaynak":"img/c_canta.jpg","prompt":"slow cinematic camera push in on the briefcase and sealed letter, dust in the lamp light, no text"},
+  {"tur":"resim","cikis":"img/c_alman.jpg","prompt":"1943, a dim wartime German army headquarters room, officers in grey uniforms seen from behind leaning over a large map of the Mediterranean on a table, lamp light, tense, cinematic, film grain, realistic, no symbols, no faces, no readable text","boyut":"portrait_16_9"},
+  {"tur":"resim","cikis":"img/c_sicilya.jpg","prompt":"July 1943, dawn, Allied landing craft and soldiers coming ashore on a Sicilian beach, ships on the horizon, smoke, cinematic war photo style, film grain, realistic, no flags, no text","boyut":"portrait_16_9"},
+  {"tur":"klip","cikis":"klip/k_sicilya.mp4","kaynak":"img/c_sicilya.jpg","prompt":"landing craft ramps drop and soldiers wade ashore, waves splash, smoke drifts, slow cinematic camera, no text"}
+ ]
+}
