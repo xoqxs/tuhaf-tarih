@@ -36,7 +36,7 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-15: Nusret: Çanakkale'nin kaderini değiştiren gece (17–18 Mart 1915; 8 Mart gecesi döşenen 26 mayın; 18 Mart'ta batan Bouvet, Irresistible, Ocean) (seri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler). Mincemeat videosu "Yarın: Nusret'in gecesi" diye duyurdu. KISA FORMAT. NOT: 14 Kasım'ın videoları (Dyatlov + Mincemeat) yayınlandı; 14 Kasım akşamı yeni video YAPILMAZ, Nusret 15 Kasım 19:00'da.
+- 2026-11-15: Nusret: Çanakkale'nin kaderini değiştiren gece (8 Mart 1915 gecesi döşenen 26 mayın; 18 Mart'ta batan Bouvet, Irresistible, Ocean) (seri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler). Mincemeat videosu "Yarın: Nusret'in gecesi" diye duyurdu. KISA FORMAT. NOT: 14 Kasım'ın videoları (Dyatlov + Mincemeat) yayınlandı; 14 Kasım akşamı yeni video YAPILMAZ, Nusret 15 Kasım 19:00'da.
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
 Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu
