@@ -1,17 +1,6 @@
 [
  {
   "slug": "2026-11-12-seyit-onbasi",
-  "font": "Bebas Neue",
-  "palet": "pembe",
-  "ton": "soguk",
-  "konum": 560,
-  "grup": 3,
-  "ilerleme": true,
-  "tanecik": false,
-  "vinyet": true
- },
- {
-  "slug": "2026-11-12-seyit-onbasi",
   "font": "Anton",
   "palet": "kor",
   "ton": "sepya",
@@ -128,6 +117,17 @@
   "konum": 560,
   "grup": 3,
   "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-14-mincemeat",
+  "font": "Anton",
+  "palet": "buz",
+  "ton": "kontrast",
+  "konum": 640,
+  "grup": 3,
+  "ilerleme": true,
   "tanecik": true,
   "vinyet": true
  }
