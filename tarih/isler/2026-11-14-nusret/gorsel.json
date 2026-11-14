@@ -1,11 +1,46 @@
 {
  "ogeler": [
-  {"tur":"resim","cikis":"img/c_nusret.jpg","prompt":"March 1915, misty early dawn, a small old steam minelayer ship with a single tall funnel and black hull sailing slowly close to a hilly shore in a narrow strait, thick fog over calm grey water, round naval mines on rails on its stern deck, sailors as small silhouettes, no faces, cinematic, muted cold tones, film grain, realistic, no flags, no text","boyut":"portrait_16_9"},
-  {"tur":"klip","cikis":"klip/k_nusret.mp4","kaynak":"img/c_nusret.jpg","prompt":"the small steamship glides slowly through thick fog, smoke drifting from its funnel, gentle water ripples, slow cinematic camera push in, no text"},
-  {"tur":"resim","cikis":"img/c_mayin.jpg","prompt":"underwater view, a line of old spherical World War I naval contact mines with horns anchored by chains, floating a few meters below the murky green sea surface, light rays from above, eerie, cinematic, film grain, realistic, no text","boyut":"portrait_16_9"},
-  {"tur":"klip","cikis":"klip/k_mayin.mp4","kaynak":"img/c_mayin.jpg","prompt":"the mines sway slightly on their chains in the underwater current, light rays shimmer, slow cinematic camera drift, no text"},
-  {"tur":"resim","cikis":"img/c_filo.jpg","prompt":"18 March 1915, a line of huge grey pre-dreadnought battleships with tall funnels steaming into a narrow strait between hills, firing their big guns, smoke and splashes, dramatic sky, cinematic war painting photo style, film grain, realistic, no flags, no text","boyut":"portrait_16_9"},
-  {"tur":"klip","cikis":"klip/k_filo.mp4","kaynak":"img/c_filo.jpg","prompt":"the battleships advance and fire their guns, muzzle flashes and smoke, water splashes, slow cinematic camera, no text"},
-  {"tur":"resim","cikis":"img/c_batis.jpg","prompt":"1915, a huge old grey battleship with tall funnels heeling over and sinking after an explosion, a column of water and black smoke rising beside its hull, rough sea in a strait, dramatic, cinematic, film grain, realistic, no flags, no text","boyut":"portrait_16_9"}
+  {
+   "tur": "resim",
+   "cikis": "img/c_nusret.jpg",
+   "prompt": "March 1915, misty early dawn, a small old steam minelayer ship with a single tall funnel and black hull sailing slowly close to a hilly shore in a narrow strait, thick fog over calm grey water, round naval mines on rails on its stern deck, sailors as small silhouettes, no faces, cinematic, muted cold tones, film grain, realistic, no flags, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_nusret.mp4",
+   "kaynak": "img/c_nusret.jpg",
+   "prompt": "the small steamship glides slowly through thick fog, smoke drifting from its funnel, gentle water ripples, slow cinematic camera push in, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_mayin.jpg",
+   "prompt": "underwater view, a row of old spherical World War I naval contact mines with horns, each anchored by a chain going DOWN to the sea floor and floating a few meters below the murky green sea surface, the dark keel of a ship passing far above, light rays from above, eerie, cinematic, film grain, realistic, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_mayin.mp4",
+   "kaynak": "img/c_mayin.jpg",
+   "prompt": "the mines sway slightly on their seabed chains in the current, light rays shimmer, slow cinematic camera drift, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_filo.jpg",
+   "prompt": "18 March 1915, a line of huge grey pre-dreadnought battleships with tall funnels steaming into a narrow strait between hills, firing their big guns, smoke and splashes, dramatic sky, cinematic war painting photo style, film grain, realistic, no flags, no text",
+   "boyut": "portrait_16_9"
+  },
+  {
+   "tur": "klip",
+   "cikis": "klip/k_filo.mp4",
+   "kaynak": "img/c_filo.jpg",
+   "prompt": "the battleships advance and fire their guns, muzzle flashes and smoke, water splashes, slow cinematic camera, no text"
+  },
+  {
+   "tur": "resim",
+   "cikis": "img/c_batis.jpg",
+   "prompt": "1915, an old pre-dreadnought battleship from the First World War era (two tall thin funnels, high black and grey hull, ram bow) heeling over and sinking after a mine explosion, a tall column of white water and black smoke beside its hull, grey stormy strait with hills behind, dramatic, cinematic, film grain, realistic, bare masts with absolutely no flags, no banners, no text",
+   "boyut": "portrait_16_9"
+  }
  ]
 }
