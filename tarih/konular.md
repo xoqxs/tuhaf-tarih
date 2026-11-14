@@ -36,7 +36,7 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-15: Büyük Firar: Stalag Luft III tüneli (1944; 76 esir tünelden kaçtı, 3'ü özgürlüğe ulaştı) (seri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler). Nusret videosu "Yarın: …" diye duyurur. KISA FORMAT. NOT: 14 Kasım'da Dyatlov, Mincemeat ve Nusret (19:00) yayınlandı; 14 Kasım akşamı görev yeni video YAPMAZ. Sıradaki video 15 Kasım 19:00.
+- 2026-11-15: Büyük Firar: Stalag Luft III tüneli (1944; 76 esir tünelden kaçtı, 3'ü özgürlüğe ulaştı) (seri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler). Nusret videosu "Yarın: …" diye duyurur. KISA FORMAT. NOT: 14 Kasım'da Dyatlov, Mincemeat ve Nusret (18:00) yayınlandı; 14 Kasım akşamı görev yeni video YAPMAZ. Sıradaki video 15 Kasım 19:00.
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
 Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret
