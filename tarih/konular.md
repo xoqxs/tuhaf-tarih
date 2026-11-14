@@ -32,14 +32,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. Mincemeat ("Hitler'i bir cesetle kandıran operasyon") (SIRADAKİ) 9. Nusret: Çanakkale'nin kaderini değiştiren gece 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. Nusret: Çanakkale'nin kaderini değiştiren gece (SIRADAKİ) 10. Büyük Firar: Stalag Luft III tüneli 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-15: Mincemeat Operasyonu (1943): İngilizler sahte belgeli bir cesetle Alman komutasını ve Hitler'i Sicilya çıkarmasının yeri konusunda kandırdı (seri D). Dyatlov videosu "Yarın: Hitler'i bir cesetle kandıran operasyon." diye duyurdu. KISA FORMAT.
+- 2026-11-15: Nusret: Çanakkale'nin kaderini değiştiren gece (17–18 Mart 1915; 8 Mart gecesi döşenen 26 mayın; 18 Mart'ta batan Bouvet, Irresistible, Ocean) (seri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler). Mincemeat videosu "Yarın: Nusret'in gecesi" diye duyurdu. KISA FORMAT. NOT: 14 Kasım'ın videoları (Dyatlov + Mincemeat) yayınlandı; 14 Kasım akşamı yeni video YAPILMAZ, Nusret 15 Kasım 19:00'da.
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Vasili Arhipov
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -77,7 +77,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [x] 2026-11-12 Entebbe Baskını (1976): 4.000 km uzakta, 90 dakikada rehine kurtarma
 - [ ] Valkür: Hitler'e çantadaki bomba ile suikast girişimi (20 Temmuz 1944)
 - [ ] Büyük Firar (1944): Stalag Luft III'te kazılan tünel ve 76 kaçak
-- [ ] Mincemeat Operasyonu: bir cesetle Hitler'i kandıran plan
+- [x] Mincemeat Operasyonu: bir cesetle Hitler'i kandıran plan
 - [ ] Hayalet Ordu: şişme tanklar ve sahte seslerle kandıran birlik
 - [ ] Garbo: 27 hayali ajan uyduran çift ajan Juan Pujol
 - [ ] Sahte Paris: I. Dünya Savaşı'nda bombardıman uçaklarını kandırmak için kurulan ikinci Paris
