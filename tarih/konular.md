@@ -1,6 +1,6 @@
 # Belgesellerim – konu havuzu (savaş ağırlıklı)
 
-Bu haftanın ağırlığı (2026-11-11): savaş ~%70 sürer, HEYECAN TESTİ zorunlu, yeni ÖNCELİK SIRASI geçerli; başlıkta isim + rakam veya "neden" kalıbı öne çıkar (Onoda 1.134, Maraton 503 görüntüleme; veri az).
+Bu haftanın ağırlığı (2026-11-15): savaş ~%70 sürer, HEYECAN TESTİ zorunlu. ÖNCELİK: Osmanlı/Türk kahramanları + Savaştan Sağ Kurtulanlar + ünlü isimli gizemler (Seyit 1.282, Cengiz Han 1.272, Arhipov 1.223, Yamaguchi 1.210). Casusluk serisi haftada en fazla 1 (Entebbe 257). Başlıkta ünlü isim + soru/rakam kalıbı sürer. Kısa format (~28 sn) testi sürer, sonuç karışık (Dyatlov 688/1 gün, Mincemeat 12).
 
 Kanal konumu (Kadir Bey 7 Kasım 2026): **savaş tarihinin tuhaf, şaşırtıcı ve gerçek hikâyeleri** + daha az sıklıkla diğer tuhaf tarih konuları.
 Oran: 10 videonun ~7'si savaş/askerî (A–H serileri), ~3'ü diğer seriler (I–L). Aynı seri art arda gelmez; 7 günde bir seriden en fazla 2 — G (Osmanlı ve Türk) serisi en çok aranan seri olduğu için en fazla 3.
