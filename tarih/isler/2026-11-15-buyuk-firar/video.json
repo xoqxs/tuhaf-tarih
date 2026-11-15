@@ -1,0 +1,152 @@
+{
+ "slug": "2026-11-15-buyuk-firar",
+ "seri": "Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.0,
+ "kapak": [
+  "76 esir kaçtı",
+  "3'ü kurtuldu"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  4
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "1944'te Almanya'nın Sagan kentindeki Stalag Luft III esir kampında Müttefik havacı esirler, yaklaşık dokuz metre derinde, yüz metreyi aşan 'Harry' adlı bir tüneli gizlice kazdı; kazılan kumu pantolonlarındaki keselerle taşıyıp bahçeye serptiler. 24 Mart 1944 gecesi iki yüz kişi kaçmayı planladı, ancak tünel kamp dışındaki ormana ulaşmadan açık arazide yüzeye çıktı ve kaçış yavaşladı. Yetmiş altı esir dışarı çıktıktan sonra sabaha karşı bir nöbetçi tüneli fark etti. Kaçaklardan yetmiş üçü yakalandı; yalnızca üçü özgürlüğe ulaştı.",
+ "sahneler": [
+  {
+   "metin": "Yetmiş altı esir, tek gecede Nazi kampından tünelle kaçtı.",
+   "etiket": "Stalag Luft III · Mart 1944",
+   "gorseller": [
+    {
+     "klip": "klip/k_tunel.mp4",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Tünel dokuz metre derindeydi, yüz metreyi aşıyordu.",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/harry.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Kazılan kumu pantolonlarında saklayıp bahçeye serptiler.",
+   "gorseller": [
+    {
+     "klip": "klip/k_kum.mp4",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Yine de tünel, ormana ulaşmadan açıkta bitti.",
+   "gorseller": [
+    {
+     "klip": "klip/k_cikis.mp4",
+     "uretim": true
+    },
+    {
+     "dosya": "img/harry2.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Şafakta bir nöbetçi, tünelden çıkan bir esiri gördü.",
+   "gorseller": [
+    {
+     "dosya": "img/c_nobetci.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Kaçaklardan yetmiş üçü yakalandı; yalnızca üçü özgürlüğe ulaştı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "76 kaçak",
+      "ana": "3 özgür",
+      "alt": "73 kişi yakalandı"
+     }
+    },
+    {
+     "dosya": "img/kamp.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Peki bu kaçış nasıl oldu?",
+   "etiket": "Yarın: Fatih'in karadan yürüyen gemileri",
+   "gorseller": [
+    {
+     "klip": "klip/k_tunel.mp4",
+     "uretim": true
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Büyük Firar: 76 Esir, Tek Tünel, 3 Özgürlük #shorts",
+  "aciklama": "Sence planın asıl hatası neydi: tünelin kısa kalması mı, kalabalık mı? Yorumlara yaz.\n\nBüyük Firar'ın gerçek hikâyesi: 1944'te Stalag Luft III esir kampındaki Müttefik havacılar, yaklaşık dokuz metre derinde ve yüz metreyi aşan \"Harry\" tünelini gizlice kazdı. 24 Mart 1944 gecesi iki yüz kişi kaçmayı planlıyordu; ama tünel ormana ulaşmadan açık arazide çıktı ve yalnızca 76 esir dışarı çıkabildi. 73'ü yakalandı, yalnızca üçü özgürlüğe ulaştı. 1963 yapımı The Great Escape (Büyük Firar) filmine konu olan bu esir kampından kaçış, İkinci Dünya Savaşı'nın en ünlü firarıdır.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #3 – tüm bölümler oynatma listesinde\nYarın: Fatih Sultan Mehmet gemileri karadan nasıl yürüttü?\n\nKaynaklar: The National Archives (UK), \"Roger Bushell and the Great Escape\"; History.com, \"The Great Escape\"; Royal Air Force, \"Great Escape 75\"\nGörsel: Dagoos, CC BY-SA 2.5, Wikimedia Commons. Diğer görseller: Wikimedia Commons, kamu malı. Harita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#büyükfirar #stalagluft3 #ikincidünyasavaşı #savaştarihi #shorts",
+  "etiketler": [
+   "büyük firar",
+   "büyük firar gerçek hikayesi",
+   "stalag luft 3",
+   "esir kampından kaçış",
+   "the great escape",
+   "harry tüneli",
+   "ikinci dünya savaşı",
+   "savaş tarihi",
+   "gerçek hikayeler",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "nationalarchives.gov.uk – Roger Bushell and the Great Escape",
+   "history.com – The Great Escape",
+   "raf.mod.uk – Great Escape 75"
+  ],
+  "sabit_yorum": "Tünelin adı \"Harry\"ydi; yüzlerce esir aylarca çalıştı, tüneli yatak tahtalarıyla desteklediler. Plan iki yüz kişinin kaçmasıydı ama çıkış ormanın gerisinde kalınca kaçış yavaşladı. Sence asıl hata neydi: tünelin kısalığı mı, kalabalık mı? 👇"
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Tense WWII prison escape underscore: ticking muted percussion like a clock, nervous plucked low strings, dark breathy synth pad, faint wind, slowly tightening suspense with a sudden sharp stop near the end, no resolution so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.42
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 3,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.36
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 4,
+   "ofset": 0.2,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
+ ],
+ "efekt_seviye": 0
+}
