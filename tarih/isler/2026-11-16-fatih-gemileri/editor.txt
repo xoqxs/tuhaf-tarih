@@ -1,0 +1,3 @@
+Editör: 1. tur DÜZELT (sahne 3: "Galata tepesi" + neden yok; sahne 5: "zincirin içinde" çift anlam), 2. tur GEÇTİ.
+Geri anlatım 1. tur: sahne 6 ("otuz yedi gün sonra" neyin sonrası) ve sahne 3 ("sırtlarına") takıldı → düzeltildi; editör 3. tur GEÇTİ.
+Geri anlatım: geçti (2. tur). Döngü doğal birleşiyor: evet.
