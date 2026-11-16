@@ -1,0 +1,11 @@
+{
+ "ogeler": [
+  {"tur": "resim", "cikis": "img/c_kizak.jpg", "prompt": "spring 1453, a large wooden medieval galley with oars raised being hauled uphill over a road of greased wooden logs on a green hillside, many men in 15th century Ottoman clothing pulling thick ropes, teams of oxen, seen from a low side angle, morning light, dust, epic scale, cinematic, oil painting realism, film grain, no faces in close up, no flags, no text", "boyut": "portrait_16_9"},
+  {"tur": "klip", "cikis": "klip/k_kizak.mp4", "kaynak": "img/c_kizak.jpg", "prompt": "the galley slowly slides forward up the hill on the wooden logs as the men pull the ropes, dust rises, slow epic camera push in, no text"},
+  {"tur": "resim", "cikis": "img/c_zincir.jpg", "prompt": "1453, a massive dark iron chain with huge links stretched across the narrow entrance of a calm harbor, floating on wooden buoys, medieval stone city walls and towers on the far shore, medieval galleys anchored behind the chain, misty dawn, cinematic, realistic, film grain, no flags, no text", "boyut": "portrait_16_9"},
+  {"tur": "klip", "cikis": "klip/k_zincir.mp4", "kaynak": "img/c_zincir.jpg", "prompt": "gentle waves rock the heavy iron chain and wooden buoys, mist drifts over the water, slow camera pan along the chain, no text"},
+  {"tur": "resim", "cikis": "img/c_inis.jpg", "prompt": "dawn 1453, several wooden medieval galleys sliding down a grassy hillside on wooden log rails into a calm inlet of water, men guiding them with ropes, medieval walled city with towers across the water in soft golden mist, epic wide shot, cinematic, realistic, film grain, no flags, no text", "boyut": "portrait_16_9"},
+  {"tur": "klip", "cikis": "klip/k_inis.mp4", "kaynak": "img/c_inis.jpg", "prompt": "the first galley slides down the log rails and splashes gently into the calm water, ripples spread, golden mist, slow camera, no text"},
+  {"tur": "resim", "cikis": "img/c_sur.jpg", "prompt": "dawn 1453, medieval Byzantine soldiers in helmets and cloaks seen from behind standing on a stone sea wall, staring across calm water at many wooden galleys floating inside the harbor, shocked posture, cold morning light, mist, cinematic, realistic, film grain, no faces, no flags, no text", "boyut": "portrait_16_9"}
+ ]
+}
