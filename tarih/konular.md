@@ -32,14 +32,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. Fatih gemileri karadan nasıl yürüttü? (SIRADAKİ) 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. ~~Fatih gemileri karadan~~ 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. Alcatraz'dan kaçış (1962) (SIRADAKİ) 22. Hitler neden İsviçre'ye saldırmadı? 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-16: Fatih gemileri karadan nasıl yürüttü? (22 Nisan 1453, Haliç zinciri aşıldı) (seri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler). Büyük Firar videosu "Yarın: Fatih'in karadan yürüyen gemileri" diye duyurdu. KISA FORMAT. Valkür (D, casusluk) Mincemeat'e 2 gün kala olduğu için atlandı; casusluk haftada en fazla 1.
+- 2026-11-17: Alcatraz'dan kaçış (11–12 Haziran 1962; Frank Morris ve Anglin kardeşler, hâlâ kayıp) (seri: Gizemler ve Çözülen Sırlar). Fatih videosu "Yarın: Alcatraz'dan kaçan üç mahkûm" diye duyurdu. KISA FORMAT. Valkür/Hayalet Ordu (D) casusluk haftalık sınırı, Simo/Petrov/Doss (F) 7 günde 2 sınırı, Viyana/Malazgirt/Kut (G) art arda seri yasağı yüzünden atlandı. Heyecan testi: gizem + zaman baskısı (tek gece).
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret · Büyük Firar (Stalag Luft III)
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret · Büyük Firar (Stalag Luft III) · Fatih'in gemileri karadan yürütmesi
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -110,7 +110,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 
 ## G. Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler (kaynak: TDV İA, üniversite yayınları)
 - [x] 2026-11-08 Fahrettin Paşa: savaş bittiği halde Medine'yi teslim etmeyen "Çöl Kaplanı"
-- [ ] Fatih gemileri karadan nasıl yürüttü? — "istanbulun fethi"
+- [x] 2026-11-16 Fatih gemileri karadan nasıl yürüttü? — "istanbulun fethi"
 - [ ] Viyana kuşatması neden başarısız oldu? (1683) — doğrudan aranan soru
 - [ ] Kanuni'nin Fransa kralına mektubu (1526): neden yazıldı, ne diyordu? — doğrudan aranan
 - [ ] Malazgirt: Bizans imparatorunun esir düşmesi ve Alparslan'ın kararı — "malazgirt 1071"
