@@ -4,32 +4,142 @@
  "seri_rozet": "",
  "duygu": "epik",
  "tempo": 1.0,
- "kapak": ["Gemiler karadan", "Haliç'e indi"],
- "vurgu_sahneleri": [0, 3],
- "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "kapak": [
+  "Gemiler karadan",
+  "Haliç'e indi"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  3
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
  "ozet": "1453'te İstanbul'u kuşatan yirmi bir yaşındaki II. Mehmed'in donanması, Bizans'ın Haliç girişine gerdiği zinciri aşamadı. Fatih, Galata sırtlarında yağlanmış kütüklerden bir yol yaptırdı ve gemileri karadan çekerek 22 Nisan 1453'te Haliç'e indirdi. Zincir boşa çıktı, gemileri Haliç'te gören Bizanslı savunucuların morali bozuldu. Otuz yedi gün sonra, 29 Mayıs 1453'te İstanbul fethedildi.",
  "sahneler": [
-  {"metin": "Yirmi bir yaşındaki Fatih, savaş gemilerini karadan yürüttü.", "etiket": "İstanbul · Nisan 1453", "gorseller": [{"klip": "klip/k_kizak.mp4", "uretim": true}]},
-  {"metin": "Bizans, Haliç'in girişini dev bir zincirle kapatmıştı.", "gorseller": [{"klip": "klip/k_zincir.mp4", "uretim": true}, {"dosya": "img/zincir.jpg"}]},
-  {"metin": "Fatih, zinciri aşmak için Galata sırtlarında yağlanmış kütüklerden yol döşetti.", "gorseller": [{"klip": "klip/k_harita.mp4"}, {"dosya": "img/galata.jpg"}]},
-  {"metin": "Gemiler bu yoldan çekilip Haliç'e indirildi.", "gorseller": [{"klip": "klip/k_inis.mp4", "uretim": true}]},
-  {"metin": "Gemileri Haliç'te gören Bizanslılar sarsıldı.", "gorseller": [{"dosya": "img/c_sur.jpg", "uretim": true}]},
-  {"metin": "Bundan otuz yedi gün sonra İstanbul fethedildi.", "gorseller": [{"dosya": "img/zonaro.jpg"}, {"dosya": "img/bellini.jpg", "duzen": "bulanik"}]},
-  {"metin": "Ve her şey, cesur bir fikirle başladı:", "etiket": "Yarın: Alcatraz'dan kaçan üç mahkûm", "gorseller": [{"klip": "klip/k_kizak.mp4", "uretim": true}]}
+  {
+   "metin": "Yirmi bir yaşındaki Fatih, savaş gemilerini karadan yürüttü.",
+   "etiket": "İstanbul · Nisan 1453",
+   "gorseller": [
+    {
+     "klip": "klip/k_kizak.mp4",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Bizans, Haliç'in girişini dev bir zincirle kapatmıştı.",
+   "gorseller": [
+    {
+     "klip": "klip/k_zincir.mp4",
+     "uretim": true
+    },
+    {
+     "dosya": "img/zincir.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Fatih, zinciri aşmak için Galata sırtlarında yağlanmış kütüklerden yol döşetti.",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/galata.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Gemiler bu yoldan çekilip Haliç'e indirildi.",
+   "gorseller": [
+    {
+     "dosya": "img/galata.jpg",
+     "duzen": "cerceve"
+    }
+   ]
+  },
+  {
+   "metin": "Gemileri Haliç'te gören Bizanslılar sarsıldı.",
+   "gorseller": [
+    {
+     "dosya": "img/c_sur.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Bundan otuz yedi gün sonra İstanbul fethedildi.",
+   "gorseller": [
+    {
+     "dosya": "img/zonaro.jpg"
+    },
+    {
+     "dosya": "img/bellini.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Ve her şey, cesur bir fikirle başladı:",
+   "etiket": "Yarın: Alcatraz'dan kaçan üç mahkûm",
+   "gorseller": [
+    {
+     "klip": "klip/k_kizak.mp4",
+     "uretim": true
+    }
+   ]
+  }
  ],
  "seo": {
   "baslik": "Fatih Gemileri Karadan Nasıl Yürüttü? #shorts",
-  "aciklama": "",
-  "etiketler": [],
-  "kaynaklar": ["islamansiklopedisi.org.tr – İstanbul (TDV İslâm Ansiklopedisi)", "en.wikipedia.org – Fall of Constantinople"]
+  "aciklama": "Sence bu fikrin en cesur yanı neydi: zinciri hiç zorlamamak mı, gemileri tepeden aşırmak mı? Yorumlara yaz.\n\nFatih gemileri karadan nasıl yürüttü? 1453'te İstanbul kuşatmasında Bizans, Haliç'in girişini dev bir zincirle kapatmıştı. Yirmi bir yaşındaki Fatih Sultan Mehmet, Galata sırtlarında yağlanmış kütüklerden bir yol yaptırdı ve gemileri karadan yürütüp 22 Nisan 1453'te Haliç'e indirdi. Zincir boşa çıktı; 37 gün sonra, 29 Mayıs 1453'te İstanbul'un fethi gerçekleşti.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #4 – tüm bölümler oynatma listesinde\nYarın: Alcatraz'dan kaçan üç mahkûm hâlâ kayıp mı?\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"İstanbul\" maddesi; Wikipedia, \"Fall of Constantinople\"\nGörseller: Dosseman, CC BY-SA 4.0, Wikimedia Commons. Fausto Zonaro ve Gentile Bellini tabloları: kamu malı. Harita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#fatihsultanmehmet #istanbulunfethi #gemilerikaradanyürütme #osmanlı #shorts",
+  "etiketler": [
+   "fatih gemileri karadan nasıl yürüttü",
+   "gemileri karadan yürütme",
+   "fatih sultan mehmet gemileri karadan yürütmesi",
+   "istanbul'un fethi",
+   "haliç zinciri",
+   "1453",
+   "fatih sultan mehmet",
+   "osmanlı tarihi",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "islamansiklopedisi.org.tr – İstanbul (TDV İslâm Ansiklopedisi)",
+   "en.wikipedia.org – Fall of Constantinople"
+  ]
  },
  "kapak_sure": 1.3,
  "kuyruk": 0.25,
- "eleven_muzik": {"prompt": "Epic Ottoman-inspired cinematic underscore: deep davul war drums in a slow marching pulse, a breathy ney flute melody, low bowed strings and brass swelling as if a great effort climbs a hill, heroic rising build with a bright triumphant peak, then a sudden cut with no resolution so it can loop. Instrumental only, no vocals.", "sure_ms": 34000},
+ "eleven_muzik": {
+  "prompt": "Epic Ottoman-inspired cinematic underscore: deep davul war drums in a slow marching pulse, a breathy ney flute melody, low bowed strings and brass swelling as if a great effort climbs a hill, heroic rising build with a bright triumphant peak, then a sudden cut with no resolution so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
  "sfx": [
-  {"dosya": "sfx_whoosh.mp3", "sahne": 0, "ofset": 0.0, "sure": 1.2, "seviye": 0.42},
-  {"dosya": "sfx_whoosh.mp3", "sahne": 3, "ofset": 0.0, "sure": 1.2, "seviye": 0.38},
-  {"dosya": "sfx_darbe.mp3", "sahne": 4, "ofset": 0.2, "sure": 2.0, "seviye": 0.55}
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.42
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 3,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 4,
+   "ofset": 0.2,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
  ],
  "efekt_seviye": 0
 }

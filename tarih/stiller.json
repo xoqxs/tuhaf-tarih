@@ -1,16 +1,5 @@
 [
  {
-  "slug": "2026-11-12-entebbe-baskini",
-  "font": "Anton",
-  "palet": "altin",
-  "ton": "kontrast",
-  "konum": 560,
-  "grup": 3,
-  "ilerleme": true,
-  "tanecik": true,
-  "vinyet": true
- },
- {
   "slug": "2026-11-13-vasili-arhipov",
   "font": "Archivo Black",
   "palet": "buz",
@@ -129,6 +118,17 @@
   "grup": 2,
   "ilerleme": false,
   "tanecik": false,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-16-fatih-gemileri",
+  "font": "Bebas Neue",
+  "palet": "sari",
+  "ton": "sicak",
+  "konum": 560,
+  "grup": 4,
+  "ilerleme": true,
+  "tanecik": true,
   "vinyet": true
  }
 ]
