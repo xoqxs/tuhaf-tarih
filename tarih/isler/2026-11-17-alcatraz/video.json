@@ -1,0 +1,140 @@
+{
+ "slug": "2026-11-17-alcatraz",
+ "seri": "Gizemler ve Çözülen Sırlar",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.0,
+ "kapak": [
+  "Üç mahkûm",
+  "hâlâ kayıp"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  6
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "11 Haziran 1962 gecesi Frank Morris ile John ve Clarence Anglin kardeşler, kaçılamaz sanılan Alcatraz hapishanesinden kaçtı. Aylarca hücrelerinin havalandırma deliklerini genişletmiş, yataklarına gerçek saçlı sahte kafalar bırakmış, elliden fazla yağmurluktan bir sal yapmışlardı. Kaçış ertesi sabahki sayımda anlaşıldı; körfezde yalnızca kürek parçaları ve bir can yeleği bulundu. Üç adam bir daha hiç bulunamadı; akıbetleri hâlâ bilinmiyor.",
+ "sahneler": [
+  {
+   "metin": "Sabah sayımında, üç mahkûmun yataklarında sahte kafalar duruyordu.",
+   "etiket": "Alcatraz · 12 Haziran 1962",
+   "gorseller": [
+    {
+     "klip": "klip/k_yatak.mp4",
+     "uretim": true
+    },
+    {
+     "dosya": "img/kafa.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Kaçılamaz denen Alcatraz'da üç hücre boştu.",
+   "gorseller": [
+    {
+     "dosya": "img/ada.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "dosya": "img/hucre.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Kaçaklar, havalandırma deliklerini aylarca genişletmişti.",
+   "gorseller": [
+    {
+     "dosya": "img/c_menfez.jpg",
+     "uretim": true
+    },
+    {
+     "dosya": "img/koridor.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Elliden fazla yağmurluktan sal ve can yelekleri dikmişlerdi.",
+   "gorseller": [
+    {
+     "dosya": "img/c_dikis.jpg",
+     "uretim": true
+    }
+   ]
+  },
+  {
+   "metin": "Gece çatıdan çıkıp körfeze açıldılar.",
+   "gorseller": [
+    {
+     "klip": "klip/k_sal.mp4",
+     "uretim": true
+    },
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  },
+  {
+   "metin": "Körfezde yalnızca kürek parçaları ve can yeleği bulundu.",
+   "gorseller": [
+    {
+     "dosya": "img/kafalar.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Üç adam bir daha bulunamadı.",
+   "etiket": "Hâlâ kayıp",
+   "gorseller": [
+    {
+     "dosya": "img/kafa.jpg",
+     "duzen": "detay"
+    }
+   ]
+  },
+  {
+   "metin": "Kaçış ancak ertesi gün anlaşıldı:",
+   "etiket": "Yarın: Hitler neden İsviçre'ye saldırmadı?",
+   "gorseller": [
+    {
+     "klip": "klip/k_yatak.mp4",
+     "uretim": true
+    }
+   ]
+  }
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Tense late-night prison-break thriller underscore: muffled ticking clock, low pulsing synth bass, sparse metallic scrapes and distant foghorn-like drones, cold watery reverb, slowly tightening tension that builds to a held breath, then stops abruptly without resolution so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 33000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 4,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 6,
+   "ofset": 0.15,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
+ ],
+ "efekt_seviye": 0
+}

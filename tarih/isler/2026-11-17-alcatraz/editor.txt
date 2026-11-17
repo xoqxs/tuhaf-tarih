@@ -1,0 +1,3 @@
+Editör: 1. tur DÜZELT (sahne 1 "yatağında" tekil/tekrar; sahne 6 can yeleği eksik; sahne 8 "aynı sabah" belirsiz, döngüde "sabah" tekrarı), 2. tur GEÇTİ.
+Geri anlatım 1. tur: "can yeleği birden çıkıyor" notu → sahne 4'e can yelekleri eklendi; editör 3. tur GEÇTİ.
+Geri anlatım: geçti (2. tur). Döngü doğal birleşiyor: evet.

@@ -1,0 +1,10 @@
+{
+ "ogeler": [
+  {"tur": "resim", "cikis": "img/c_yatak.jpg", "prompt": "1962, dark narrow prison cell at night, a guard's flashlight beam through iron bars falls on a cot where a sleeping figure lies under a grey wool blanket, only a head of dark hair visible on the pillow, cold blue shadows, concrete walls, tense, cinematic, realistic, film grain, no text", "boyut": "portrait_16_9"},
+  {"tur": "klip", "cikis": "klip/k_yatak.mp4", "kaynak": "img/c_yatak.jpg", "prompt": "the flashlight beam slowly moves across the bars and settles on the motionless figure in the bed, nothing moves, slow tense camera push in, no text"},
+  {"tur": "resim", "cikis": "img/c_menfez.jpg", "prompt": "1962, close-up of a small rusty metal ventilation grille low on a concrete prison cell wall, the concrete around it chipped and scraped, a crude homemade metal tool lying on the floor, dim yellow light, gritty, cinematic, realistic, film grain, no people, no text", "boyut": "portrait_16_9"},
+  {"tur": "resim", "cikis": "img/c_dikis.jpg", "prompt": "1962, hidden dim workshop on top of a prison cell block among pipes, a pile of black rubberized raincoats being stitched together into a makeshift inflatable raft, needle and thread, small lamp, gritty atmosphere, cinematic, realistic, film grain, no faces, no text", "boyut": "portrait_16_9"},
+  {"tur": "resim", "cikis": "img/c_sal.jpg", "prompt": "night 1962, three men seen from behind paddling a small makeshift black rubber raft across dark choppy bay water, a rocky island with a lit prison building and lighthouse behind them in fog, cold moonlight, tense, cinematic, realistic, film grain, no faces, no text", "boyut": "portrait_16_9"},
+  {"tur": "klip", "cikis": "klip/k_sal.mp4", "kaynak": "img/c_sal.jpg", "prompt": "the raft slowly drifts away over dark choppy waves as the men paddle, fog rolls past the island lights, slow camera, no text"}
+ ]
+}
