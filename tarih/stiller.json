@@ -1,16 +1,5 @@
 [
  {
-  "slug": "2026-11-13-vasili-arhipov",
-  "font": "Archivo Black",
-  "palet": "buz",
-  "ton": "soguk",
-  "konum": 720,
-  "grup": 3,
-  "ilerleme": false,
-  "tanecik": true,
-  "vinyet": true
- },
- {
   "slug": "ornek-kisa-entebbe",
   "font": "Bebas Neue",
   "palet": "sari",
@@ -127,6 +116,17 @@
   "ton": "sicak",
   "konum": 560,
   "grup": 4,
+  "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
+ },
+ {
+  "slug": "2026-11-17-alcatraz",
+  "font": "Anton",
+  "palet": "buz",
+  "ton": "kontrast",
+  "konum": 560,
+  "grup": 3,
   "ilerleme": true,
   "tanecik": true,
   "vinyet": true

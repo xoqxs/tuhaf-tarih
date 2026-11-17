@@ -36,8 +36,7 @@
    "metin": "Kaçılamaz denen Alcatraz'da üç hücre boştu.",
    "gorseller": [
     {
-     "dosya": "img/ada.jpg",
-     "duzen": "bulanik"
+     "klip": "klip/k_harita.mp4"
     },
     {
      "dosya": "img/hucre.jpg"
@@ -71,9 +70,6 @@
     {
      "klip": "klip/k_sal.mp4",
      "uretim": true
-    },
-    {
-     "klip": "klip/k_harita.mp4"
     }
    ]
   },
@@ -81,7 +77,7 @@
    "metin": "Körfezde yalnızca kürek parçaları ve can yeleği bulundu.",
    "gorseller": [
     {
-     "dosya": "img/kafalar.jpg",
+     "dosya": "img/ada.jpg",
      "duzen": "bulanik"
     }
    ]
@@ -136,5 +132,26 @@
    "seviye": 0.55
   }
  ],
- "efekt_seviye": 0
+ "efekt_seviye": 0,
+ "seo": {
+  "baslik": "Alcatraz'dan Kaçan 3 Mahkûm Hâlâ Bulunamadı #shorts",
+  "aciklama": "Sence Frank Morris ve Anglin kardeşler karaya ulaşabildi mi, yoksa körfezi geçemediler mi? Yorumlara yaz.\n\nAlcatraz hapishanesinden kaçış, 11 Haziran 1962 gecesi Frank Morris ile John ve Clarence Anglin kardeşlerin yaptığı, hâlâ çözülemeyen firardır. Üç mahkûm aylarca hücrelerinin havalandırma deliklerini genişletti, yataklarına gerçek saçlı sahte kafalar bıraktı ve elliden fazla yağmurluktan bir sal ile can yelekleri dikti. Körfezde yalnızca kürek parçaları ve bir can yeleği bulundu; Alcatraz'dan kaçan mahkumların akıbeti bugün de bilinmiyor.\n\nSeri: Gizemler ve Çözülen Sırlar #2 – tüm bölümler oynatma listesinde\nYarın: Hitler neden İsviçre'ye saldırmadı?\n\nKaynaklar: FBI, \"Alcatraz Escape\" (fbi.gov); HISTORY, \"Escape From Alcatraz\" (history.com)\nGörseller: Sahte kafa fotoğrafları FBI, kamu malı. Jdreed, CC BY 3.0; Slyronit, CC BY-SA 4.0; Hardscarf, CC BY-SA 4.0; Wikimedia Commons. Harita: Natural Earth (kamu malı). Bazı sahneler yapay zekâ ile canlandırılmıştır.\n\n#alcatraz #alcatrazkaçış #frankmorris #gizem #shorts",
+  "etiketler": [
+   "alcatraz kaçış",
+   "alcatraz hapishanesi kaçış",
+   "alcatraz'dan kaçış",
+   "alcatraz kaçan mahkumlar",
+   "frank morris",
+   "frank morris alcatraz",
+   "anglin kardeşler",
+   "alcatraz firarı",
+   "çözülemeyen gizemler",
+   "tarih belgeseli",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "fbi.gov – Alcatraz Escape",
+   "history.com – Escape From Alcatraz: June 11, 1962"
+  ]
+ }
 }
