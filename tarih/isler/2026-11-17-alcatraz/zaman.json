@@ -1,0 +1,349 @@
+{
+ "kelimeler": [
+  {
+   "w": "Sabah",
+   "s": 0.0,
+   "e": 0.24,
+   "sahne": 0
+  },
+  {
+   "w": "sayımında,",
+   "s": 0.3,
+   "e": 0.96,
+   "sahne": 0
+  },
+  {
+   "w": "üç",
+   "s": 1.147,
+   "e": 1.52,
+   "sahne": 0
+  },
+  {
+   "w": "mahkûmun",
+   "s": 1.6,
+   "e": 2.08,
+   "sahne": 0
+  },
+  {
+   "w": "yataklarında",
+   "s": 2.12,
+   "e": 2.88,
+   "sahne": 0
+  },
+  {
+   "w": "sahte",
+   "s": 3.093,
+   "e": 3.68,
+   "sahne": 0
+  },
+  {
+   "w": "kafalar",
+   "s": 3.74,
+   "e": 4.16,
+   "sahne": 0
+  },
+  {
+   "w": "duruyordu.",
+   "s": 4.2,
+   "e": 4.8,
+   "sahne": 0
+  },
+  {
+   "w": "Kaçılamaz",
+   "s": 5.067,
+   "e": 6.0,
+   "sahne": 1
+  },
+  {
+   "w": "denen",
+   "s": 6.067,
+   "e": 6.4,
+   "sahne": 1
+  },
+  {
+   "w": "Alcatraz'da",
+   "s": 6.507,
+   "e": 7.68,
+   "sahne": 1
+  },
+  {
+   "w": "üç",
+   "s": 7.813,
+   "e": 8.08,
+   "sahne": 1
+  },
+  {
+   "w": "hücre",
+   "s": 8.12,
+   "e": 8.56,
+   "sahne": 1
+  },
+  {
+   "w": "boştu.",
+   "s": 8.68,
+   "e": 9.6,
+   "sahne": 1
+  },
+  {
+   "w": "Kaçaklar,",
+   "s": 9.733,
+   "e": 10.56,
+   "sahne": 2
+  },
+  {
+   "w": "havalandırma",
+   "s": 10.66,
+   "e": 11.44,
+   "sahne": 2
+  },
+  {
+   "w": "deliklerini",
+   "s": 11.48,
+   "e": 12.08,
+   "sahne": 2
+  },
+  {
+   "w": "aylarca",
+   "s": 12.2,
+   "e": 12.72,
+   "sahne": 2
+  },
+  {
+   "w": "genişletmişti.",
+   "s": 12.773,
+   "e": 14.24,
+   "sahne": 2
+  },
+  {
+   "w": "Elliden",
+   "s": 14.28,
+   "e": 14.64,
+   "sahne": 3
+  },
+  {
+   "w": "fazla",
+   "s": 14.707,
+   "e": 15.04,
+   "sahne": 3
+  },
+  {
+   "w": "yağmurluktan",
+   "s": 15.1,
+   "e": 15.84,
+   "sahne": 3
+  },
+  {
+   "w": "sal",
+   "s": 15.96,
+   "e": 16.32,
+   "sahne": 3
+  },
+  {
+   "w": "ve",
+   "s": 16.48,
+   "e": 16.8,
+   "sahne": 3
+  },
+  {
+   "w": "can",
+   "s": 16.9,
+   "e": 17.2,
+   "sahne": 3
+  },
+  {
+   "w": "yelekleri",
+   "s": 17.24,
+   "e": 17.68,
+   "sahne": 3
+  },
+  {
+   "w": "dikmişlerdi.",
+   "s": 17.72,
+   "e": 18.48,
+   "sahne": 3
+  },
+  {
+   "w": "Gece",
+   "s": 18.693,
+   "e": 19.28,
+   "sahne": 4
+  },
+  {
+   "w": "çatıdan",
+   "s": 19.52,
+   "e": 20.08,
+   "sahne": 4
+  },
+  {
+   "w": "çıkıp",
+   "s": 20.14,
+   "e": 20.48,
+   "sahne": 4
+  },
+  {
+   "w": "körfeze",
+   "s": 20.68,
+   "e": 21.28,
+   "sahne": 4
+  },
+  {
+   "w": "açıldılar.",
+   "s": 21.34,
+   "e": 22.08,
+   "sahne": 4
+  },
+  {
+   "w": "Körfezde",
+   "s": 22.48,
+   "e": 23.44,
+   "sahne": 5
+  },
+  {
+   "w": "yalnızca",
+   "s": 23.573,
+   "e": 24.64,
+   "sahne": 5
+  },
+  {
+   "w": "kürek",
+   "s": 24.72,
+   "e": 25.04,
+   "sahne": 5
+  },
+  {
+   "w": "parçaları",
+   "s": 25.104,
+   "e": 25.68,
+   "sahne": 5
+  },
+  {
+   "w": "ve",
+   "s": 25.893,
+   "e": 26.32,
+   "sahne": 5
+  },
+  {
+   "w": "can",
+   "s": 26.44,
+   "e": 26.8,
+   "sahne": 5
+  },
+  {
+   "w": "yeleği",
+   "s": 26.84,
+   "e": 27.12,
+   "sahne": 5
+  },
+  {
+   "w": "bulundu.",
+   "s": 27.18,
+   "e": 27.68,
+   "sahne": 5
+  },
+  {
+   "w": "Üç",
+   "s": 27.973,
+   "e": 28.56,
+   "sahne": 6
+  },
+  {
+   "w": "adam",
+   "s": 28.624,
+   "e": 28.88,
+   "sahne": 6
+  },
+  {
+   "w": "bir",
+   "s": 29.02,
+   "e": 29.44,
+   "sahne": 6
+  },
+  {
+   "w": "daha",
+   "s": 29.488,
+   "e": 29.68,
+   "sahne": 6
+  },
+  {
+   "w": "bulunamadı.",
+   "s": 29.72,
+   "e": 30.88,
+   "sahne": 6
+  },
+  {
+   "w": "Kaçış",
+   "s": 31.067,
+   "e": 31.76,
+   "sahne": 7
+  },
+  {
+   "w": "ancak",
+   "s": 31.853,
+   "e": 32.32,
+   "sahne": 7
+  },
+  {
+   "w": "ertesi",
+   "s": 32.56,
+   "e": 32.96,
+   "sahne": 7
+  },
+  {
+   "w": "gün",
+   "s": 33.0,
+   "e": 33.12,
+   "sahne": 7
+  },
+  {
+   "w": "anlaşıldı:",
+   "s": 33.173,
+   "e": 33.84,
+   "sahne": 7
+  }
+ ],
+ "sahneler": [
+  {
+   "s": 0.0,
+   "e": 5.067
+  },
+  {
+   "s": 5.067,
+   "e": 9.733
+  },
+  {
+   "s": 9.733,
+   "e": 14.28
+  },
+  {
+   "s": 14.28,
+   "e": 18.693
+  },
+  {
+   "s": 18.693,
+   "e": 22.48
+  },
+  {
+   "s": 22.48,
+   "e": 27.973
+  },
+  {
+   "s": 27.973,
+   "e": 31.067
+  },
+  {
+   "s": 31.067,
+   "e": 33.84
+  }
+ ],
+ "sure": 33.84,
+ "saglayici": "elevenlabs:t8fOU8zfPVWFYN34BllH",
+ "ozet": "373d68b4637e769d9a256c16d80a4a7b",
+ "ekstra": {
+  "muzik": false,
+  "sfx": [],
+  "hata": [
+   "muzik 429 b'{\"detail\":{\"type\":\"rate_limit_error\",\"code\":\"system_busy\",\"message\":\"The system is experiencing heavy traffic. Please try again.\",\"status\":\"system_busy\",\"request_id\":\"1c4aaf0c74d4699bff5eb1d3a9cad0ce\"'",
+   "muzik 429 b'{\"detail\":{\"type\":\"rate_limit_error\",\"code\":\"system_busy\",\"message\":\"The system is experiencing heavy traffic. Please try again.\",\"status\":\"system_busy\",\"request_id\":\"cf978526277e05e106cb9a1778bf55c2\"'"
+  ]
+ }
+}
