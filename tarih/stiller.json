@@ -1,17 +1,6 @@
 [
  {
   "slug": "ornek-kisa-entebbe",
-  "font": "Bebas Neue",
-  "palet": "sari",
-  "ton": "dogal",
-  "konum": 720,
-  "grup": 3,
-  "ilerleme": true,
-  "tanecik": true,
-  "vinyet": false
- },
- {
-  "slug": "ornek-kisa-entebbe",
   "font": "Anton",
   "palet": "zehir",
   "ton": "sepya",
@@ -130,5 +119,16 @@
   "ilerleme": true,
   "tanecik": true,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-18-hitler-isvicre",
+  "font": "Archivo Black",
+  "palet": "altin",
+  "ton": "solgun",
+  "konum": 720,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": false,
+  "vinyet": false
  }
 ]
