@@ -1,0 +1,45 @@
+{
+ "slug": "2026-11-18-hitler-isvicre",
+ "seri": "Büyük Komutanların Bilinmeyen Anları",
+ "seri_rozet": "",
+ "duygu": "merak",
+ "tempo": 1.0,
+ "kapak": ["Hitler neden", "saldırmadı?"],
+ "vurgu_sahneleri": [0, 5],
+ "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "ozet": "Haziran 1940'ta Fransa'yı altı haftada yenen Almanya, İsviçre için de Tannenbaum adlı bir işgal planı hazırladı. İsviçre ordusu, ovadaki şehirleri gerekirse bırakıp Alplerdeki dağ kalesine (Réduit) çekildi ve orada direnmeye hazırlandı. İsviçre'nin asıl kozu Almanya'yı müttefiki İtalya'ya bağlayan Gotthard ve Simplon demiryolu tünelleriydi; bunlar mayınlandı ve saldırı hâlinde havaya uçurulacaktı. Hitler işgal emrini hiç vermedi; nedeni kesin bilinmese de pahalı bir dağ savaşı ve tünellerin kaybı başlıca açıklamalardır.",
+ "sahneler": [
+  {"metin": "Hitler İsviçre'ye hiç saldırmadı, oysa Fransa'yı altı haftada yenmişti.", "etiket": "İsviçre · 1940",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}, {"dosya": "img/paris.jpg", "odak": [0.5, 0.3]}]},
+  {"metin": "İşgal planı bile hazırdı: Tannenbaum.",
+   "gorseller": [{"kart": {"ust": "gizli işgal planı", "ana": "Tannenbaum", "alt": "Ekim 1940"}}]},
+  {"metin": "İsviçre ordusu Alplerdeki dağ mevzilerine çekildi.",
+   "gorseller": [{"dosya": "img/guisan.jpg", "odak": [0.5, 0.35]}, {"dosya": "img/kale.jpg"}]},
+  {"metin": "Ovadaki şehirler düşse bile ordu dağlarda direnecekti.",
+   "gorseller": [{"dosya": "img/alpler.jpg"}, {"dosya": "img/guisan2.jpg"}]},
+  {"metin": "İsviçre'nin asıl kozu, Almanya'yı müttefiki İtalya'ya bağlayan demiryolu tünelleriydi.",
+   "gorseller": [{"dosya": "img/tunel.jpg", "duzen": "bulanik"}, {"dosya": "img/tunel2.jpg"}]},
+  {"metin": "İsviçreliler tünelleri mayınladı; Almanya saldırırsa havaya uçuracaklardı.", "etiket": "Gotthard tüneli",
+   "gorseller": [{"dosya": "img/tunel2.jpg", "duzen": "detay"}, {"kart": {"ust": "saldırı olursa", "ana": "Tüneller", "alt": "havaya uçacaktı"}}]},
+  {"metin": "Belki de bu yüzden,", "etiket": "Yarın: Esir imparatoru affeden sultan",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}]}
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Cold alpine war-room suspense: low martial snare rolls far in the distance, deep sustained brass and string pads, a lone high mountain wind tone, subtle rail-track rhythmic clatter motif, slowly rising strategic tension like a chess game, ending on an unresolved held chord so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {"dosya": "sfx_whoosh.mp3", "sahne": 0, "ofset": 0.0, "sure": 1.2, "seviye": 0.4},
+  {"dosya": "sfx_whoosh.mp3", "sahne": 4, "ofset": 0.0, "sure": 1.2, "seviye": 0.38},
+  {"dosya": "sfx_darbe.mp3", "sahne": 5, "ofset": 0.2, "sure": 2.0, "seviye": 0.55}
+ ],
+ "efekt_seviye": 0,
+ "seo": {
+  "baslik": "Hitler Neden İsviçre'ye Saldırmadı? #shorts",
+  "aciklama": "Sence İsviçre'yi kurtaran dağlar mıydı, tüneller mi, yoksa bankalar mı? Yorumlara yaz.\n\nHitler neden İsviçre'ye saldırmadı? Fransa'yı 1940'ta altı haftada yenen Almanya, İsviçre için Tannenbaum adlı bir işgal planı hazırladı. İsviçre ordusu Alplerdeki dağ kalesine (Réduit) çekildi ve Almanya'yı İtalya'ya bağlayan Gotthard ve Simplon demiryolu tünellerini mayınladı. İkinci Dünya Savaşı'nda İsviçre'nin tarafsız kalmasının nedeni bugün de tartışılıyor.\n\nSeri: Büyük Komutanların Bilinmeyen Anları #3 – tüm bölümler oynatma listesinde\nYarın: Malazgirt'te esir düşen imparatoru affeden sultan\n\nKaynaklar: Historisches Lexikon der Schweiz, \"Zweiter Weltkrieg\" (hls-dhs-dss.ch); Wikipedia, \"Operation Tannenbaum\"\nGörseller: Wikimedia Commons, kamu malı (Heinrich Hoffmann, Photochrom, Wehrli). Theodor Strübin, CC BY-SA 4.0; Kecko, CC BY 2.0; Andrew Bossi, CC BY-SA 2.5; Wikimedia Commons. Harita: Natural Earth (kamu malı).\n\n#hitler #isviçre #ikincidünyasavaşı #tarih #shorts",
+  "etiketler": ["hitler neden isviçreye saldırmadı", "hitler isviçre", "isviçre 2. dünya savaşı", "tannenbaum planı", "isviçre tarafsızlık", "ikinci dünya savaşı", "hitler", "gotthard tüneli", "savaş tarihi", "belgesellerim"],
+  "kaynaklar": ["hls-dhs-dss.ch – Zweiter Weltkrieg", "en.wikipedia.org – Operation Tannenbaum"]
+ }
+}
