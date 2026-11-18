@@ -32,14 +32,14 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. ~~Fatih gemileri karadan~~ 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator 20. Kut'ül Amare 21. ~~Alcatraz'dan kaçış~~ 22. Hitler neden İsviçre'ye saldırmadı? (SIRADAKİ) 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. Valkür: Hitler'e bomba suikastı (20 Temmuz 1944) 12. ~~Fatih gemileri karadan~~ 13. Simo Häyhä 14. Stanislav Petrov: dünyayı kurtaran yanlış alarm 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. Malazgirt'te esir düşen imparator (SIRADAKİ) 20. Kut'ül Amare 21. ~~Alcatraz'dan kaçış~~ 22. ~~Hitler neden İsviçre'ye saldırmadı?~~ 23. Çar Bombası 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-18: Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı, 1940) (seri: Büyük Komutanların Bilinmeyen Anları). Alcatraz videosu "Yarın: Hitler neden İsviçre'ye saldırmadı?" diye duyurdu. KISA FORMAT. SEO: "hitler neden isviçreye saldırmadı" doğrudan tamamlanıyor. Valkür/Hayalet Ordu (D: 12 ve 14 Kasım, 7 günde 2), Simo/Petrov/Doss (F: 13 ve 15 Kasım), Viyana/Malazgirt/Kut (G: 7 günde 3) sınırları yüzünden atlandı. Heyecan testi: ülke kaderi riski + 'neden' gizemi.
+- 2026-11-19: Malazgirt: Bizans imparatoru Romen Diyojen'in esir düşmesi ve Alparslan'ın onu affetmesi (1071) (seri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler). Hitler-İsviçre videosu ekranda 'Yarın: Esir imparatoru affeden sultan' diye duyurdu. KISA FORMAT. SEO: 'alparslan romen diyojeni affediyor', 'malazgirt savaşı', 'malazgirt 1071' tamamlanıyor. Yalnızca olumlu ve saygılı anlatım. Valkür (D: casusluk haftada 1), Simo/Petrov/Doss (F: 7 günde 2) atlandı; G 7 günde 3. video (14, 16, 19). Heyecan testi: imparatorluk kaderi + büyük sonuç (Anadolu'nun kapısı).
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
-Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret · Büyük Firar (Stalag Luft III) · Fatih'in gemileri karadan yürütmesi · Alcatraz'dan kaçış
+Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret · Büyük Firar (Stalag Luft III) · Fatih'in gemileri karadan yürütmesi · Alcatraz'dan kaçış · Hitler neden İsviçre'ye saldırmadı (Tannenbaum)
 
 ---------------------------------------------------------------- SAVAŞ / ASKERÎ (~%70)
 
@@ -113,7 +113,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [x] 2026-11-16 Fatih gemileri karadan nasıl yürüttü? — "istanbulun fethi"
 - [ ] Viyana kuşatması neden başarısız oldu? (1683) — doğrudan aranan soru
 - [ ] Kanuni'nin Fransa kralına mektubu (1526): neden yazıldı, ne diyordu? — doğrudan aranan
-- [ ] Malazgirt: Bizans imparatorunun esir düşmesi ve Alparslan'ın kararı — "malazgirt 1071"
+- [ ] Malazgirt: Bizans imparatorunun esir düşmesi ve Alparslan'ın kararı — "malazgirt 1071" (SIRADAKİ 2026-11-19)
 - [ ] Cem Sultan: Avrupa'da esir tutulan Osmanlı şehzadesi
 - [ ] Barbaros ve Preveze: sayıca az donanmanın zaferi
 - [x] 2026-11-12 Seyit Onbaşı ve 215 kiloluk mermi: bilinenler ve tartışmalar (dürüstçe anlat)
@@ -121,7 +121,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] Hasan Tahsin ve "ilk kurşun"
 
 ## H. Büyük Komutanların Bilinmeyen Anları ("neden" soruları)
-- [ ] Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı) (SIRADAKİ 2026-11-18) — doğrudan aranan
+- [x] 2026-11-18 Hitler neden İsviçre'ye saldırmadı? (Tannenbaum planı) — doğrudan aranan
 - [ ] (SÖNÜK) Napolyon gerçekten kısa boylu muydu? (İngiliz karikatürleri)
 - [x] 2026-11-11 Napolyon ve tavşan saldırısı (anı kaynaklı anlatı; öyle anlat)
 - [ ] Napolyon piramitte ne gördü? efsane mi gerçek mi — doğrudan aranan
