@@ -3,7 +3,7 @@
  "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
  "seri_rozet": "",
  "duygu": "epik",
- "tempo": 1.0,
+ "tempo": 1.12,
  "kapak": [
   "Esir imparatoru",
   "affeden sultan"
@@ -26,11 +26,8 @@
      "klip": "klip/k_harita.mp4"
     },
     {
-     "dosya": "img/savas.jpg",
-     "odak": [
-      0.5,
-      0.2
-     ]
+     "dosya": "img/sikke.png",
+     "duzen": "bulanik"
     }
    ]
   },
@@ -42,14 +39,6 @@
      "odak": [
       0.5,
       0.3
-     ]
-    },
-    {
-     "dosya": "img/savas.jpg",
-     "duzen": "detay",
-     "odak": [
-      0.55,
-      0.2
      ]
     },
     {
@@ -68,8 +57,11 @@
      ]
     },
     {
-     "dosya": "img/sikke.png",
-     "duzen": "bulanik"
+     "kart": {
+      "ust": "26 Ağustos 1071",
+      "ana": "Esir",
+      "alt": "Bizans imparatoru"
+     }
     }
    ]
   },
@@ -163,7 +155,7 @@
  "efekt_seviye": 0,
  "seo": {
   "baslik": "Esir İmparatoru Affeden Sultan: Alparslan #shorts",
-  "aciklama": "Sence Alparslan'ın bu kararı bir cömertlik miydi, yoksa ustaca bir siyaset mi? Yorumlara yaz.\n\nAlparslan Romen Diyojen'i affediyor: 26 Ağustos 1071'deki Malazgirt Savaşı'nda Bizans İmparatoru IV. Romanos Diogenes esir düştü. Büyük Selçuklu Sultanı Alparslan ona konuk hükümdar gibi davrandı, bir hafta sofrasında ağırladı, barış antlaşmasından sonra hediyeler ve yüz kişilik bir muhafızla ülkesine uğurladı. Malazgirt 1071 zaferi Anadolu'nun kapılarını Türklere açtı.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #5 – tüm bölümler oynatma listesinde\nYarın: Kış Savaşı'nın görünmeyen askeri Simo Häyhä\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Malazgirt Muharebesi\"; Wikipedia, \"Battle of Manzikert\"\nGörseller: Wikimedia Commons, kamu malı (Mutinensis gr. 122, Rohan Ustası, Hafız-ı Ebru, Cami'üt-Tevarih, Fernand Grenard). CNG coins, CC BY-SA 3.0 ve CC BY-SA 2.5; Wikimedia Commons. Harita: Natural Earth (kamu malı).\n\n#malazgirt #alparslan #malazgirt1071 #selçuklu #tarih",
+  "aciklama": "Sence Alparslan'ın bu kararı bir cömertlik miydi, yoksa ustaca bir siyaset mi? Yorumlara yaz.\n\nAlparslan Romen Diyojen'i affediyor: 26 Ağustos 1071'deki Malazgirt Savaşı'nda Bizans İmparatoru IV. Romanos Diogenes esir düştü. Büyük Selçuklu Sultanı Alparslan ona konuk hükümdar gibi davrandı, bir hafta sofrasında ağırladı, barış antlaşmasından sonra hediyeler ve yüz kişilik bir muhafızla ülkesine uğurladı. Malazgirt 1071 zaferi Anadolu'nun kapılarını Türklere açtı.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #5 – tüm bölümler oynatma listesinde\nYarın: Kış Savaşı'nın görünmeyen askeri Simo Häyhä\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Malazgirt Muharebesi\"; Wikipedia, \"Battle of Manzikert\"\nGörseller: Wikimedia Commons, kamu malı (Mutinensis gr. 122, Hafız-ı Ebru, Cami'üt-Tevarih, Fernand Grenard). CNG coins, CC BY-SA 3.0 ve CC BY-SA 2.5; Wikimedia Commons. Harita: Natural Earth (kamu malı).\n\n#malazgirt #alparslan #malazgirt1071 #selçuklu #tarih",
   "etiketler": [
    "alparslan romen diyojen",
    "alparslan romen diyojeni affediyor",
