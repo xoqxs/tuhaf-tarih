@@ -1,0 +1,184 @@
+{
+ "slug": "2026-11-19-malazgirt",
+ "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
+ "seri_rozet": "",
+ "duygu": "epik",
+ "tempo": 1.0,
+ "kapak": [
+  "Esir imparatoru",
+  "affeden sultan"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  3
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "26 Ağustos 1071'de Malazgirt'te Büyük Selçuklu Sultanı Alparslan, Bizans ordusunu yendi ve İmparator Romen Diyojen esir düştü. İslam ve Bizans kaynaklarına göre Alparslan ona bir esir gibi değil, konuk hükümdar gibi davrandı; bir hafta boyunca onu sofrasında ağırladı. İki hükümdar barış antlaşması yaptı ve sultan imparatoru hediyeler, iki emir ve yüz askerlik bir muhafızla İstanbul'a doğru uğurladı. Malazgirt zaferi Anadolu'nun kapılarını Türklere açtı.",
+ "sahneler": [
+  {
+   "metin": "Bir sultan, esir aldığı imparatoru yüz kişilik muhafızla İstanbul'a uğurladı.",
+   "etiket": "Malazgirt · 1071",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/savas.jpg",
+     "odak": [
+      0.5,
+      0.2
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Malazgirt'te Alparslan Bizans ordusunu yendi ve Anadolu'nun kapısını açtı.",
+   "gorseller": [
+    {
+     "dosya": "img/alparslan2.jpg",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    },
+    {
+     "dosya": "img/savas.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.55,
+      0.2
+     ]
+    },
+    {
+     "dosya": "img/kale.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Bizans İmparatoru Romen Diyojen esir düştü.",
+   "gorseller": [
+    {
+     "dosya": "img/romanos.png",
+     "odak": [
+      0.5,
+      0.45
+     ]
+    },
+    {
+     "dosya": "img/sikke.png",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Alparslan ona esir gibi değil, konuk hükümdar gibi davrandı.",
+   "gorseller": [
+    {
+     "dosya": "img/alparslan.png",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Bir hafta boyunca onu sofrasında ağırladı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "bir hafta boyunca",
+      "ana": "Konuk",
+      "alt": "sultanın sofrasında"
+     }
+    },
+    {
+     "dosya": "img/alparslan2.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Ardından iki hükümdar barış yaptı.",
+   "gorseller": [
+    {
+     "dosya": "img/dinar.jpg",
+     "duzen": "bulanik"
+    },
+    {
+     "kart": {
+      "ust": "Malazgirt zaferi",
+      "ana": "Barış",
+      "alt": "iki hükümdar arasında"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Tarih bu cömertliği hiç unutmadı:",
+   "etiket": "Yarın: Karda görünmeyen asker",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  }
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Noble Anatolian steppe epic: plucked long-neck lute ostinato, deep frame drum like a slow horse gallop, breathy reed flute melody, low male choir hum without words, starting tense and martial then softening into a dignified, merciful major-key theme, ending on a sustained open fifth so it can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 2,
+   "ofset": 0.1,
+   "sure": 2.0,
+   "seviye": 0.55
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 5,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  }
+ ],
+ "efekt_seviye": 0,
+ "seo": {
+  "baslik": "Esir İmparatoru Affeden Sultan: Alparslan #shorts",
+  "aciklama": "Sence Alparslan'ın bu kararı bir cömertlik miydi, yoksa ustaca bir siyaset mi? Yorumlara yaz.\n\nAlparslan Romen Diyojen'i affediyor: 26 Ağustos 1071'deki Malazgirt Savaşı'nda Bizans İmparatoru IV. Romanos Diogenes esir düştü. Büyük Selçuklu Sultanı Alparslan ona konuk hükümdar gibi davrandı, bir hafta sofrasında ağırladı, barış antlaşmasından sonra hediyeler ve yüz kişilik bir muhafızla ülkesine uğurladı. Malazgirt 1071 zaferi Anadolu'nun kapılarını Türklere açtı.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #5 – tüm bölümler oynatma listesinde\nYarın: Kış Savaşı'nın görünmeyen askeri Simo Häyhä\n\nKaynaklar: TDV İslâm Ansiklopedisi, \"Malazgirt Muharebesi\"; Wikipedia, \"Battle of Manzikert\"\nGörseller: Wikimedia Commons, kamu malı (Mutinensis gr. 122, Rohan Ustası, Hafız-ı Ebru, Cami'üt-Tevarih, Fernand Grenard). CNG coins, CC BY-SA 3.0 ve CC BY-SA 2.5; Wikimedia Commons. Harita: Natural Earth (kamu malı).\n\n#malazgirt #alparslan #malazgirt1071 #selçuklu #tarih",
+  "etiketler": [
+   "alparslan romen diyojen",
+   "alparslan romen diyojeni affediyor",
+   "malazgirt savaşı",
+   "malazgirt 1071",
+   "romen diyojen",
+   "alparslan",
+   "büyük selçuklu",
+   "malazgirt zaferi",
+   "türk tarihi",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "islamansiklopedisi.org.tr – Malazgirt Muharebesi",
+   "en.wikipedia.org – Battle of Manzikert"
+  ]
+ }
+}
