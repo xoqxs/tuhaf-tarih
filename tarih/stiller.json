@@ -119,5 +119,16 @@
   "ilerleme": true,
   "tanecik": true,
   "vinyet": true
+ },
+ {
+  "slug": "2026-11-20-simo-hayha",
+  "font": "Archivo Black",
+  "palet": "sari",
+  "ton": "soguk",
+  "konum": 720,
+  "grup": 4,
+  "ilerleme": false,
+  "tanecik": true,
+  "vinyet": true
  }
 ]
