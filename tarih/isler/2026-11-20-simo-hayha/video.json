@@ -1,0 +1,168 @@
+{
+ "slug": "2026-11-20-simo-hayha",
+ "seri": "Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.14,
+ "kapak": [
+  "Ordunun bulamadığı",
+  "Beyaz Ölüm"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  5
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "Kış Savaşı'nda (30 Kasım 1939 – 13 Mart 1940) Sovyetler Birliği Finlandiya'ya saldırdı. Finli asker Simo Häyhä, Kollaa cephesinde eksi kırk dereceye varan soğukta beyaz kamuflajla karda saatlerce kıpırdamadan bekledi; nefesi görünmesin diye ağzında kar tuttu, parlayıp yerini ele vermesin diye nişan dürbünü kullanmadı. Sovyet askerleri onu bulamadı ve ona 'Beyaz Ölüm' dedi. 6 Mart 1940'ta ağır yaralanıp bilincini yitirdi; 13 Mart'ta, barışın ilan edildiği gün kendine geldi ve 96 yaşına kadar yaşadı.",
+ "sahneler": [
+  {
+   "metin": "Sovyet ordusu, eksi kırk derecede tek bir Fin askerini aylarca bulamadı.",
+   "etiket": "Kış Savaşı · 1940",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/kayak.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Adı Simo Häyhä'ydı; Sovyetler ona Beyaz Ölüm dedi.",
+   "gorseller": [
+    {
+     "dosya": "img/simo2.jpg",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    },
+    {
+     "kart": {
+      "ust": "Sovyetlerin verdiği ad",
+      "ana": "Beyaz Ölüm",
+      "alt": "Simo Häyhä"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Karda beyaz giysiyle saatlerce kıpırdamadan yatardı.",
+   "gorseller": [
+    {
+     "dosya": "img/asker2.jpg"
+    },
+    {
+     "dosya": "img/nobetci.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Nefesi görünmesin diye ağzında kar tutardı.",
+   "gorseller": [
+    {
+     "dosya": "img/simo2.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.22
+     ]
+    },
+    {
+     "dosya": "img/ordu.jpg",
+     "odak": [
+      0.5,
+      0.3
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Camı parlamasın diye tüfeğine dürbün takmazdı.",
+   "gorseller": [
+    {
+     "dosya": "img/asker1.jpg"
+    },
+    {
+     "dosya": "img/tufek.jpg",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Savaşın son haftasında yaralanıp bayıldı.",
+   "etiket": "6 Mart 1940",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "savaşın son haftası",
+      "ana": "Yaralı",
+      "alt": "günlerce baygın"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Uyandığında barış yapılmıştı.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "13 Mart 1940",
+      "ana": "Barış",
+      "alt": "Finlandiya ayakta kaldı"
+     }
+    },
+    {
+     "dosya": "img/simo1.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Kar onu öyle sakladı ki...",
+   "etiket": "Yarın: Hitler'e bomba",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  }
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Frozen Nordic tension: icy sustained string harmonics, slow heartbeat-like low kantele plucks, distant wind texture, sparse muted timpani hits, a lonely solo cello line rising with suspense, cold minor key, restrained and patient like waiting motionless in deep snow, ending on a held dissonant chord that can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 5,
+   "ofset": 0.1,
+   "sure": 2.0,
+   "seviye": 0.55
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 6,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  }
+ ],
+ "efekt_seviye": 0,
+ "seo": {}
+}
