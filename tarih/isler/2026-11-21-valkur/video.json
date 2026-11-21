@@ -1,0 +1,42 @@
+{
+ "slug": "2026-11-21-valkur",
+ "seri": "Aldatma, Casusluk ve Gizli Operasyonlar",
+ "seri_rozet": "",
+ "duygu": "merak",
+ "tempo": 1.12,
+ "kapak": ["Hitler'i kurtaran", "masa ayağı"],
+ "vurgu_sahneleri": [0, 5],
+ "ses": {"voice_id": "t8fOU8zfPVWFYN34BllH", "model": "eleven_v3"},
+ "ozet": "20 Temmuz 1944'te Albay Claus von Stauffenberg, Hitler'in Doğu Prusya'daki Kurt İni karargâhındaki toplantıya iki bomba getirdi; zaman yetmediği için yalnızca birini kurup çantasına koyabildi ve çantayı toplantı masasının altına bırakıp odadan çıktı. Çanta tesadüfen ağır masa desteğinin ardına itildi. Bomba 12.42'de patladı, Hitler hafif yaralarla kurtuldu ve Valkür adlı darbe planı aynı gün çöktü.",
+ "sahneler": [
+  {"metin": "Hitler'i bir bombadan tek bir masa ayağı kurtardı.", "etiket": "Kurt İni · 20 Temmuz 1944",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}, {"dosya": "img/oda2.jpg"}]},
+  {"metin": "Bir Alman subayı, Hitler'in toplantısına iki bomba getirdi.",
+   "gorseller": [{"dosya": "img/stauf_hitler.jpg", "odak": [0.3, 0.3]}, {"dosya": "img/stauf.jpg", "odak": [0.5, 0.3]}]},
+  {"metin": "Ama yalnızca birini kurup çantasına koyabildi.",
+   "gorseller": [{"kart": {"ust": "iki bombadan", "ana": "Yalnızca 1", "alt": "zaman yetmedi"}}]},
+  {"metin": "Çantayı masanın altına bırakıp çıktı.",
+   "gorseller": [{"dosya": "img/plan.png", "duzen": "cerceve"}]},
+  {"metin": "Bir başkası çantayı kalın masa ayağının ardına itti.",
+   "gorseller": [{"dosya": "img/plan.png", "duzen": "detay", "odak": [0.5, 0.5]}, {"kart": {"ust": "çanta yer değiştirdi", "ana": "Masa ayağı", "alt": "kalın meşe destek"}}]},
+  {"metin": "Bomba patladı ama Hitler hafif yaralandı.",
+   "gorseller": [{"dosya": "img/oda1.jpg"}, {"dosya": "img/oda2.jpg", "duzen": "detay"}]},
+  {"metin": "Hitler kurtulunca darbe planı da çöktü.",
+   "gorseller": [{"kart": {"ust": "darbe planının adı", "ana": "Valkür", "alt": "aynı gün çöktü"}}]},
+  {"metin": "Çünkü o gün...", "etiket": "Yarın: Dünyayı kurtaran yanlış alarm",
+   "gorseller": [{"klip": "klip/k_harita.mp4"}]}
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Ticking countdown suspense in a 1940s war room: dry clock ticks, low muted piano ostinato in D minor, tense pizzicato double bass, a slowly swelling brass cluster that builds toward a sudden hit around the middle, then a hollow, uneasy aftermath with distant low drones and a soft unresolved celesta motif that can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {"dosya": "sfx_whoosh.mp3", "sahne": 0, "ofset": 0.0, "sure": 1.2, "seviye": 0.4},
+  {"dosya": "sfx_darbe.mp3", "sahne": 5, "ofset": 0.05, "sure": 2.0, "seviye": 0.55},
+  {"dosya": "sfx_whoosh.mp3", "sahne": 6, "ofset": 0.0, "sure": 1.2, "seviye": 0.38}
+ ],
+ "efekt_seviye": 0,
+ "seo": {}
+}

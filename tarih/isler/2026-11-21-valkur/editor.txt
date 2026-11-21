@@ -1,0 +1,4 @@
+Editör: 1. tur DÜZELT (s2 hangi toplantı, s5 "bir subay" s2 ile karışıyor → "bir başkası", s7 "arkasındaki" belirsiz; 52 kelime → 50). 2. tur GEÇTİ.
+Geri anlatım 1. tur: s3 "iki bomba" ilk kez geçiyor/"kurabildi" belirsiz, döngü "Kimse inanamadı ama..." doğal değil → s2'ye "iki bomba", s3 "patlamaya hazırlayabildi", s8 "Çünkü o gün...".
+Editör 3. tur: DÜZELT (doğruluk: çantaya yalnızca bir bomba kondu) – editörün önerdiği iki cümle aynen uygulandı (s2 "…toplantısına iki bomba getirdi.", s3 "Ama yalnızca birini kurup çantasına koyabildi."); editör notu: "önerilen cümleler uygulanırsa metin yayına hazır".
+Geri anlatım: geçti (2. tur; özet olay özetiyle aynı, takılan cümle yok). Döngü doğal birleşiyor: evet.
