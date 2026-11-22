@@ -1,0 +1,185 @@
+{
+ "slug": "2026-11-22-stanislav-petrov",
+ "seri": "Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.08,
+ "kapak": [
+  "Ekranda 5",
+  "nükleer füze"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  5
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "ozet": "26 Eylül 1983 gecesi Serpukhov-15 erken uyarı merkezinde nöbetçi subay Stanislav Petrov, uydu sisteminin ABD'den beş füze fırlatıldığını gösterdiğini gördü. Bunu saldırı olarak bildirmesi Sovyet nükleer karşılığını tetikleyebilirdi ve karar için dakikaları vardı. Gerçek bir saldırının yüzlerce füzeyle olacağını düşünüp alarmı sistem arızası olarak bildirdi. Alarmın nedeni bulutlara yansıyan güneş ışığıydı; olay 1998'de duyuldu.",
+ "sahneler": [
+  {
+   "metin": "Sovyet uyarı ekranı Amerika'dan beş nükleer füze fırlatıldığını gösterdi.",
+   "etiket": "Serpukhov-15 · 26 Eylül 1983",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/fuze1.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Nöbetçi subay Stanislav Petrov'un karar için dakikaları vardı.",
+   "gorseller": [
+    {
+     "dosya": "img/petrov2.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    },
+    {
+     "kart": {
+      "ust": "karar süresi",
+      "ana": "Dakikalar",
+      "alt": "gece yarısı nöbet"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Saldırı diye bildirirse nükleer savaş başlayabilirdi.",
+   "gorseller": [
+    {
+     "dosya": "img/fuze2.jpg"
+    },
+    {
+     "kart": {
+      "ust": "saldırı diye bildirirse",
+      "ana": "Savaş",
+      "alt": "nükleer karşılık"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Petrov'a göre gerçek saldırı beş değil, yüzlerce füzeyle olurdu.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "ekranda yalnızca",
+      "ana": "Beş füze",
+      "alt": "gerçek saldırı yüzlerce olurdu"
+     }
+    },
+    {
+     "dosya": "img/petrov1.jpg",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "Alarmı sistem arızası olarak bildirdi.",
+   "gorseller": [
+    {
+     "kart": {
+      "ust": "Petrov'un raporu",
+      "ana": "Arıza",
+      "alt": "saldırı yok"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Haklıydı: uydular, bulutlardaki güneş yansımasını füze sanmıştı.",
+   "gorseller": [
+    {
+     "dosya": "img/bulut.jpg"
+    },
+    {
+     "dosya": "img/yorunge.jpg",
+     "duzen": "bulanik"
+    }
+   ]
+  },
+  {
+   "metin": "Dünya bunu 1998'de öğrendi.",
+   "gorseller": [
+    {
+     "dosya": "img/petrov1.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.5,
+      0.35
+     ]
+    }
+   ]
+  },
+  {
+   "metin": "O gece...",
+   "etiket": "Yarın: Osmanlı'ya teslim olan İngiliz ordusu",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  }
+ ],
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "eleven_muzik": {
+  "prompt": "Cold War bunker at midnight: steady electronic warning beeps, pulsing analog synth bass in E minor, cold metallic pads and a faint radar sweep texture, tension rising with a heartbeat-like low drum, a sudden stop of the alarm around the middle followed by a quiet, relieved but uneasy ambient synth drone that can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 4,
+   "ofset": 0.05,
+   "sure": 2.0,
+   "seviye": 0.55
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 5,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  }
+ ],
+ "efekt_seviye": 0,
+ "seo": {
+  "baslik": "Stanislav Petrov: Ekranda 5 Nükleer Füze #shorts",
+  "aciklama": "Sence Petrov kuralları çiğneyerek doğru mu yaptı, yoksa büyük bir kumar mı oynadı? Yorumlara yaz.\n\nStanislav Petrov olayı, 26 Eylül 1983: Serpukhov-15 erken uyarı merkezinde nöbetçi subay olan Stanislav Petrov, uydu sisteminin ABD'den önce bir, sonra dört füze daha fırlatıldığını gösterdiğini gördü. Gerçek bir ilk saldırının yüzlerce füzeyle yapılacağını düşünerek alarmı sistem arızası olarak bildirdi; alarmın nedeni uyduların yüksek bulutlardaki güneş yansımasını füze sanmasıydı. Dünyayı nükleer savaştan kurtaran yanlış alarm 1998'de duyuldu.\n\nSeri: Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler #5 – tüm bölümler oynatma listesinde\nYarın: Kut'ül Amare – Osmanlı'ya teslim olan İngiliz ordusu\n\nKaynaklar: Britannica, \"Stanislav Petrov\"; APS News, \"1983: Averting potential nuclear war\"\nGörseller: Queery-54, CC BY-SA 4.0; Z thomas, CC BY-SA 3.0, Wikimedia Commons; füze, uydu yörüngesi ve bulut görselleri: ABD Hava Kuvvetleri ve NASA, kamu malı, Wikimedia Commons. Harita: Natural Earth (kamu malı).\n\n#stanislavpetrov #soğuksavaş #nükleersavaş #savaştarihi #tarih",
+  "etiketler": [
+   "stanislav petrov",
+   "stanislav petrov olayı",
+   "stanislav petrov 1983",
+   "dünyayı kurtaran adam",
+   "yanlış alarm",
+   "nükleer savaş",
+   "soğuk savaş",
+   "1983 nükleer alarm",
+   "sovyetler birliği",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "britannica.com – Stanislav Petrov",
+   "aps.org – 1983: averting potential nuclear war"
+  ]
+ }
+}
