@@ -1,0 +1,133 @@
+{
+ "slug": "2026-11-23-kutul-amare",
+ "seri": "Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler",
+ "seri_rozet": "",
+ "duygu": "epik",
+ "tempo": 1.05,
+ "kapak": [
+  "İngilizler",
+  "para teklif etti"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  4
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "ozet": "Aralık 1915'ten itibaren General Townshend komutasındaki yaklaşık on üç bin kişilik İngiliz ordusu, Dicle kıyısındaki Kut'ül Amare'de Osmanlı ordusu tarafından kuşatıldı. Dışarıdan gönderilen İngiliz kurtarma birlikleri defalarca püskürtüldü ve kentte yiyecek tükendi. İngilizler, askerlerinin serbest bırakılması karşılığında Osmanlı'ya para teklif etti; Osmanlı yönetimi teklifi reddetti. 29 Nisan 1916'da İngiliz ordusu Halil Paşa'ya teslim oldu.",
+ "eleven_muzik": {
+  "prompt": "Proud desert siege victory theme on the banks of a great river: slow solemn bowed strings in A minor, a low muted brass pedal, a steady deep tapan-like drum heartbeat that slowly grows, a lonely kanun plucked melody in the middle, building to a restrained triumphant swell near the end and then settling into a calm sustained chord that can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 3,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 4,
+   "ofset": 0.05,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
+ ],
+ "efekt_seviye": 0,
+ "sahneler": [
+  {
+   "metin": "On üç bin kişilik İngiliz ordusu, Osmanlı'ya para teklif ederek kurtulmak istedi.",
+   "etiket": "Kut'ül Amare · Irak, 1916",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "dosya": "img/th2.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Osmanlı'nın aylardır kuşattığı Kut'ül Amare'de İngilizlerin yiyeceği tükeniyordu.",
+   "gorseller": [
+    {
+     "dosya": "img/kut.jpg"
+    },
+    {
+     "kart": {
+      "ust": "kuşatma",
+      "ana": "Beş ay",
+      "alt": "Aralık 1915 - Nisan 1916"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Kurtarmaya gelen her İngiliz birliği geri püskürtülmüştü.",
+   "gorseller": [
+    {
+     "dosya": "img/kusatma.jpg"
+    },
+    {
+     "dosya": "img/ordu6.png"
+    }
+   ]
+  },
+  {
+   "metin": "Osmanlı yönetimi bu teklifi kesin bir dille reddetti.",
+   "gorseller": [
+    {
+     "dosya": "img/mektup.jpg",
+     "duzen": "cerceve"
+    },
+    {
+     "kart": {
+      "ust": "İngiliz teklifi",
+      "ana": "Reddedildi",
+      "alt": "para karşılığı serbestlik"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "İngiliz ordusu, Osmanlı komutanı Halil Paşa'ya teslim oldu.",
+   "etiket": "29 Nisan 1916",
+   "gorseller": [
+    {
+     "dosya": "img/halil.jpg",
+     "duzen": "detay",
+     "odak": [
+      0.45,
+      0.25
+     ]
+    },
+    {
+     "dosya": "img/th1.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Ama tarihe geçen bu teslimden hemen önce...",
+   "etiket": "Yarın: Tarihin en güçlü bombası",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  }
+ ],
+ "seo": {}
+}
