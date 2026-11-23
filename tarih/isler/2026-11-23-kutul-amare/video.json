@@ -68,9 +68,8 @@
     },
     {
      "kart": {
-      "ust": "kuşatma",
-      "ana": "Beş ay",
-      "alt": "Aralık 1915 - Nisan 1916"
+      "ust": "kuşatma süresi",
+      "ana": "Beş ay"
      }
     }
    ]
@@ -108,11 +107,7 @@
    "gorseller": [
     {
      "dosya": "img/halil.jpg",
-     "duzen": "detay",
-     "odak": [
-      0.45,
-      0.25
-     ]
+     "duzen": "bulanik"
     },
     {
      "dosya": "img/th1.jpg"
@@ -129,5 +124,27 @@
    ]
   }
  ],
- "seo": {}
+ "seo": {
+  "baslik": "Kut'ül Amare: İngilizler Para Teklif Etti #shorts",
+  "aciklama": "Sence Kut'ül Amare zaferi okullarda Çanakkale kadar anlatılmalı mı? Yorumlara yaz.\n\nKut'ül Amare zaferi, 29 Nisan 1916: General Townshend komutasındaki yaklaşık on üç bin kişilik İngiliz ordusu, Dicle kıyısındaki Kut'ül Amare'de aylarca Osmanlı kuşatması altında kaldı. Kurtarma girişimleri püskürtülüp yiyecek tükenince İngilizler askerlerinin serbest bırakılması için para teklif etti; Osmanlı yönetimi teklifi reddetti ve İngiliz ordusu Halil Paşa'ya (Kut) teslim oldu. Halil Paşa bu zaferi Çanakkale'nin ardından gelen ikinci büyük zafer olarak duyurdu.\n\nSeri: Osmanlı ve Türk Savaş Tarihinden Bilinmeyenler #6 – tüm bölümler oynatma listesinde\nYarın: Çar Bombası – tarihin en güçlü patlaması\n\nKaynaklar: TRT Haber, \"Türk tarihinin destansı zaferi: Kut'ül Amare\" (Genelkurmay ATASE belgeleri); Wikipedia, \"Siege of Kut\"; Al Jazeera Türk, \"Kut 1916\" kronolojisi\nGörseller: Wikimedia Commons, kamu malı (Imperial War Museum, Le Miroir 1916, Osmanlı arşivi). Harita: Natural Earth (kamu malı).\n\n#kutülamare #halilpaşa #osmanlı #birincidünyasavaşı #savaştarihi",
+  "etiketler": [
+   "kut'ül amare",
+   "kut'ül amare zaferi",
+   "kut'ül amare zaferi halil paşa",
+   "halil paşa",
+   "halil kut",
+   "townshend",
+   "birinci dünya savaşı",
+   "osmanlı zaferleri",
+   "irak cephesi",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "trthaber.com – Türk tarihinin destansı zaferi: Kut'ül Amare",
+   "en.wikipedia.org – Siege of Kut",
+   "interactive.aljazeera.com – Kut 1916 timeline"
+  ],
+  "sabit_yorum": "Arşiv belgelerine göre Townshend önce bir milyon İngiliz lirası önerdi; Londra'dan gelen heyet teklifi iki milyona çıkardı ama Osmanlı yine kabul etmedi. Sence bu zafer neden Çanakkale kadar bilinmiyor? 👇"
+ }
 }

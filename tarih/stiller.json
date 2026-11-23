@@ -119,5 +119,16 @@
   "ilerleme": false,
   "tanecik": true,
   "vinyet": false
+ },
+ {
+  "slug": "2026-11-23-kutul-amare",
+  "font": "Bebas Neue",
+  "palet": "kor",
+  "ton": "solgun",
+  "konum": 720,
+  "grup": 3,
+  "ilerleme": true,
+  "tanecik": true,
+  "vinyet": true
  }
 ]
