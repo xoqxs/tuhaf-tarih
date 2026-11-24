@@ -1,0 +1,154 @@
+{
+ "slug": "2026-11-24-car-bombasi",
+ "seri": "Garip Silahlar ve Çılgın Projeler",
+ "seri_rozet": "",
+ "duygu": "gerilim",
+ "tempo": 1.08,
+ "kapak": [
+  "Sağ dönme şansı",
+  "yüzde elli"
+ ],
+ "vurgu_sahneleri": [
+  0,
+  3
+ ],
+ "ses": {
+  "voice_id": "t8fOU8zfPVWFYN34BllH",
+  "model": "eleven_v3"
+ },
+ "kapak_sure": 1.3,
+ "kuyruk": 0.25,
+ "ozet": "30 Ekim 1961'de Sovyetler Birliği, tarihin en güçlü bombası olan elli megatonluk Çar Bombası'nı Novaya Zemlya üzerinde test etti. Bombayı taşıyan Tu-95 uçağının mürettebatının sağ dönme şansı yaklaşık yüzde elli hesaplanmıştı. Uçağın uzaklaşabilmesi için bomba paraşütle yavaşlatıldı ve yerden yaklaşık dört kilometre yukarıda patladı. Şok dalgası uçağı sarsıp irtifa kaybettirdi ama pilot Durnovtsev kontrolü geri aldı ve indi; mantar bulutu altmış kilometreyi aştı.",
+ "eleven_muzik": {
+  "prompt": "Frozen Arctic test range at dawn: a vast cold low string drone in D minor with distant icy wind, a slow tense pulse of deep timpani that quickens like a falling countdown, high glassy harmonics creeping in, then one enormous low orchestral impact followed by a long, ringing, rumbling sub-bass swell that slowly fades into a calm sustained chord that can loop. Instrumental only, no vocals.",
+  "sure_ms": 34000
+ },
+ "sfx": [
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 0,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.4
+  },
+  {
+   "dosya": "sfx_whoosh.mp3",
+   "sahne": 2,
+   "ofset": 0.0,
+   "sure": 1.2,
+   "seviye": 0.38
+  },
+  {
+   "dosya": "sfx_darbe.mp3",
+   "sahne": 3,
+   "ofset": 0.05,
+   "sure": 2.0,
+   "seviye": 0.55
+  }
+ ],
+ "efekt_seviye": 0,
+ "sahneler": [
+  {
+   "metin": "Çar Bombası'nı uçaktan atacak mürettebatın sağ dönme şansı yüzde elli hesaplanmıştı.",
+   "etiket": "Novaya Zemlya · 1961",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    },
+    {
+     "kart": {
+      "ust": "hayatta kalma ihtimali",
+      "ana": "Yüzde elli"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Sovyetlerin denediği bu bomba, Hiroşima'ya atılanın binlerce katı güçlüydü.",
+   "gorseller": [
+    {
+     "dosya": "img/bulut.jpg"
+    },
+    {
+     "kart": {
+      "ust": "gücü",
+      "ana": "Elli megaton",
+      "alt": "Hiroşima'nın binlerce katı"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Uçak kaçabilsin diye bomba paraşütle yavaşlatıldı.",
+   "gorseller": [
+    {
+     "dosya": "img/tu95.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Bomba, yerden dört kilometre yukarıda patladı.",
+   "etiket": "30 Ekim 1961",
+   "gorseller": [
+    {
+     "dosya": "img/ates.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Şok dalgası uçağı sarstı ama pilot kontrolü geri aldı.",
+   "gorseller": [
+    {
+     "dosya": "img/tu95b.jpg"
+    }
+   ]
+  },
+  {
+   "metin": "Mantar bulutu altmış kilometre yükseldi.",
+   "gorseller": [
+    {
+     "dosya": "img/ates.jpg",
+     "duzen": "detay"
+    },
+    {
+     "kart": {
+      "ust": "mantar bulutu",
+      "ana": "60 km+",
+      "alt": "Everest'in yedi katı"
+     }
+    }
+   ]
+  },
+  {
+   "metin": "Oysa kalkıştan önce...",
+   "etiket": "Yarın: Mürettebatı kaybolan hayalet gemi",
+   "gorseller": [
+    {
+     "klip": "klip/k_harita.mp4"
+    }
+   ]
+  }
+ ],
+ "seo": {
+  "baslik": "Çar Bombası: Pilotlara Yüzde 50 Şans Verildi #shorts",
+  "aciklama": "Sence bu uçuşa gönüllü olur muydun? Yorumlara yaz.\n\nÇar Bombası patlaması, 30 Ekim 1961: Sovyetler Birliği'nin Novaya Zemlya üzerinde denediği elli megatonluk bomba, tarihin en güçlü patlamasıdır. Çar Bombası denemesinde bombayı taşıyan Tu-95 uçağının mürettebatının sağ dönme şansı yaklaşık yüzde elli hesaplanmıştı; bomba paraşütle yavaşlatıldı ve yerden yaklaşık dört kilometre yukarıda patladı. Şok dalgası uçağı sarstı ama pilot Andrey Durnovtsev uçağı güvenle indirdi; mantar bulutu altmış kilometreyi aştı.\n\nSeri: Garip Silahlar ve Çılgın Projeler #1 – tüm bölümler oynatma listesinde\nYarın: Mary Celeste – mürettebatı kaybolan hayalet gemi\n\nKaynaklar: Encyclopaedia Britannica, \"Tsar Bomba\"; National Museum of Nuclear Science & History (Atomic Heritage Foundation), \"Tsar Bomba\"; RFE/RL, \"Weapon Of Last Resort\"\nGörseller: Wikimedia Commons – Tu-95 fotoğrafları US Navy (kamu malı), patlama fotoğrafı (kamu malı), RDS-202 gövdesi: Croquant/Hex, CC BY-SA 3.0. Harita: Natural Earth (kamu malı).\n\n#çarbombası #tsarbomba #soğuksavaş #nükleerbomba #savaştarihi",
+  "etiketler": [
+   "çar bombası",
+   "çar bombası patlaması",
+   "çar bombası denemesi",
+   "çar bombası gücü",
+   "tsar bomba",
+   "tsar bombası",
+   "dünyanın en güçlü nükleer bombası",
+   "soğuk savaş",
+   "novaya zemlya",
+   "savaş tarihi",
+   "belgesellerim"
+  ],
+  "kaynaklar": [
+   "britannica.com – Tsar Bomba",
+   "ahf.nuclearmuseum.org – Tsar Bomba",
+   "rferl.org – Weapon Of Last Resort"
+  ]
+ }
+}

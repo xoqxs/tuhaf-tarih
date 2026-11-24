@@ -32,11 +32,11 @@ YouTube TR arama önerileri + arama sonuçlarındaki Shorts görüntülemeleri:
 - **Tutan başlık kalıpları (rakiplerde):** lakap + olay ("Çöl Kaplanı …"), "… nerede?", "… bulundu mu?", "X'i yenen …", "İki … de sağ çıkan adam", rakam + tek gece ("26 mayın, tek gece").
 
 ## ÖNCELİK SIRASI (havuzdan seçerken önce bunlar; oran ve seri kuralları geçerli)
-1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. ~~Valkür~~ 12. ~~Fatih gemileri karadan~~ 13. ~~Simo Häyhä~~ 14. ~~Stanislav Petrov~~ 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. ~~Malazgirt'te esir düşen imparator~~ 20. ~~Kut'ül Amare~~ 21. ~~Alcatraz'dan kaçış~~ 22. ~~Hitler neden İsviçre'ye saldırmadı?~~ 23. Çar Bombası (SIRADAKİ) 24. Cem Sultan 25. Kayıp Norfolk alayı
+1. ~~Fahrettin Paşa~~ 2. ~~Cengiz Han'ın mezarı~~ 3. ~~Tsutomu Yamaguchi~~ 4. ~~Napolyon ve tavşanlar~~ 5. ~~Seyit Onbaşı~~ 6. ~~Entebbe Baskını~~ 7. ~~Vasili Arhipov~~ 8. ~~Mincemeat~~ 9. ~~Nusret~~ 10. ~~Büyük Firar~~ 11. ~~Valkür~~ 12. ~~Fatih gemileri karadan~~ 13. ~~Simo Häyhä~~ 14. ~~Stanislav Petrov~~ 15. Desmond Doss 16. Viyana kuşatması neden başarısız oldu? 17. ~~Dyatlov Geçidi~~ 18. Hayalet Ordu 19. ~~Malazgirt'te esir düşen imparator~~ 20. ~~Kut'ül Amare~~ 21. ~~Alcatraz'dan kaçış~~ 22. ~~Hitler neden İsviçre'ye saldırmadı?~~ 23. ~~Çar Bombası~~ 24. Cem Sultan 25. Kayıp Norfolk alayı
 Savaş dışı seriler bu sıralamadan bağımsız, oranı korumak için araya girer.
 
 ## SIRADAKİ (ertesi günün konusu – her video bunu sonunda duyurur)
-- 2026-11-24: Çar Bombası: 30 Ekim 1961'de Sovyetler Birliği'nin Novaya Zemlya üzerinde patlattığı, tarihin en güçlü bombası (seri: Garip Silahlar ve Çılgın Projeler, E #1). Kut'ül Amare videosu ekranda 'Yarın: Tarihin en güçlü bombası' diye duyurdu. KISA FORMAT. Heyecan testi: ölüm kalım (bombayı atan uçağın mürettebatının kaçma şansı) + zaman baskısı (paraşütle yavaşlatılan düşüş, uçağın uzaklaşması için saniyeler). SEO: 'çar bombası', 'çar bombası patlaması', 'çar bombası gücü' (öneri listesinde var). Gücü (megaton), mantar bulutunun yüksekliği ve mürettebat ayrıntısını iki kaynakla doğrula; yıkım/kurban sansasyonu yok. Neden Doss/Hayalet Ordu değil: F serisi 7 günde 2 (Simo, Petrov), casusluk haftada 1 (Valkür).
+- 2026-11-25: Mary Celeste: 1872'de Atlantik'te sürüklenirken bulunan, mürettebatı iz bırakmadan kaybolmuş gemi (seri: Gizemler ve Çözülen Sırlar, K #3). Çar Bombası videosu ekranda 'Yarın: Mürettebatı kaybolan hayalet gemi' diye duyurdu. KISA FORMAT. Heyecan testi: gizem (mürettebat neden gemiyi terk etti, hâlâ çözülmedi) + ölüm kalım (on kişi açık denizde kayboldu). SEO: 'mary celeste', 'mary celeste gemisi', 'mary celeste olayı' (öneri listesinde var). Bulunduğu tarih, gemideki yiyecek/su, eksik filika ve kaptan ailesi ayrıntısını iki kaynakla doğrula; efsane eklemelerini (sıcak çay, yarım yemek) gerçek gibi anlatma. Neden savaş dışı: son 10 videonun 9'u savaş, oran ~3/10 savaş dışı ister; F 7 günde 2 dolu, casusluk haftada 1 dolu.
 
 ## Kanalda daha önce işlenmiş konular (TEKRAR YOK)
 Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icadı · Karasakal · patates cipsi · uçak çalan adam · Emu Savaşı · 38 dakikalık Zanzibar Savaşı · 1518 dans vebası · Pepsi'nin denizaltıları · Eyfel Kulesi'ni satan adam · koşu bandı · AK-47 · dondurma · espresso · Emily Rose · Mu kıtası · çöpteki bitcoin · Kola süper derin kuyusu · Boston pekmez seli · "ilk kitle imha silahı" · zorbalık · 1904 olimpiyat maratonu · Hiroo Onoda · Fahrettin Paşa · Cengiz Han'ın mezarı · Tsutomu Yamaguchi · Napolyon ve tavşanlar · Seyit Onbaşı · Entebbe Baskını · Vasili Arhipov · Dyatlov Geçidi · Mincemeat Operasyonu · Nusret · Büyük Firar (Stalag Luft III) · Fatih'in gemileri karadan yürütmesi · Alcatraz'dan kaçış · Hitler neden İsviçre'ye saldırmadı (Tannenbaum) · Malazgirt (Alparslan ve Romen Diyojen) · Simo Häyhä (Beyaz Ölüm) · Valkür (Hitler'e 20 Temmuz suikastı) · Stanislav Petrov (1983 yanlış alarm) · Kut'ül Amare (para teklifi ve teslim)
@@ -94,7 +94,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [ ] (SÖNÜK) Yarasa bombası projesi
 - [ ] (SÖNÜK) Güvercin Projesi: güvercinle yönlendirilen füze (B. F. Skinner)
 - [ ] Antonov A-40: Sovyetlerin uçan tankı
-- [ ] Çar Bombası: tarihin en güçlü patlaması (1961) (SIRADAKİ 2026-11-24)
+- [x] 2026-11-24 Çar Bombası: tarihin en güçlü patlaması (1961)
 - [ ] Starfish Prime: uzayda patlatılan nükleer bomba
 
 ## F. Savaştan Sağ Kurtulanlar ve İnanılmaz Askerler
@@ -158,7 +158,7 @@ Wojtek (savaşa katılan ayı) · Nyos Gölü · Neft Daşları · barutun icad�
 - [x] 2026-11-14 Dyatlov Geçidi ve 2021 çığ açıklaması
 - [ ] Somerton Adamı (Tamam Shud)
 - [ ] Antikythera düzeneği
-- [ ] Mary Celeste
+- [ ] Mary Celeste (SIRADAKİ 2026-11-25)
 - [ ] Piri Reis haritası: "Antarktika" iddiası ve gerçek
 
 ## L. Absürt Olaylar

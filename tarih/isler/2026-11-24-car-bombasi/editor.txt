@@ -1,0 +1,3 @@
+Editör: 1. tur DÜZELT (s2 deneme/Sovyet bağlamı yok, iki nokta; s6 "aştı" yükseklik mi genişlik mi) → "Sovyetlerin denediği bu bomba..." ve "altmış kilometre yükseldi"; s1 "hesaplanmıştı". 2. tur DÜZELT (kelime sayısı yanlış sayıldı: 51; editör 3. turda 50 olduğunu kabul etti) → s3 "bomba paraşütle yavaşlatıldı". 3. tur GEÇTİ (49 kelime).
+Geri anlatım 1. tur: s2 "Hiroşima'dakinin" kulakta duraksatıyor → "Hiroşima'ya atılanın".
+Geri anlatım: geçti (2. tur; özet olay özetiyle aynı, takılan cümle yok). Döngü doğal birleşiyor: evet.
